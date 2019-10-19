@@ -13,9 +13,11 @@ A curated list of awesome federated machine learning resources, including resear
 
 ## Papers
 ### Survey
+ * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885)
 
 ### System
-
+ * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), Keith Bonawitz et al., arXiv 2019
+ 
 ### Communication-Efficient
 
 ### Model Compression
