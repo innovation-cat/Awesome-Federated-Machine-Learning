@@ -26,7 +26,10 @@ A curated list of awesome federated machine learning resources, including resear
 ## Papers
 
 ### **Survey**
+ * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847) arXiv 6 Sep 2019
+ * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) arXiv 21 Aug 2019 
  * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885) ACM TIST 2018
+ 
 
 
 ### **System**
@@ -41,9 +44,15 @@ A curated list of awesome federated machine learning resources, including resear
 ### **Optimization**
 
 ### **Application**
+#### Language Model
+ * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
+ * [Applied federated learning: Improving google keyboard query suggestions](https://arxiv.org/abs/1812.02903), arXiv 2018
+ * [Federated Learning Of Out-Of-Vocabulary Words](https://arxiv.org/abs/1903.10635), arXiv 2018
 
+#### Healthcare
+ * [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/abs/1907.09173), arXiv 2019
 
-
+#### Computer Vision
 
 ## Open-Sources
  * [WeBank FederatedAI](https://github.com/FederatedAI/FATE)
