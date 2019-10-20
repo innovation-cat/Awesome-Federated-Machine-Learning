@@ -1,5 +1,5 @@
 # Awesome-Federated-Machine-Learning
-A curated list of awesome federated machine learning resources, including research papers, codes, tutorials, blogs and beyond
+A curated list of awesome federated machine learning resources, including research papers, tutorials, blogs and beyond
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ A curated list of awesome federated machine learning resources, including resear
  * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497), arXiv 2019
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146), ICML 2019
  
- 
+ 。
 ### **Application**
 #### 1. Language Model
  * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
@@ -62,8 +62,12 @@ A curated list of awesome federated machine learning resources, including resear
 
 #### 3. Computer Vision
 
+#### 4. Recommendation
+ * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888), arXiv 2019
+ * [Federated Meta-Learning for Recommendation](https://arxiv.org/abs/1802.07876), arXiv 2018
+ 
 ## Open-Sources
- * [WeBank FederatedAI](https://github.com/FederatedAI/FATE)
+ * [WeBank Federated AI Technology Enabler](https://github.com/FederatedAI/FATE)
  * [Google Tensorflow Federated](https://github.com/tensorflow/federated)
  * [OpenMined PySyft](https://github.com/OpenMined/PySyft)
  
