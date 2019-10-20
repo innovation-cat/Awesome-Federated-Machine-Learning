@@ -26,31 +26,6 @@ A curated list of awesome federated machine learning resources, including resear
  
 ## Papers
 
-### **Survey**
- * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv 6 Sep 2019
- * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), arXiv 21 Aug 2019 
- * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885), ACM TIST 2018
- 
-
-
-### **System**
- * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), SysML 2019
- * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017), arXiv 2018
- 
-
-### **Communication-Efficient**
- * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492), arXiv 2017
- * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), arXiv 2017
-
-### **Optimization**
- * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175), arXiv 2019
- * [cpSGD: Communication-efficient and differentially-private distributed SGD](https://arxiv.org/abs/1805.10559), NeurIPS 2018
- 
-### **Fairness**
- * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497), arXiv 2019
- * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146), ICML 2019
- 
- 。
 ### **Application**
 #### 1. Language Model
  * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
@@ -65,6 +40,32 @@ A curated list of awesome federated machine learning resources, including resear
 #### 4. Recommendation
  * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888), arXiv 2019
  * [Federated Meta-Learning for Recommendation](https://arxiv.org/abs/1802.07876), arXiv 2018
+
+### **Survey**
+ * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv 6 Sep 2019
+ * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), arXiv 21 Aug 2019 
+ * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885), ACM TIST 2018
+ 
+
+### **System**
+ * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), SysML 2019
+ * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017), arXiv 2018
+ 
+
+### **Communication-Efficient**
+ * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492), arXiv 2017
+ * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), arXiv 2017
+
+### **Optimization**
+ * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175), arXiv 2019
+ * [cpSGD: Communication-efficient and differentially-private distributed SGD](https://arxiv.org/abs/1805.10559), NeurIPS 2018
+ * [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527), arXiv 2016
+ 
+### **Fairness**
+ * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497), arXiv 2019
+ * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146), ICML 2019
+
+
  
 ## Open-Sources
  * [WeBank Federated AI Technology Enabler](https://github.com/FederatedAI/FATE)
