@@ -42,10 +42,15 @@ A curated list of awesome federated machine learning resources, including resear
  * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492), arXiv 2017
  * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), arXiv 2017
 
-### **Model Compression**
-
 ### **Optimization**
-
+ * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175), arXiv 2019
+ * [cpSGD: Communication-efficient and differentially-private distributed SGD](https://arxiv.org/abs/1805.10559), NeurIPS 2018
+ 
+### **Fairness**
+ * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497), arXiv 2019
+ * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146), ICML 2019
+ 
+ 
 ### **Application**
 #### 1. Language Model
  * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
