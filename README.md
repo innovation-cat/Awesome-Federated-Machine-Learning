@@ -21,23 +21,26 @@ A curated list of awesome federated machine learning resources, including resear
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI),   Cloudera Fast Forward Labs, DataWorks Summit 2019
  
 ## Tutorials
-
+ * [TensorFlow Federated Tutorial](https://www.tensorflow.org/federated)
+ * [OpenMined PySyft Tutorial](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
  
 ## Papers
 
 ### **Survey**
- * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847) arXiv 6 Sep 2019
- * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) arXiv 21 Aug 2019 
- * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885) ACM TIST 2018
+ * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv 6 Sep 2019
+ * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), arXiv 21 Aug 2019 
+ * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885), ACM TIST 2018
  
 
 
 ### **System**
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), SysML 2019
-
+ * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017), arXiv 2018
  
-### **Communication-Efficient**
 
+### **Communication-Efficient**
+ * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492), arXiv 2017
+ * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), arXiv 2017
 
 ### **Model Compression**
 
