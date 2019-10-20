@@ -44,15 +44,15 @@ A curated list of awesome federated machine learning resources, including resear
 ### **Optimization**
 
 ### **Application**
-#### Language Model
+#### 1. Language Model
  * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
  * [Applied federated learning: Improving google keyboard query suggestions](https://arxiv.org/abs/1812.02903), arXiv 2018
  * [Federated Learning Of Out-Of-Vocabulary Words](https://arxiv.org/abs/1903.10635), arXiv 2018
 
-#### Healthcare
+#### 2. Healthcare
  * [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/abs/1907.09173), arXiv 2019
 
-#### Computer Vision
+#### 3. Computer Vision
 
 ## Open-Sources
  * [WeBank FederatedAI](https://github.com/FederatedAI/FATE)
