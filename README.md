@@ -8,7 +8,6 @@ A curated list of awesome federated machine learning resources, including resear
  - [Tutorials](#tutorials)
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
- - [Datasets](#datasets)
  
 ## Blogs
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/),   Nvidia 2019
@@ -25,21 +24,6 @@ A curated list of awesome federated machine learning resources, including resear
  * [OpenMined PySyft Tutorial](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
  
 ## Papers
-
-### **Application**
-#### 1. Language Model
- * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
- * [Applied federated learning: Improving google keyboard query suggestions](https://arxiv.org/abs/1812.02903), arXiv 2018
- * [Federated Learning Of Out-Of-Vocabulary Words](https://arxiv.org/abs/1903.10635), arXiv 2018
-
-#### 2. Healthcare
- * [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/abs/1907.09173), arXiv 2019
-
-#### 3. Computer Vision
-
-#### 4. Recommendation
- * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888), arXiv 2019
- * [Federated Meta-Learning for Recommendation](https://arxiv.org/abs/1802.07876), arXiv 2018
 
 ### **Survey**
  * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv 6 Sep 2019
@@ -64,6 +48,22 @@ A curated list of awesome federated machine learning resources, including resear
 ### **Fairness**
  * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497), arXiv 2019
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146), ICML 2019
+ 
+### **Application**
+#### 1. Language Model
+ * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
+ * [Applied federated learning: Improving google keyboard query suggestions](https://arxiv.org/abs/1812.02903), arXiv 2018
+ * [Federated Learning Of Out-Of-Vocabulary Words](https://arxiv.org/abs/1903.10635), arXiv 2018
+
+#### 2. Healthcare
+ * [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/abs/1907.09173), arXiv 2019
+
+#### 3. Computer Vision
+
+#### 4. Recommendation
+ * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888), arXiv 2019
+ * [Federated Meta-Learning for Recommendation](https://arxiv.org/abs/1802.07876), arXiv 2018
+ 
 
 
  
@@ -72,4 +72,3 @@ A curated list of awesome federated machine learning resources, including resear
  * [Google Tensorflow Federated](https://github.com/tensorflow/federated)
  * [OpenMined PySyft](https://github.com/OpenMined/PySyft)
  
-## Datasets
