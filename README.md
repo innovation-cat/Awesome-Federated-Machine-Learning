@@ -26,8 +26,9 @@ A curated list of awesome federated machine learning resources, including resear
 ## Papers
 
 ### **Survey**
- * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv 6 Sep 2019
- * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), arXiv 21 Aug 2019 
+ * [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), arXiv Sep 2019
+ * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv Sep 2019
+ * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), arXiv Aug 2019 
  * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885), ACM TIST 2018
  
 
@@ -66,7 +67,6 @@ A curated list of awesome federated machine learning resources, including resear
  
 
 
- 
 ## Open-Sources
  * [WeBank Federated AI Technology Enabler](https://github.com/FederatedAI/FATE)
  * [Google Tensorflow Federated](https://github.com/tensorflow/federated)
