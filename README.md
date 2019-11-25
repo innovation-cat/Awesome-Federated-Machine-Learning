@@ -36,6 +36,10 @@ A curated list of awesome federated machine learning resources, including resear
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), SysML 2019
  * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017), arXiv 2018
  
+### **Adversrial**
+ * [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/abs/1811.12470), ICML 2019
+ * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459), arXiv 2018
+
 
 ### **Communication-Efficient**
  * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492), arXiv 2017
