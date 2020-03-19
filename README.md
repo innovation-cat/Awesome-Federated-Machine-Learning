@@ -4,16 +4,16 @@ A curated list of awesome federated machine learning resources, including resear
 ## Table of Contents
 
  - [Blogs](#blogs)
- - [Conferences & Workshops & Talks](#talks)
+ - [Conferences & Workshops & Talks](#Conferences & Workshops & Talks)
  - [Tutorials](#tutorials)
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
  
 ## Conferences & Workshops & Talks
- * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/)
- * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/)
- * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html)
- * [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home)
+ * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) Organized by IBM Watson Research and Webank.
+ * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) Organized by Google, Webank, NTU, CMU.
+ * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) Organized by Webank.
+ * [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home) Organized by Google.
  * [GDPR, Data Shortage and AI](https://vimeo.com/313941621), Qiang Yang, AAAI 2019 Invited Talk
  * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE),   Google, Google I/O 2019
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI),   Cloudera Fast Forward Labs, DataWorks Summit 2019
