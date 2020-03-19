@@ -1,14 +1,15 @@
 # Awesome Federated Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-A curated list of awesome federated machine learning resources, including research papers, conferences, blogs and beyond
+A curated list of awesome federated machine learning resources, including research papers, conferences, blogs and beyond.
 
-# Table of Contents
+
+## Table of Contents
 
  - [Conferences and Workshops and Talks](#conferences-and-workshops-and-talks)
  - [Blogs](#blogs)
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
  
-# Conferences and Workshops and Talks
+## Conferences and Workshops and Talks
  * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
  * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
  * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
@@ -17,12 +18,12 @@ A curated list of awesome federated machine learning resources, including resear
  * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - Google, Google I/O 2019
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
 
-# Blogs
+## Blogs
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
  * [Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
  * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
  
-# Papers
+## Papers
 
 ### **Survey**
  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - arXiv Dec 2019
@@ -85,11 +86,11 @@ A curated list of awesome federated machine learning resources, including resear
  
 
 
-# Open-Sources
+## Open-Sources
  * [WeBank Federated AI Technology Enabler](https://github.com/FederatedAI/FATE)
  * [Google Tensorflow Federated](https://github.com/tensorflow/federated)
  * [OpenMined PySyft](https://github.com/OpenMined/PySyft)
  * [Baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
  
 
-**[⬆ Return to top(#table-of-contents)**
+**[⬆ Return to top](#table-of-contents)**
