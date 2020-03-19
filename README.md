@@ -1,11 +1,10 @@
 # Awesome-Federated-Machine-Learning
-A curated list of awesome federated machine learning resources, including research papers, tutorials, blogs and beyond
+A curated list of awesome federated machine learning resources, including research papers, conferences, blogs and beyond
 
 ## Table of Contents
 
+ - [Conferences & Workshops & Talks](#Conferences-&-Workshops-&-Talks)
  - [Blogs](#blogs)
- - [Conferences & Workshops & Talks](#Conferences & Workshops & Talks)
- - [Tutorials](#tutorials)
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
  
@@ -26,7 +25,7 @@ A curated list of awesome federated machine learning resources, including resear
 ## Papers
 
 ### **Survey**
- * [Advances and Open Problems in Federated Learning] (https://arxiv.org/abs/1912.04977), arXiv Dec 2019
+ * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977), arXiv Dec 2019
  * [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), arXiv Sep 2019
  * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv Sep 2019
  * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), arXiv Aug 2019 
@@ -51,6 +50,7 @@ A curated list of awesome federated machine learning resources, including resear
 
 
 ### **Optimization**
+ * [Federated Learning with Matched Averaging](https://openreview.net/forum?id=BkluqlSFDS), ICLR 2020
  * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175), arXiv 2019
  * [cpSGD: Communication-efficient and differentially-private distributed SGD](https://arxiv.org/abs/1805.10559), NeurIPS 2018
  * [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527), arXiv 2016
