@@ -3,12 +3,12 @@ A curated list of awesome federated machine learning resources, including resear
 
 ## Table of Contents
 
- - [Conferences & Workshops & Talks](#conferences-&-workshops-&-talks)
+ - [Conferences and Workshops and Talks](#conferences-and-workshops-and-talks)
  - [Blogs](#blogs)
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
  
-## Conferences & Workshops & Talks
+## Conferences and Workshops and Talks
  * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
  * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
  * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
