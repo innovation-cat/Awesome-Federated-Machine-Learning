@@ -1,4 +1,4 @@
-# Awesome Federated Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Federated Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 A curated list of awesome federated machine learning resources, including research papers, conferences, blogs and beyond
 
 ## Table of Contents
@@ -89,4 +89,5 @@ A curated list of awesome federated machine learning resources, including resear
  * [WeBank Federated AI Technology Enabler](https://github.com/FederatedAI/FATE)
  * [Google Tensorflow Federated](https://github.com/tensorflow/federated)
  * [OpenMined PySyft](https://github.com/OpenMined/PySyft)
+ * [Baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
  
