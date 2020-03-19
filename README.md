@@ -4,46 +4,51 @@ A curated list of awesome federated machine learning resources, including resear
 ## Table of Contents
 
  - [Blogs](#blogs)
- - [Talks](#talks)
+ - [Conferences & Workshops & Talks](#talks)
  - [Tutorials](#tutorials)
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
  
+## Conferences & Workshops & Talks
+ * [FL-IBM 2020] (https://federated-learning.bitbucket.io/ibm2020/)
+ * [FL-NeurIPS 2019] (http://federated-learning.org/fl-neurips-2019/)
+ * [FL-IJCAI 2019] (https://www.ijcai19.org/workshops.html)
+ * [Google Federated Learning workshop] (https://sites.google.com/view/federated-learning-2019/home)
+ * [GDPR, Data Shortage and AI](https://vimeo.com/313941621), Qiang Yang, AAAI 2019 Invited Talk
+ * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE),   Google, Google I/O 2019
+ * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI),   Cloudera Fast Forward Labs, DataWorks Summit 2019
+
 ## Blogs
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/),   Nvidia 2019
  * [Federated Learning Comic](https://federated.withgoogle.com/),   Google 2019
  * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html),   Google AI Blog 2017
  
-## Talks
- * [GDPR, Data Shortage and AI](https://vimeo.com/313941621),   Qiang Yang, AAAI 2019 Invited Talk
- * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE),   Google, Google I/O 2019
- * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI),   Cloudera Fast Forward Labs, DataWorks Summit 2019
- 
-## Tutorials
- * [TensorFlow Federated Tutorial](https://www.tensorflow.org/federated)
- * [OpenMined PySyft Tutorial](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
- 
 ## Papers
 
 ### **Survey**
+ * [Advances and Open Problems in Federated Learning] (https://arxiv.org/abs/1912.04977), arXiv Dec 2019
  * [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), arXiv Sep 2019
  * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847), arXiv Sep 2019
  * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873), arXiv Aug 2019 
  * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885), ACM TIST 2018
  
 
-### **System**
+### **System Dssign**
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), SysML 2019
  * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017), arXiv 2018
+ * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017 （The first paper proposed federated learning concept）
  
-### **Adversrial**
+### **Adversrial Attack**
+ * [DBA: Distributed Backdoor Attacks against Federated Learning] (https://openreview.net/forum?id=rkgyS0VFvr), ICLR 2020
+ * [Can You Really Backdoor Federated Learning?] (https://arxiv.org/abs/1911.07963), arXiv Dec 2019
  * [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/abs/1811.12470), ICML 2019
  * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459), arXiv 2018
 
 
 ### **Communication-Efficient**
+ * [RPN: A Residual Pooling Network for Efficient Federated Learning] (https://arxiv.org/abs/2001.08600), ECAI 2020
  * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492), arXiv 2017
- * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), arXiv 2017
+
 
 ### **Optimization**
  * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175), arXiv 2019
@@ -55,19 +60,26 @@ A curated list of awesome federated machine learning resources, including resear
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146), ICML 2019
  
 ### **Application**
-#### 1. Language Model
+
+#### 1. Nature Language Processing
+ * [Federated Topic Modeling] (https://dl.acm.org/doi/10.1145/3357384.3357909), CIKM 2019
  * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604), arXiv 2019
  * [Applied federated learning: Improving google keyboard query suggestions](https://arxiv.org/abs/1812.02903), arXiv 2018
  * [Federated Learning Of Out-Of-Vocabulary Words](https://arxiv.org/abs/1903.10635), arXiv 2018
 
 #### 2. Healthcare
+ * [Privacy-preserving Federated Brain Tumour Segmentation] (https://arxiv.org/abs/1910.00962), MICCAI MLMI 2019
  * [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/abs/1907.09173), arXiv 2019
 
+
 #### 3. Computer Vision
+ * [FedVision: An Online Visual Object Detection Platform Powered by Federated Learning] (https://arxiv.org/abs/2001.06202), IAAI 2020
+
 
 #### 4. Recommendation
- * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888), arXiv 2019
- * [Federated Meta-Learning for Recommendation](https://arxiv.org/abs/1802.07876), arXiv 2018
+ * [Secure Federated Matrix Factorization] (https://arxiv.org/abs/1906.05108), arXiv 2019
+ * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System] (https://arxiv.org/abs/1901.09888), arXiv 2019
+ * [Federated Meta-Learning with Fast Convergence and Efficient Communication] (https://arxiv.org/abs/1802.07876), arXiv 2018
  
 
 
