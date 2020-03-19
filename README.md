@@ -1,4 +1,4 @@
-# Awesome-Federated-Machine-Learning
+# Awesome-Federated-Machine-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome federated machine learning resources, including research papers, conferences, blogs and beyond
 
 ## Table of Contents
