@@ -37,12 +37,17 @@ A curated list of awesome federated machine learning resources, including resear
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - SysML 2019
  * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) - arXiv 2018
  * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) - AISTATS 2017 （The first paper proposed federated learning concept）
- 
-### **Adversrial Attack**
+
+### **Security**
+
+#### 1. Attack
  * [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr) - ICLR 2020
  * [Can You Really Backdoor Federated Learning?](https://arxiv.org/abs/1911.07963) - arXiv Dec 2019
  * [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/abs/1811.12470) - ICML 2019
  * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459) - arXiv 2018
+
+#### 2. Denfense
+ * [A Little Is Enough: Circumventing Defenses For Distributed Learning](https://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf) - NeurIPS 2019	
 
 
 ### **Communication-Efficient**
@@ -83,6 +88,11 @@ A curated list of awesome federated machine learning resources, including resear
  * [Secure Federated Matrix Factorization](https://arxiv.org/abs/1906.05108) - arXiv 2019
  * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888) - arXiv 2019
  * [Federated Meta-Learning with Fast Convergence and Efficient Communication](https://arxiv.org/abs/1802.07876) - arXiv 2018
+ 
+ 
+#### 5. Blockchain
+
+ * [Blockchained On-Device Federated Learning](https://arxiv.org/abs/1808.03949) - IEEE Communications Letters 2019
  
 
 
