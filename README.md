@@ -49,6 +49,14 @@ A curated list of awesome federated machine learning resources, including resear
 #### 2. Denfense
  * [A Little Is Enough: Circumventing Defenses For Distributed Learning](https://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf) - NeurIPS 2019	
 
+#### 3. Federated Learning with DP
+ * [Federated Learning with Differential Privacy: Algorithms and Performance Analysis](https://arxiv.org/abs/1911.00222) - IEEE 2020
+ * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557v2) - arXiv 2018
+ * [Learning Differentially Private Recurrent Language Models ](https://openreview.net/pdf?id=BJ0hF1Z0b) - ICLR 2018
+ 
+#### 4. Federated Learning with HE
+ * [Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption](https://arxiv.org/abs/1711.10677) - arXiv 2017
+ 
 
 ### **Communication-Efficient**
  * [RPN: A Residual Pooling Network for Efficient Federated Learning](https://arxiv.org/abs/2001.08600) - ECAI 2020
