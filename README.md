@@ -5,29 +5,42 @@ A curated list of awesome federated machine learning resources, including resear
 
 ## Table of Contents
 
- - [Conferences and Workshops and Talks](#conferences-and-workshops-and-talks)
+ - [Talks and Tutorials](#talks-and-tutorials)
+ - [Conferences and Workshops](#conferences-and-workshops)
  - [Blogs](#blogs)
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
 
 
 
-## Conferences and Workshops and Talks
+## Talks and Tutorials
 
+ * [TensorFlow Federated (TFF): Machine Learning on Decentralized Data ](https://www.youtube.com/watch?v=1YbPmkChcbo) - Google, TF Dev Summit ‘19 2019
+
+ * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - Google, Google I/O 2019
+
+ * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
+
+ * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
+
+ * [Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU) - Google, 2018
+
+   
+
+## Conferences and Workshops
+
+ * [FL-ICML 2020](http://federated-learning.org/fl-icml-2020/) - Organized by IBM Watson Research.
  * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
  * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
  * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
  * [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
- * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
- * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - Google, Google I/O 2019
- * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
 
 
 
 ## Blogs
 
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
- * [Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
+ * [Online Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
  * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
 
 
