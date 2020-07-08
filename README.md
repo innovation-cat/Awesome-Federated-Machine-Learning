@@ -2,6 +2,7 @@
 A curated list of awesome federated machine learning resources, including research papers, conferences, blogs and beyond.
 
 
+
 ## Table of Contents
 
  - [Conferences and Workshops and Talks](#conferences-and-workshops-and-talks)
@@ -9,7 +10,10 @@ A curated list of awesome federated machine learning resources, including resear
  - [Papers](#papers)
  - [Open-Sources](#open-sources)
 
+
+
 ## Conferences and Workshops and Talks
+
  * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
  * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
  * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
@@ -18,12 +22,18 @@ A curated list of awesome federated machine learning resources, including resear
  * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - Google, Google I/O 2019
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
 
+
+
 ## Blogs
+
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
  * [Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
  * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
 
+
+
 ## Papers
+
 
 ### **Survey**
  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - arXiv Dec 2019
@@ -39,7 +49,6 @@ A curated list of awesome federated machine learning resources, including resear
  * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885) - ACM TIST 2018
 
    
-
 
 ### **System Dssign**
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - SysML 2019
@@ -108,6 +117,18 @@ A curated list of awesome federated machine learning resources, including resear
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) - ICML 2019
 
    
+
+### **Personalization**
+ * [Adaptive Personalized Federated Learning](https://arxiv.org/abs/2003.13461) - arXiv 2020
+
+ * [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619) - arXiv 2020
+
+ * [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/abs/2003.08673) - arXiv 2020
+
+ * [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/abs/2003.08673) - arXiv 2020
+
+   
+
 
 ### **Application**
 
