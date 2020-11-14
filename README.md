@@ -16,6 +16,8 @@ A curated list of awesome federated machine learning resources, including resear
 
 ## Top AI conferences
 
+
+In this section, we will summarize Federated Learning papers accepted by top AI conference, Including Neurips, ICML, ICLR.
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
 	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
