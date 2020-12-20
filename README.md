@@ -63,8 +63,8 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2006.04088">An Efficient Framework for Clustered Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">UC Berkeley</font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">UC Berkeley; DeepMind</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/jichan3751/ifca">Code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2020/file/ac450d10e166657ec8f93a1b65ca1b14-Paper.pdf">Distributionally Robust
@@ -127,6 +127,28 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/omarfoq/communication-in-cross-silo-fl">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">AISTATS 2020</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf">FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization</a></td>
+        <td class=xl6519452 align="center"><font size="2">UC Santa Barbara; UT Austin</font></td>
+        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf">How To Backdoor Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Cornell Tech</font></td>
+        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf">Federated Heavy Hitters Discovery with Differential Privacy</a></td>
+        <td class=xl6519452 align="center"><font size="2">RPI;<br>Google</font></td>
+        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf">Supplementary</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
 		<td class=xl6519452></td>
 		<td class=xl6519452></td>
