@@ -1,5 +1,11 @@
 # Awesome Federated Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-A curated list of awesome federated machine learning resources, including research papers, conferences, blogs and beyond.
+Federated Learning (FL) is a new machine learning framework, which enables multiple devices collaboratively to train a shared model without compromising data privacy and security.  
+
+<div align=center>
+<img width="700" src="images/cover.png" alt="FL"/>
+</div>
+
+This repository will continue to be collected and updated everything about federated learning materials, including research papers, conferences, blogs and beyond.
 
 
 
@@ -293,6 +299,138 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
 
 ## Papers
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Conferences</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>
+<tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Multi-Task Learning</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1903.03934.pdf">Federated Multi-Task Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Stanford<br>USC<br>CMU</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.06268.pdf">Variational Federated Multi-Task Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ETH Zurich</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Meta Learning</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2002.07948.pdf">Personalized Federated Learning: A Meta-Learning Approach</a></td>
+        <td class=xl6519452 align="center"><font size="2">MIT</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1909.12488.pdf">Improving Federated Learning Personalization via Model Agnostic Meta Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Washington; </br>Google</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a https://arxiv.org/pdf/1906.02717.pdf">Adaptive Gradient-Based Meta-Learning Methods</a></td>
+        <td class=xl6519452 align="center"><font size="2">CMU</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a https://arxiv.org/pdf/1906.02717.pdf">Federated Meta-Learning with Fast Convergence and Efficient Communication</a></td>
+        <td class=xl6519452 align="center"><font size="2">Huawei Noah’s Ark Lab</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Mixture of Global and Local Models</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2002.05516.pdf">Federated Learning of a Mixture of Global and Local Models</a></td>
+        <td class=xl6519452 align="center"><font size="2">KAUST</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1909.12535.pdf">Federated User Representation Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Michigan<br>Facebook</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.13461.pdff">Adaptive Personalized Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">The Pennsylvania State University</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center"> Personalization Layers</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1912.00818.pdf">Federated Learning with Personalization Layers</a></td>
+        <td class=xl6519452 align="center"><font size="2">Adobe Research<br>Indian Institute of Technology</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.01523.pdf">Think Locally, Act Globally: Federated Learning with Local and Global Representations</a></td>
+        <td class=xl6519452 align="center"><font size="2">CMU<br>University of Tokyo<br>Columbia University
+</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Transfer Learning</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1910.10252.pdf">Federated evaluation of on-device personalization</a></td>
+        <td class=xl6519452 align="center"><font size="2">Google</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2002.04758.pdf">Salvaging Federated Learning by Local Adaptation</a></td>
+        <td class=xl6519452 align="center"><font size="2">Cornell University</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1912.06733.pdf">Private Federated Learning with Domain Adaptation
+</a></td>
+        <td class=xl6519452 align="center"><font size="2">Oracle Labs</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1910.01991.pdf">Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints</a></td>
+        <td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2006.04088.pdf">An Efficient Framework for Clustered Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">UC Berkeley<br>DeepMind</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+</table>
+
+
 
 
 ### **Survey**
