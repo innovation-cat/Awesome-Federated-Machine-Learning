@@ -300,6 +300,25 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
 ## Papers
 
+### 1.  Personalization
+
+Personalized federated learning refers to train a model for each client, based on the client’s own dataset and the datasets of other clients. There are two major motivations for personalized federated learning：
+
+- Due to statistical heterogeneity across clients, a single global model would not be a good choice for all clients. Sometimes, the local models trained solely on their private data perform better than the global shared model.   
+- Different clients need models specifically customized to their own environment. As an example of model heterogeneity, consider the sentence: “I live in .....”. The next-word prediction task applied on this sentence needs to predict a different answer customized for each user. Different clients may assign different labels to the same data.
+
+
+
+Personalized federated learning Survey paper:
+
+- [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673.pdf)
+
+- [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/pdf/2002.10619.pdf)
+
+- [Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework](https://arxiv.org/pdf/2002.10671.pdf)
+
+  
+
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
 	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
@@ -433,7 +452,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
 
 
-### **Survey**
+### **2. Federated Learning Survey**
  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - arXiv Dec 2019
 
  * [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693)  - arXiv Apr 2020
@@ -448,7 +467,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
    
 
-### **System Dssign**
+### **3. System Design**
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - SysML 2019
 
  * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) - arXiv 2018
@@ -457,9 +476,9 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
    
 
-### **Security**
+### **4. Security**
 
-#### 1. Attack
+#### 4.1. Attack
  * [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr) - ICLR 2020
 
  * [Can You Really Backdoor Federated Learning?](https://arxiv.org/abs/1911.07963) - arXiv Dec 2019
@@ -470,12 +489,12 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
    
 
-#### 2. Denfense
+#### 4.2. Denfense
  * [A Little Is Enough: Circumventing Defenses For Distributed Learning](https://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf) - NeurIPS 2019	
 
    
 
-#### 3. Federated Learning with DP
+#### 4.3. Federated Learning with DP
  * [Federated Learning with Differential Privacy: Algorithms and Performance Analysis](https://arxiv.org/abs/1911.00222) - IEEE 2020
 
  * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557v2) - arXiv 2018
@@ -484,13 +503,13 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
    
 
-#### 4. Federated Learning with HE
+#### 4.4. Federated Learning with HE
  * [Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption](https://arxiv.org/abs/1711.10677) - arXiv 2017
 
    
 
 
-### **Communication-Efficient**
+### **5. Communication-Efficient**
  * [RPN: A Residual Pooling Network for Efficient Federated Learning](https://arxiv.org/abs/2001.08600) - ECAI 2020
 
  * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492) - arXiv 2017
@@ -498,7 +517,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
    
 
 
-### **Optimization**
+### **6. Optimization**
  * [Federated Learning with Matched Averaging](https://openreview.net/forum?id=BkluqlSFDS) - ICLR 2020
 
  * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175) - arXiv 2019
@@ -509,14 +528,14 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
    
 
-### **Fairness**
+### **7. Fairness**
  * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497) - arXiv 2019
 
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) - ICML 2019
 
    
 
-### **Personalization**
+### **8. Personalization**
  * [Adaptive Personalized Federated Learning](https://arxiv.org/abs/2003.13461) - arXiv 2020
 
  * [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619) - arXiv 2020
@@ -528,14 +547,14 @@ In this section, we will summarize Federated Learning papers accepted by top mac
    
 
 
-### **Application**
+### **9. Application**
 
-#### 1. Computer Vision
+#### 9.1. Computer Vision
  * [FedVision: An Online Visual Object Detection Platform Powered by Federated Learning](https://arxiv.org/abs/2001.06202) - IAAI 2020
 
    
 
-#### 2. Nature Language Processing
+#### 9.2. Nature Language Processing
  * [Federated Topic Modeling](https://dl.acm.org/doi/10.1145/3357384.3357909) - CIKM 2019
 
  * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604) - arXiv 2019
@@ -546,13 +565,13 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
    
 
-#### 3. Healthcare
+#### 9.3. Healthcare
  * [Privacy-preserving Federated Brain Tumour Segmentation](https://arxiv.org/abs/1910.00962) - MICCAI MLMI 2019
  * [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/abs/1907.09173) - arXiv 2019
 
 
 
-#### 4. Recommendation
+#### 9.4. Recommendation
  * [Secure Federated Matrix Factorization](https://arxiv.org/abs/1906.05108) - arXiv 2019
 
  * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888) - arXiv 2019
@@ -562,7 +581,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
    
 
 
-#### 5. Blockchain
+#### 9.5. Blockchain
 
  * [FedCoin: A Peer-to-Peer Payment System for Federated Learning](https://arxiv.org/abs/2002.11711) - arXiv Feb 2020
  * [Blockchained On-Device Federated Learning](https://arxiv.org/abs/1808.03949) - IEEE Communications Letters 2019
