@@ -12,6 +12,7 @@ This repository will continue to be collected and updated everything about feder
 ## Table of Contents
 
  - [Top Machine Learning conferences](#top-machine-learning-conferences)
+ - [Books](#Books)
  - [Talks and Tutorials](#talks-and-tutorials)
  - [Conferences and Workshops](#conferences-and-workshops)
  - [Blogs](#blogs)
@@ -38,7 +39,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.15pt'>
 		<td rowspan=10 height=190 class=xl6519452 style='height:242.25pt' align="center">ICLR 2021</td>
 		<td class=xl6519452 align="center"><a href="https://openreview.net/pdf?id=B7v4QMR6Z9w">Federated Learning Based on Dynamic Regularization</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"><font size="2">Boston University; ARM</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
@@ -48,43 +49,43 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.01264.pdf">HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"><font size="2">Duke University</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=Ogga20D2HO-">FedMix: Approximation of Mixup under Mean Augmented Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.05273.pdf">Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">CMU; Google</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/alshedivat/fedpa">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.00295.pdf">Adaptive Federated Optimization</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">Google</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/google-research/federated/tree/master/optimization">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=ehJqJQk9cw">Personalized Federated Learning with First Order Model Optimization</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"><font size="2">Stanford University; NVIDIA</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=6YEQUn0QICG">FedBN: Federated Learning on Non-IID Features via Local Batch Normalization</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">Princeton University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/med-air/FedBN">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2009.01974.pdf">FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"><font size="2">The Ohio State University</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=ce6CFXBh30h">Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/wyjeong/FedMatch">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -321,7 +322,17 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 </table>
 
 
+## Books
 
+- 联邦学习（Federated Learning）
+
+  [Chinese Version](https://item.jd.com/12649191.html)
+
+  [English Version](https://www.amazon.com/Federated-Learning-Synthesis-Artificial-Intelligence/dp/1681736977/ref=sr_1_1?dchild=1&keywords=federated+learning&qid=1617695403&sr=8-1)
+
+- 联邦学习实战（Practicing Federated Learning）
+
+  
 
 ## Talks and Tutorials
 
