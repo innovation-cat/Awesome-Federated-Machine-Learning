@@ -44,7 +44,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=jDdzh5ul-d">Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"><font size="2">The Ohio State University</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
@@ -320,6 +320,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"></td>
 	</tr>
 </table>
+
 
 
 ## Books
