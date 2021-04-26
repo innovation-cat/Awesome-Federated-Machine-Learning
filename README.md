@@ -333,6 +333,10 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
 - 联邦学习实战（Practicing Federated Learning）
 
+  [Chinese Version](https://item.jd.com/13206070.html)
+  
+  [Github](https://github.com/FederatedAI/Practicing-Federated-Learning)
+  
   
 
 ## Talks and Tutorials
