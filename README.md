@@ -518,9 +518,10 @@ Personalized federated learning Survey paper:
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2006.04088.pdf">An Efficient Framework for Clustered Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">UC Berkeley<br>DeepMind</font></td>
-        <td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/jichan3751/ifca">Code</a></td>
 	</tr>
 </table>
+
 
 
 
