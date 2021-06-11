@@ -37,6 +37,103 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
+		<td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center">ICML 2021</td>
+		<td class=xl6519452 align="center">Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix</td>
+        <td class=xl6519452 align="center"><font size="2">Harvard University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05001.pdf">FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Analysis</a></td>
+        <td class=xl6519452 align="center"><font size="2">Peking University; Yale University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.04628.pdf">Personalized Federated Learning using Hypernetworks</a></td>
+        <td class=xl6519452 align="center"><font size="2">Bar-Ilan University; NVIDIA Research</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/AvivSham/pFedHN">code</a><a href="https://avivsham.github.io/pfedhn/">materials</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.08474.pdf">Federated Composite Optimization</a></td>
+        <td class=xl6519452 align="center"><font size="2">Stanford University; Google</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/hongliny/FCO-ICML21">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Texas at Austin; University of Pennsylvania</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.10056.pdf">Data-Free Knowledge Distillation for Heterogeneous Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Michigan State University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/zhuangdizhu/FedGen">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.03196.pdf">Federated Continual Learning with Weighted Inter-client Transfer</a></td>
+        <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/wyjeong/FedWeIT">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.04635.pdf">Federated Deep AUC Maximization for Hetergeneous Data with a Constant Communication Complexity</a></td>
+        <td class=xl6519452 align="center"><font size="2">The University of Iowa</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.03198.pdf">Bias-Variance Reduced Local SGD for Less Heterogeneous Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">The University of Tokyo</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.08776.pdf">Federated Learning of User Verification Models Without Sharing Embeddings</a></td>
+        <td class=xl6519452 align="center"><font size="2">Qualcomm AI Research</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05883.pdf">Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Accenture</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/Accenture//Labs-Federated-Learning/tree/clustered_sampling">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.04221.pdf">Ditto: Fair and Robust Federated Learning Through Personalization</a></td>
+        <td class=xl6519452 align="center"><font size="2">CMU; Facebook</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00697.pdf">Heterogeneity for the Win: One-Shot Federated Clustering</a></td>
+        <td class=xl6519452 align="center"><font size="2">CMU</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/metastableB/kfed/">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.06387.pdf">The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation</a></td>
+        <td class=xl6519452 align="center"><font size="2">Google</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center">Debiasing Model Updates for Improving Personalized Federated Training</td>
+        <td class=xl6519452 align="center"><font size="2">Boston University; Arm Research</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.03228.pdf">One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Toyota Technological Institute of Chicago; University of California, Berkeley; Cornell University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center">CRFL: Certifiably Robust Federated Learning against Backdoor Attacks</td>
+        <td class=xl6519452 align="center"><font size="2">University of Illinois at Urbana-Champaign; IBM Research; Zhejiang University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center">Federated Learning under Arbitrary Communication Patterns</td>
+        <td class=xl6519452 align="center"><font size="2">Indiana University, Bloomington; Amazon</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
 		<td rowspan=10 height=190 class=xl6519452 style='height:242.25pt' align="center">ICLR 2021</td>
 		<td class=xl6519452 align="center"><a href="https://openreview.net/pdf?id=B7v4QMR6Z9w">Federated Learning Based on Dynamic Regularization</a></td>
         <td class=xl6519452 align="center"><font size="2">Boston University; ARM</font></td>
