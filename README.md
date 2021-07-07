@@ -40,9 +40,9 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 	<tr height=19 style='height:14.15pt'>
 		<td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center">ICML 2021</td>
-		<td class=xl6519452 align="center">Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2106.06089.pdf">Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix</a></td>
         <td class=xl6519452 align="center"><font size="2">Harvard University</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/gdisag/gradient_disaggregation">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05001.pdf">FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Analysis</a></td>
@@ -62,7 +62,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">University of Texas at Austin; University of Pennsylvania</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.10056.pdf">Data-Free Knowledge Distillation for Heterogeneous Federated Learning</a></td>
@@ -110,7 +110,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center">Debiasing Model Updates for Improving Personalized Federated Training</td>
+        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v139/acar21a/acar21a.pdf">Debiasing Model Updates for Improving Personalized Federated Training</a></td>
         <td class=xl6519452 align="center"><font size="2">Boston University; Arm Research</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
@@ -120,12 +120,12 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center">CRFL: Certifiably Robust Federated Learning against Backdoor Attacks</td>
+        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.08283.pdf">CRFL: Certifiably Robust Federated Learning against Backdoor Attacks</a></td>
         <td class=xl6519452 align="center"><font size="2">University of Illinois at Urbana-Champaign; IBM Research; Zhejiang University</font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/CRFL">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center">Federated Learning under Arbitrary Communication Patterns</td>
+        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://assets.amazon.science/11/23/3e0cfaf1456d80ecf3f37a2cd812/federated-learning-under-arbitrary-communication-patterns.pdf">Federated Learning under Arbitrary Communication Patterns</a></td>
         <td class=xl6519452 align="center"><font size="2">Indiana University, Bloomington; Amazon</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
@@ -415,7 +415,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 </table>
 
 ### Others
-	
+
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
 	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
