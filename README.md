@@ -13,10 +13,10 @@ This repository will continue to be collected and updated everything about feder
 
  - [Top Machine Learning conferences](#top-machine-learning-conferences)
  - [Books](#Books)
+ - [Papers](#papers)
  - [Talks and Tutorials](#talks-and-tutorials)
  - [Conferences and Workshops](#conferences-and-workshops)
  - [Blogs](#blogs)
- - [Papers](#papers)
  - [Open-Sources](#open-sources)
 
 
@@ -447,6 +447,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
 
 
+
 ## Books
 
 - 联邦学习（Federated Learning）
@@ -462,39 +463,6 @@ In this section, we will summarize Federated Learning papers accepted by top mac
   [Github](https://github.com/FederatedAI/Practicing-Federated-Learning)
   
   
-
-## Talks and Tutorials
-
- * [TensorFlow Federated (TFF): Machine Learning on Decentralized Data ](https://www.youtube.com/watch?v=1YbPmkChcbo) - Google, TF Dev Summit ‘19 2019
-
- * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - Google, Google I/O 2019
-
- * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
-
- * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
-
- * [Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU) - Google, 2018
-
-   
-
-## Conferences and Workshops
-
- * [FL-ICML 2020](http://federated-learning.org/fl-icml-2020/) - Organized by IBM Watson Research.
- * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
- * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
- * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
- * [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
-
-
-
-## Blogs
-
- * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
- * [Online Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
- * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
-
-
-
 ## Papers
 
 ### 1.  Personalization
@@ -648,9 +616,166 @@ Personalized federated learning Survey paper:
 
 
 
+### **2. Recommender system**
+
+Recommender system (RecSys) is widely used to solve information overload. In general, the more data RecSys use, the better the recommendation performance we can obtain. 
+
+Traditionally, RecSys requires the data that are distributed across multiple devices to be uploaded to the central database for model training. However, due to privacy and security concerns, such directly sharing user data strategies are no longer appropriate. 
+
+The incorporation of federated learning and RecSys is a promising approach, which can alleviate the risk of privacy leakage.
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Conferences</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>
+<tr height=19 style='height:14.25pt'>
+    	<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">Matrix Factorization</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1906.05108">Secure federated matrix factorization</a></td>
+        <td class=xl6519452 align="center">IEEE Intelligent Systems</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2004.04256">Federated Multi-view Matrix Factorization for Personalized Recommendations</a></td>
+        <td class=xl6519452 align="center">ECML-PKDD 2020</td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38932315/federated-multiview-matrix-factorization-for-personalized-recommendations">video</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://publicatio.bibl.u-szeged.hu/18455/1/all.pdf">Decentralized Recommendation Based on Matrix Factorization: A Comparison of Gossip and Federated Learning</a></td>
+        <td class=xl6519452 align="center">ECML-PKDD 2019</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://lirias.kuleuven.be/retrieve/540896">Towards Privacy-preserving Mobile Applications with Federated Learning: The Case of Matrix Factorization</a></td>
+        <td class=xl6519452 align="center">MobiSys 2019</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1910.10086">Meta Matrix Factorization for Federated Rating Predictions</a></td>
+        <td class=xl6519452 align="center">ACM SIGIR 2020</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/TempSDU/MetaMF">code</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1901.09888">Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">GNN</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2102.04925">FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+</table>
 
 
-### **2. Federated Learning Survey**
+### **3. Security**
+
+#### 3.1. Attack
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Conferences</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>
+<tr height=19 style='height:14.25pt'>
+    	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Backdoor Attack</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1906.05108">How To Backdoor Federated Learning</a></td>
+        <td class=xl6519452 align="center">AISTATS 2020</td>
+    	<td class=xl6519452 align="center"><a href="https://github.com/ebagdasa/backdoor_federated_learning">code</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1911.07963">Can You Really Backdoor Federated Learning?</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2020/file/b8ffa41d4e492f0fad2f13e29e1762eb-Paper.pdf">Attack of the Tails: Yes, You Really Can Backdoor Federated Learning</a></td>
+        <td class=xl6519452 align="center">NeurIPS 2020</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/ksreenivasan/OOD_Federated_Learning">code</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://lirias.kuleuven.be/retrieve/540896">DBA: Distributed Backdoor Attacks against Federated Learning</a></td>
+        <td class=xl6519452 align="center">ICLR 2020</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/DBA">code</a></td>
+    </tr>
+</table>
+
+
+
+#### 3.2. Denfense
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Conferences</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>
+<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Differential Privacy</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1911.00222">Federated Learning With Differential Privacy: Algorithms and Performance Analysis</a></td>
+        <td class=xl6519452 align="center">IEEE Transactions on Information Forensics and Security</td>
+    	<td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1712.07557">Differentially Private Federated Learning: A Client Level Perspective</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/SAP-samples/machine-learning-diff-private-federated-learning">code</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1710.06963">Learning Differentially Private Recurrent Language Models</a></td>
+        <td class=xl6519452 align="center">ICLR 2018</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Homomorphic Encryption</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1711.10677">Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf">A Little Is Enough: Circumventing Defenses For Distributed Learning</a></td>
+        <td class=xl6519452 align="center">NeurIPS 2019</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+</table>    
+
+
+
+### **4. Survey**
  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - arXiv Dec 2019
 
  * [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693)  - arXiv Apr 2020
@@ -665,7 +790,7 @@ Personalized federated learning Survey paper:
 
    
 
-### **3. System Design**
+### **5. System Design**
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - SysML 2019
 
  * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) - arXiv 2018
@@ -674,40 +799,8 @@ Personalized federated learning Survey paper:
 
    
 
-### **4. Security**
 
-#### 4.1. Attack
- * [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr) - ICLR 2020
-
- * [Can You Really Backdoor Federated Learning?](https://arxiv.org/abs/1911.07963) - arXiv Dec 2019
-
- * [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/abs/1811.12470) - ICML 2019
-
- * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459) - arXiv 2018
-
-   
-
-#### 4.2. Denfense
- * [A Little Is Enough: Circumventing Defenses For Distributed Learning](https://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf) - NeurIPS 2019	
-
-   
-
-#### 4.3. Federated Learning with DP
- * [Federated Learning with Differential Privacy: Algorithms and Performance Analysis](https://arxiv.org/abs/1911.00222) - IEEE 2020
-
- * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557v2) - arXiv 2018
-
- * [Learning Differentially Private Recurrent Language Models ](https://openreview.net/pdf?id=BJ0hF1Z0b) - ICLR 2018
-
-   
-
-#### 4.4. Federated Learning with HE
- * [Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption](https://arxiv.org/abs/1711.10677) - arXiv 2017
-
-   
-
-
-### **5. Communication-Efficient**
+### **6. Communication-Efficient**
  * [RPN: A Residual Pooling Network for Efficient Federated Learning](https://arxiv.org/abs/2001.08600) - ECAI 2020
 
  * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492) - arXiv 2017
@@ -715,7 +808,7 @@ Personalized federated learning Survey paper:
    
 
 
-### **6. Optimization**
+### **7. Optimization**
  * [Federated Learning with Matched Averaging](https://openreview.net/forum?id=BkluqlSFDS) - ICLR 2020
 
  * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175) - arXiv 2019
@@ -726,63 +819,132 @@ Personalized federated learning Survey paper:
 
    
 
-### **7. Fairness**
+### **8. Fairness**
  * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497) - arXiv 2019
 
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) - ICML 2019
 
    
 
-### **8. Personalization**
- * [Adaptive Personalized Federated Learning](https://arxiv.org/abs/2003.13461) - arXiv 2020
 
- * [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619) - arXiv 2020
 
- * [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/abs/2003.08673) - arXiv 2020
+### **9. Applications**
 
- * [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/abs/2003.08673) - arXiv 2020
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Applications</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Conferences</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Computer Vision</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2001.06202">FedVision: An Online Visual Object Detection Platform Powered by Federated Learning</a></td>
+        <td class=xl6519452 align="center">AAAI 2020</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/FederatedAI/FedVision">code</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Nature Language Processing</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://dl.acm.org/doi/10.1145/3357384.3357909">Federated Topic Modeling</a></td>
+        <td class=xl6519452 align="center">CIKM 2019</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1811.03604">Federated Learning for Mobile Keyboard Prediction</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1812.02903">Applied federated learning: Improving google keyboard query suggestions</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1903.10635">Federated Learning Of Out-Of-Vocabulary Words</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Healthcare</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1910.00962">Privacy-preserving Federated Brain Tumour Segmentation</a></td>
+        <td class=xl6519452 align="center">MICCAI MLMI 2019</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1907.09173">FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Blockchain</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2002.11711">FedCoin: A Peer-to-Peer Payment System for Federated Learning</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1808.03949">Blockchained On-Device Federated Learning</a></td>
+        <td class=xl6519452 align="center">IEEE Communications Letters 2019</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+</table>
+
+
+
+
+
+## Talks and Tutorials
+
+ * [TensorFlow Federated (TFF): Machine Learning on Decentralized Data ](https://www.youtube.com/watch?v=1YbPmkChcbo) - Google, TF Dev Summit ‘19 2019
+
+ * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - Google, Google I/O 2019
+
+ * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
+
+ * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
+
+ * [Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU) - Google, 2018
 
    
 
+## Conferences and Workshops
 
-### **9. Application**
-
-#### 9.1. Computer Vision
- * [FedVision: An Online Visual Object Detection Platform Powered by Federated Learning](https://arxiv.org/abs/2001.06202) - IAAI 2020
-
-   
-
-#### 9.2. Nature Language Processing
- * [Federated Topic Modeling](https://dl.acm.org/doi/10.1145/3357384.3357909) - CIKM 2019
-
- * [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604) - arXiv 2019
-
- * [Applied federated learning: Improving google keyboard query suggestions](https://arxiv.org/abs/1812.02903) - arXiv 2018
-
- * [Federated Learning Of Out-Of-Vocabulary Words](https://arxiv.org/abs/1903.10635) - arXiv 2018
-
-   
-
-#### 9.3. Healthcare
- * [Privacy-preserving Federated Brain Tumour Segmentation](https://arxiv.org/abs/1910.00962) - MICCAI MLMI 2019
- * [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/abs/1907.09173) - arXiv 2019
+ * [FL-ICML 2020](http://federated-learning.org/fl-icml-2020/) - Organized by IBM Watson Research.
+ * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
+ * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
+ * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
+ * [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
 
 
 
-#### 9.4. Recommendation
- * [Secure Federated Matrix Factorization](https://arxiv.org/abs/1906.05108) - arXiv 2019
+## Blogs
 
- * [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/abs/1901.09888) - arXiv 2019
-
- * [Federated Meta-Learning with Fast Convergence and Efficient Communication](https://arxiv.org/abs/1802.07876) - arXiv 2018
-
-   
+ * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
+ * [Online Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
+ * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
 
 
-#### 9.5. Blockchain
 
- * [FedCoin: A Peer-to-Peer Payment System for Federated Learning](https://arxiv.org/abs/2002.11711) - arXiv Feb 2020
- * [Blockchained On-Device Federated Learning](https://arxiv.org/abs/1808.03949) - IEEE Communications Letters 2019
 
 
 
