@@ -776,19 +776,85 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 
 ### **4. Survey**
- * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) - arXiv Dec 2019
 
- * [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693)  - arXiv Apr 2020
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=5 height=95 class=xl6519452 style='height:85.5pt' align="center">General</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1902.04885.pdf">Federated machine learning: Concept and applications</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1907.09693.pdf">A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1909.11875.pdf">Federated Learning in Mobile Edge Networks: A Comprehensive Survey</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1912.04977.pdf">Advances and Open Problems in Federated Learning</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1908.07873.pdf">Federated Learning: Challenges, Methods, and Future Directions</a></td>
+    </tr>
+    <tr height=25 style='height:14.25pt'>
+    	<td height=25 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Security</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.researchgate.net/publication/344611776_A_survey_on_security_and_privacy_of_federated_learning">A survey on security and privacy of federated learning</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2003.02133">Threats to Federated Learning: A Survey</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.semanticscholar.org/paper/Vulnerabilities-in-Federated-Learning-Bouacida-Mohapatra/4eb8c7023c57f76d5e2401c033e7e2769be03a79">Vulnerabilities in Federated Learning</a></td>
+    </tr>
+    <tr height=25 style='height:14.25pt'>
+    	<td height=25 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Personalization</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2003.08673">Survey of Personalization Techniques for Federated Learning</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2003.02133">Threats to Federated Learning: A Survey</a></td>
+    </tr>
+	<tr height=25 style='height:14.25pt'>
+    	<td height=25 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Aggregation</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2102.12920.pdf">Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning</a></td>
+    </tr>
+	<tr height=25 style='height:14.25pt'>
+    	<td height=25 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Incentive</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2106.15406.pdf">A Comprehensive Survey of Incentive Mechanism for Federated Learning</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://home.ustc.edu.cn/~yxjing/C2021/A%20Survey%20of%20Incentive%20Mechanism%20Design%20for%20Federated%20Learning.pdf">A Survey of Incentive Mechanism Design for Federated Learning</a></td>
+    </tr>
+	<tr height=25 style='height:14.25pt'>
+    	<td height=25 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Applications</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2104.10501">A Survey on Federated Learning and its Applications for Accelerating Industrial Internet of Things</a></td>
+    </tr>
+</table>
 
- * [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875) - arXiv Sep 2019
-
- * [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847) - arXiv Sep 2019
-
- * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873) - arXiv Aug 2019 
-
- * [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885) - ACM TIST 2018
-
-   
 
 ### **5. System Design**
  * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - SysML 2019
@@ -953,5 +1019,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
  * [Google Tensorflow Federated](https://github.com/tensorflow/federated)
  * [OpenMined PySyft](https://github.com/OpenMined/PySyft)
  * [Baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
+ * [FedML](https://github.com/FedML-AI/FedML)
+ * [OpenML](https://github.com/intel/openfl)
 
 **[⬆ Return to top](#table-of-contents)**
