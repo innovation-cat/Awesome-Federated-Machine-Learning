@@ -195,7 +195,10 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 </table>
 
+&nbsp; 
+
 ### ICLR
+
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
 	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
@@ -302,6 +305,8 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/lx10077/fedavgpy">Code</a></td>
 	</tr>
 </table>
+
+&nbsp; 
 
 ### NeurIPS
 <table border=0 cellpadding=0 cellspacing=0 >
@@ -413,6 +418,8 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/omarfoq/communication-in-cross-silo-fl">code</a></td>
 	</tr>
 </table>
+
+&nbsp; 
 
 ### Others
 
@@ -615,6 +622,7 @@ Personalized federated learning Survey paper:
 </table>
 
 
+&nbsp; 
 
 ### **2. Recommender system**
 
@@ -679,6 +687,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     </tr>
 </table>
 
+&nbsp; 
 
 ### **3. Security**
 
@@ -718,6 +727,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 </table>
 
 
+&nbsp; 
 
 #### 3.2. Denfense
 
@@ -773,7 +783,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     </tr>
 </table>    
 
-
+&nbsp; 
 
 ### **4. Survey**
 
@@ -855,23 +865,57 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     </tr>
 </table>
 
+&nbsp; 
 
 ### **5. System Design**
- * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - SysML 2019
 
- * [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) - arXiv 2018
-
- * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) - AISTATS 2017 （The first paper proposed federated learning concept）
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">System</td>
+		<td class=xl6519452 width="67%" align="center">Ppaer</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Tensorflow-Federated</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1902.01046">Towards Federated Learning at Scale: System Design</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">PySyft</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1811.04017">A generic framework for privacy preserving deep learning</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">FedML</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2007.13518">FedML: A Research Library and Benchmark for Federated Machine Learning</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">OpenFL</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2105.06413">OpenFL: An open-source framework for Federated Learning</a></td>
+    </tr>
+</table>
 
    
-
+&nbsp; 
 
 ### **6. Communication-Efficient**
  * [RPN: A Residual Pooling Network for Efficient Federated Learning](https://arxiv.org/abs/2001.08600) - ECAI 2020
 
  * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492) - arXiv 2017
 
-   
+&nbsp;   
 
 
 ### **7. Optimization**
@@ -883,7 +927,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
  * [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527) - arXiv 2016
 
-   
+&nbsp;   
 
 ### **8. Fairness**
  * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497) - arXiv 2019
@@ -891,7 +935,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) - ICML 2019
 
    
-
+&nbsp; 
 
 
 ### **9. Applications**
@@ -976,7 +1020,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 </table>
 
 
-
+&nbsp; 
 
 
 ## Talks and Tutorials
@@ -991,7 +1035,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
  * [Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU) - Google, 2018
 
-   
+&nbsp;  
 
 ## Conferences and Workshops
 
@@ -1001,7 +1045,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
  * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
  * [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
 
-
+&nbsp; 
 
 ## Blogs
 
@@ -1011,7 +1055,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 
 
-
+&nbsp; 
 
 
 ## Open-Sources
