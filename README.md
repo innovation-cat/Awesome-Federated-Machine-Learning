@@ -530,12 +530,12 @@ Personalized federated learning Survey paper:
         <td class=xl6519452 align="center"></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a https://arxiv.org/pdf/1906.02717.pdf">Adaptive Gradient-Based Meta-Learning Methods</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.02717.pdf">Adaptive Gradient-Based Meta-Learning Methods</a></td>
         <td class=xl6519452 align="center"><font size="2">CMU</font></td>
         <td class=xl6519452 align="center"></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a https://arxiv.org/pdf/1906.02717.pdf">Federated Meta-Learning with Fast Convergence and Efficient Communication</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.02717.pdf">Federated Meta-Learning with Fast Convergence and Efficient Communication</a></td>
         <td class=xl6519452 align="center"><font size="2">Huawei Noah’s Ark Lab</font></td>
         <td class=xl6519452 align="center"></td>
     </tr>
@@ -557,7 +557,7 @@ Personalized federated learning Survey paper:
         <td class=xl6519452 align="center"></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.13461.pdff">Adaptive Personalized Federated Learning</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.13461.pdf">Adaptive Personalized Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">The Pennsylvania State University</font></td>
         <td class=xl6519452 align="center"></td>
     </tr>
@@ -609,17 +609,24 @@ Personalized federated learning Survey paper:
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
+		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1910.01991.pdf">Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
-        <td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">Fraunhofer Heinrich Hertz Institute</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/felisat/clustered-federated-learning">Code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2006.04088.pdf">An Efficient Framework for Clustered Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">UC Berkeley<br>DeepMind</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/jichan3751/ifca">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.06629.pdf">Robust Federated Learning in a Heterogeneous
+Environment</a></td>
+        <td class=xl6519452 align="center"><font size="2">UC Berkeley</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
 </table>
+
 
 
 &nbsp; 
@@ -907,7 +914,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     </tr>
 </table>
 
-   
+
 &nbsp; 
 
 ### **6. Communication-Efficient**
@@ -935,6 +942,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) - ICML 2019
 
    
+
 &nbsp; 
 
 
