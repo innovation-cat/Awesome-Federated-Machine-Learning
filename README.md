@@ -12,6 +12,7 @@ This repository will continue to be collected and updated everything about feder
 ## Table of Contents
 
  - [Top Machine Learning conferences](#top-machine-learning-conferences)
+ - [Top Computer Vision conferences](#top-cv-conferences)
  - [Books](#Books)
  - [Papers](#papers)
  - [Talks and Tutorials](#talks-and-tutorials)
@@ -414,6 +415,40 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 </table>
 
+### Others
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>	
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">AISTATS 2020</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf">FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization</a></td>
+        <td class=xl6519452 align="center"><font size="2">UC Santa Barbara; UT Austin</font></td>
+        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf">How To Backdoor Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Cornell Tech</font></td>
+        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf">Federated Heavy Hitters Discovery with Differential Privacy</a></td>
+        <td class=xl6519452 align="center"><font size="2">RPI;<br>Google</font></td>
+        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf">Supplementary</a></td>
+	</tr>
+</table>
+
+## Top CV conferences
+In this section, we will summarize Federated Learning papers accepted by top computer vision conference, Including CVPR, ICCV, ECCV.
+
 ### CVPR 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
@@ -448,39 +483,6 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/jeremy313/Soteria">code</a></td>
 	</tr>
 </table>
-
-### Others
-
-<table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
-	</tr>	
-	<tr height=19 style='height:14.25pt'>
-		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">AISTATS 2020</td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf">FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization</a></td>
-        <td class=xl6519452 align="center"><font size="2">UC Santa Barbara; UT Austin</font></td>
-        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf">Supplementary</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf">How To Backdoor Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Cornell Tech</font></td>
-        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf">Supplementary</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf">Federated Heavy Hitters Discovery with Differential Privacy</a></td>
-        <td class=xl6519452 align="center"><font size="2">RPI;<br>Google</font></td>
-        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf">Supplementary</a></td>
-	</tr>
-</table>
-
-
 
 
 ## Books
@@ -656,8 +658,6 @@ Environment</a></td>
 </table>
 
 
-
-&nbsp; 
 
 ### **2. Recommender system**
 
