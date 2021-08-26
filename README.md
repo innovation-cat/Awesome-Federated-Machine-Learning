@@ -23,7 +23,6 @@ This repository will continue to be collected and updated everything about feder
 
 ## Top Machine Learning conferences
 
-
 In this section, we will summarize Federated Learning papers accepted by top machine learning conference, Including Neurips, ICML, ICLR.
 
 ### ICML 
@@ -195,8 +194,6 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 </table>
 
-&nbsp; 
-
 ### ICLR
 
 <table border=0 cellpadding=0 cellspacing=0 >
@@ -305,8 +302,6 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/lx10077/fedavgpy">Code</a></td>
 	</tr>
 </table>
-
-&nbsp; 
 
 ### NeurIPS
 <table border=0 cellpadding=0 cellspacing=0 >
@@ -419,7 +414,40 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 </table>
 
-&nbsp; 
+### CVPR 
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>	
+    <tr height=19 style='height:14.15pt'>
+		<td rowspan=4 height=76 class=xl6519452 style='height:242.25pt' align="center">CVPR 2021</td>
+		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2103.02148.pdf">Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Johns Hopkins University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/guopengf/FL-MRCM">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.16257.pdf">Model-Contrastive Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">National University of Singapore;<br>UC Berkeley</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/QinbinLi/MOON">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://github.com/liuquande/FedDG-ELCFS">FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space</a></td>
+        <td class=xl6519452 align="center"><font size="2">The Chinese University of Hong Kong</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/liuquande/FedDG-ELCFS">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.06043.pdf">Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective</a></td>
+        <td class=xl6519452 align="center"><font size="2"> Duke University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/jeremy313/Soteria">code</a></td>
+	</tr>
+</table>
 
 ### Others
 
