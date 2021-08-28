@@ -1033,7 +1033,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Automatic Speech Recognition </td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="file:///C:/Users/AIGroup%20Webank/Desktop/Mon-2-11-4.pdf">A Federated Approach in Training Acoustic Models</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.isca-speech.org/archive/pdfs/interspeech_2020/dimitriadis20_interspeech.pdf">A Federated Approach in Training Acoustic Models</a></td>
         <td class=xl6519452 align="center">MicroSoft (INTERSPEECH 2020)</td>
         <td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=YMRXBi8NbdM&ab_channel=KrishnaDN">Video</a></td>
     </tr>
