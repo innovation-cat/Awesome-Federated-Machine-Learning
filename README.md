@@ -989,13 +989,13 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Applications</td>
 		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Conferences</td>
+		<td class=xl6519452 width="23%" align="center">Company</td>
 		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Computer Vision</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2001.06202">FedVision: An Online Visual Object Detection Platform Powered by Federated Learning</a></td>
-        <td class=xl6519452 align="center">AAAI 2020</td>
+        <td class=xl6519452 align="center">WeBank (AAAI 2020)</td>
         <td class=xl6519452 align="center"><a href="https://github.com/FederatedAI/FedVision">code</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
@@ -1006,23 +1006,23 @@ Encryption for Cross-Silo Federated Learning</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
     	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Nature Language Processing</td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://dl.acm.org/doi/10.1145/3357384.3357909">Federated Topic Modeling</a></td>
-        <td class=xl6519452 align="center">CIKM 2019</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1906.04329.pdf">Federated learning for emoji prediction in a mobile keyboard</a></td>
+        <td class=xl6519452 align="center">Google</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1811.03604">Federated Learning for Mobile Keyboard Prediction</a></td>
-        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center">Google</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1812.02903">Applied federated learning: Improving google keyboard query suggestions</a></td>
-        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center">Google</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1903.10635">Federated Learning Of Out-Of-Vocabulary Words</a></td>
-        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center">Google</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
@@ -1032,15 +1032,47 @@ Encryption for Cross-Silo Federated Learning</a></td>
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Healthcare</td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1910.00962">Privacy-preserving Federated Brain Tumour Segmentation</a></td>
-        <td class=xl6519452 align="center">MICCAI MLMI 2019</td>
+    	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Automatic Speech Recognition </td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="file:///C:/Users/AIGroup%20Webank/Desktop/Mon-2-11-4.pdf">A Federated Approach in Training Acoustic Models</a></td>
+        <td class=xl6519452 align="center">MicroSoft (INTERSPEECH 2020)</td>
+        <td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=YMRXBi8NbdM&ab_channel=KrishnaDN">Video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1911.04913.pdf">Privacy-Preserving Adversarial Representation Learning in ASR: Reality or Illusion?</a></td>
+        <td class=xl6519452 align="center">INRIA (INTERSPEECH 2019)</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1907.09173">FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare</a></td>
-        <td class=xl6519452 align="center">Arxiv</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.15965.pdf">Training Speech Recognition Models with Federated Learning: A Quality/Cost Framework</a></td>
+        <td class=xl6519452 align="center">Google (ICASSP 2021)</td>
+        <td class=xl6519452 align="center"><a href="https://support.google.com/assistant/answer/10176224?hl=en#zippy=%2Chow-google-assistant-improves-with-federated-learning%2Cturn-on-federated-learning-for-the-hey-google-model%2Cturn-off-federated-learning-for-the-hey-google-model-delete-your-on-device-voice-recordings">Google Assistant Help</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1903.10635">Federated Evaluation and Tuning for On-Device Personalization: System Design \& Applications</a></td>
+        <td class=xl6519452 align="center">Apple</td>
+        <td class=xl6519452 align="center"><a href="https://syncedreview.com/2021/02/19/apple-reveals-design-of-its-on-device-ml-system-for-federated-evaluation-and-tuning/">Report</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Healthcare</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1910.00962">Privacy-preserving Federated Brain Tumour Segmentation</a></td>
+        <td class=xl6519452 align="center">NVIDIA (MICCAI MLMI 2019)</td>
         <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://blog.google/technology/health/google-health-studies-app/">Advancing health research with Google Health Studies</a></td>
+        <td class=xl6519452 align="center">Google</td>
+        <td class=xl6519452 align="center"><a herf="https://blog.google/technology/health/google-health-studies-app/">Blog</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1810.04304.pdf">Multi-institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation</a></td>
+        <td class=xl6519452 align="center">Intel</td>
+        <td class=xl6519452 align="center"><a herf="https://newsroom.intel.com/news/intel-works-university-pennsylvania-using-privacy-preserving-ai-identify-brain-tumors/#gs.9fo9sy">Blog</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -1060,6 +1092,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
         <td class=xl6519452 align="center"></td>
     </tr>
 </table>
+
 
 
 &nbsp; 
