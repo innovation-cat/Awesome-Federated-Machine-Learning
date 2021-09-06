@@ -15,6 +15,15 @@ This repository will continue to be collected and updated everything about feder
  - [Top Computer Vision conferences](#top-cv-conferences)
  - [Books](#Books)
  - [Papers](#papers)
+     > [Personalization](#1.-Personalization)
+     > [Recommender system](#2.-Recommender-system)
+	 > [Security](#3.-Security)
+	 > [Survey](#4.-Survey)
+	 > [System Architecture](#5.-System-Design)
+	 > [Efficiency](#6.-Communication-Efficient)
+	 > [Optimization](#7.-Optimization)
+	 > [Fairness](#8.-Fairness)
+	 > [Application](#9.-Applications)
  - [Talks and Tutorials](#talks-and-tutorials)
  - [Conferences and Workshops](#conferences-and-workshops)
  - [Blogs](#blogs)
@@ -522,7 +531,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
   
 ## Papers
 
-### 1.  Personalization
+### 1. Personalization
 
 Personalized federated learning refers to train a model for each client, based on the client’s own dataset and the datasets of other clients. There are two major motivations for personalized federated learning：
 
