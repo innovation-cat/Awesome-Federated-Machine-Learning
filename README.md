@@ -15,15 +15,15 @@ This repository will continue to be collected and updated everything about feder
  - [Top Computer Vision conferences](#top-cv-conferences)
  - [Books](#Books)
  - [Papers](#papers)
-     > [Personalization](#1-Personalization)<br>
-     > [Recommender system](#2-Recommender-system)<br>
-	 > [Security](#3-Security)<br>
-	 > [Survey](#4-Survey)<br>
-	 > [System Architecture](#5-System-Design)<br>
-	 > [Efficiency](#6-Communication-Efficient)<br>
-	 > [Optimization](#7-Optimization)<br>
-	 > [Fairness](#8-Fairness)<br>
-	 > [Application](#9-Applications)
+     + [Personalization](#1-Personalization)<br>
+     + [Recommender system](#2-Recommender-system)<br>
+	 + [Security](#3-Security)<br>
+	 + [Survey](#4-Survey)<br>
+	 + [System Architecture](#5-System-Design)<br>
+	 + [Efficiency](#6-Communication-Efficient)<br>
+	 + [Optimization](#7-Optimization)<br>
+	 + [Fairness](#8-Fairness)<br>
+	 + [Application](#9-Applications)
  - [Talks and Tutorials](#talks-and-tutorials)
  - [Conferences and Workshops](#conferences-and-workshops)
  - [Blogs](#blogs)
