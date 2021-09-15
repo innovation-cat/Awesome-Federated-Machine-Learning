@@ -944,37 +944,70 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">System</td>
-		<td class=xl6519452 width="67%" align="center">Ppaer</td>
+		<td height=19 class=xl6519452 width="10%" align="center">Project</td>
+		<td class=xl6519452 width="50%" align="center">Ppaer</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Affiliation</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Tensorflow-Federated</td>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://www.tensorflow.org/federated">Tensorflow-Federated</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1902.01046">Towards Federated Learning at Scale: System Design</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">Google</td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
-    	<td class=xl6519452></td>
-    </tr>
-    <tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">PySyft</td>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/OpenMined/PySyft">PySyft</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1811.04017">A generic framework for privacy preserving deep learning</a></td>
-    </tr>
-    <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
-    	<td class=xl6519452></td>
-    </tr>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">OpenMined</td>
+	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">FedML</td>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/FedML-AI/FedML">FedML</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2007.13518">FedML: A Research Library and Benchmark for Federated Machine Learning</a></td>
-    </tr>
-    <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
-    	<td class=xl6519452></td>
-    </tr>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedml.ai/">fedml.ai</a></td>
+	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">OpenFL</td>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/intel/openfl">OpenFL</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2105.06413">OpenFL: An open-source framework for Federated Learning</a></td>
-    </tr>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">Intel</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://developer.nvidia.com/clara">Clara</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">NVIDIA</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/IBM/federated-learning-lib">IBM Federated Learning</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2007.10987.pdf">IBM Federated Learning: an Enterprise Framework White Paper</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">IBM</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/FederatedAI/FATE">FATE</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedai.org/">WeBank</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/bytedance/fedlearner">Fedlearner</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">Bytedance</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/adap/flower">Flower</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.03042.pdf">Flower: A Friendly Federated Learning Research Framework</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://flower.dev/">flower.dev</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/PaddlePaddle/PaddleFL">PaddleFL</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">Baidu</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/TalwalkarLab/leaf">LEAF </a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1812.01097.pdf">LEAF: A Benchmark for Federated Settings</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://leaf.cmu.edu/">CMU</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/OpenMined/PyVertical">PyVertical </a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.00489.pdf">PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">OpenMined</td>
+	</tr>
 </table>
 
 
