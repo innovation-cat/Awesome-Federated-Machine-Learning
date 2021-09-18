@@ -793,7 +793,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 &nbsp; 
 
-#### 3.2. Denfense
+#### 3.2. Defense
 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
@@ -806,7 +806,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
 	</tr>
 <tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Differential Privacy</td>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">FL+DP</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1911.00222">Federated Learning With Differential Privacy: Algorithms and Performance Analysis</a></td>
         <td class=xl6519452 align="center">IEEE Transactions on Information Forensics and Security</td>
     	<td class=xl6519452 align="center"></td>
@@ -828,7 +828,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Homomorphic Encryption</td>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">FL+HE</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1711.10677">Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption</a></td>
         <td class=xl6519452 align="center">Arxiv</td>
         <td class=xl6519452 align="center"></td>
@@ -840,6 +840,23 @@ Encryption for Cross-Silo Federated Learning</a></td>
         <td class=xl6519452 align="center"><a href="https://github.com/marcoszh/BatchCrypt">code</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">FL+TEE</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.14380.pdf">PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments</a></td>
+        <td class=xl6519452 align="center">ACM MobiSys 2021</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2004.05703.pdf">Darknetz: towards model privacy at the edge using trusted execution environments.</a></td>
+        <td class=xl6519452 align="center">ACM MobiSys 2020</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/mofanv/darknetz">code</a><br><a href="https://www.youtube.com/watch?v=mEAlONq3MU4&ab_channel=ACMSIGMOBILEONLINE">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
     	<td class=xl6519452></td>
     	<td class=xl6519452></td>
@@ -1008,6 +1025,11 @@ Encryption for Cross-Silo Federated Learning</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.00489.pdf">PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center">OpenMined</td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/sherpaai/Sherpa.ai-Federated-Learning-Framework">Sherpa.ai Federated Learning </a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://developers.sherpa.ai/privacy-technology/overview">Sherpa.ai</a></td>
+	</tr>	
 </table>
 
 
