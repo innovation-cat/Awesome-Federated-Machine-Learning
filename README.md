@@ -15,15 +15,16 @@ This repository will continue to be collected and updated everything about feder
  - [Top Computer Vision conferences](#top-cv-conferences)
  - [Books](#Books)
  - [Papers](#papers)
-     + [Personalization](#1-Personalization)<br>
-     + [Recommender system](#2-Recommender-system)<br>
-	 + [Security](#3-Security)<br>
-	 + [Survey](#4-Survey)<br>
-	 + [System Architecture](#5-System-Design)<br>
-	 + [Efficiency](#6-Communication-Efficient)<br>
-	 + [Optimization](#7-Optimization)<br>
-	 + [Fairness](#8-Fairness)<br>
-	 + [Application](#9-Applications)
+     + [Model Aggregation](#1-Model-Aggregation)<br>
+	 + [Personalization](#2-Personalization)<br>
+     + [Recommender system](#3-Recommender-system)<br>
+	 + [Security](#4-Security)<br>
+	 + [Survey](#5-Survey)<br>
+	 + [System Architecture](#6-System-Design)<br>
+	 + [Efficiency](#7-Communication-Efficient)<br>
+	 + [Optimization](#8-Optimization)<br>
+	 + [Fairness](#9-Fairness)<br>
+	 + [Application](#10-Applications)
  - [Talks and Tutorials](#talks-and-tutorials)
  - [Conferences and Workshops](#conferences-and-workshops)
  - [Blogs](#blogs)
@@ -531,7 +532,80 @@ In this section, we will summarize Federated Learning papers accepted by top com
   
 ## Papers
 
-### 1. Personalization
+### 1. Model Aggregation
+
+Model Aggregation (or Model Fusion) refers to how to combine local models into a shared global model.  
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="60%" align="center">Title</td>
+		<td class=xl6519452 width="5%" align="center">Abbreviation</td>
+		<td class=xl6519452 width="20%" align="center">Conferences</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>	
+    <tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1602.05629.pdf">Communication-Efficient Learning of Deep Networks from Decentralized Data</a></td>
+		<td class=xl6519452 align="center">FedAvg</td>
+        <td class=xl6519452 align="center">ASTATS 2017</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1905.12022.pdf">Bayesian Nonparametric Federated Learning of Neural Networks</a></td>
+		<td class=xl6519452 align="center">PFNM</td>
+        <td class=xl6519452 align="center">ICML 2019</td>
+		<td class=xl6519452 align="center"><a href="https://github.com/IBM/probabilistic-federated-neural-matching">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf">Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent</a></td>
+		<td class=xl6519452 align="center">Krum</td>
+        <td class=xl6519452 align="center">NeurIPS 2017</td>
+		<td class=xl6519452 align="center"><a href="https://github.com/IBM/probabilistic-federated-neural-matching">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1803.01498.pdf">Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates</a></td>
+		<td class=xl6519452 align="center">Coordinate-wise median</td>
+        <td class=xl6519452 align="center">ICML 2018</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1805.10032.pdf">Zeno: Distributed Stochastic Gradient Descent with Suspicion-based Fault-tolerance</a></td>
+		<td class=xl6519452 align="center">Zeno </td>
+        <td class=xl6519452 align="center">ICML 2019</td>
+		<td class=xl6519452 align="center"><a href="https://github.com/xcgoner/icml2019_zeno">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1911.00218.pdf">Statistical Model Aggregation via Parameter Matching</a></td>
+		<td class=xl6519452 align="center">SPAHM</td>
+        <td class=xl6519452 align="center">	NeurIPS 2019</td>
+		<td class=xl6519452 align="center"><a href="https://github.com/IBM/SPAHM">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/2009.06303.pdf">Fed+: A Unified Approach to Robust Personalized Federated Learning</a></td>
+		<td class=xl6519452 align="center">Fed+</td>
+        <td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1812.06127.pdf">FEDERATED OPTIMIZATION IN HETEROGENEOUS NETWORKS</a></td>
+		<td class=xl6519452 align="center">FedProx</td>
+        <td class=xl6519452 align="center">MLSys 2020</td>
+		<td class=xl6519452 align="center"><a href="https://github.com/litian96/FedProx">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/2105.09400.pdf">Separation of Powers in Federated Learning</a></td>
+		<td class=xl6519452 align="center">Truda</td>
+        <td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+</table>
+
+&nbsp; 
+
+### 2. Personalization
 
 Personalized federated learning refers to train a model for each client, based on the client’s own dataset and the datasets of other clients. There are two major motivations for personalized federated learning：
 
@@ -686,9 +760,9 @@ Environment</a></td>
 	</tr>
 </table>
 
+&nbsp; 
 
-
-### **2. Recommender system**
+### **3. Recommender system**
 
 Recommender system (RecSys) is widely used to solve information overload. In general, the more data RecSys use, the better the recommendation performance we can obtain. 
 
@@ -753,9 +827,9 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 &nbsp; 
 
-### **3. Security**
+### **4. Security**
 
-#### 3.1. Attack
+#### 4.1. Attack
 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
@@ -793,7 +867,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 &nbsp; 
 
-#### 3.2. Defense
+#### 4.2. Defense
 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
@@ -872,7 +946,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 &nbsp; 
 
-### **4. Survey**
+### **5. Survey**
 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
@@ -954,7 +1028,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 &nbsp; 
 
-### **5. System Design**
+### **6. System Design**
 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
@@ -962,7 +1036,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="10%" align="center">Project</td>
-		<td class=xl6519452 width="50%" align="center">Ppaer</td>
+		<td class=xl6519452 width="50%" align="center">Paper</td>
 		<td height=19 class=xl6519452 width="5%" align="center">Affiliation</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
@@ -1035,7 +1109,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 &nbsp; 
 
-### **6. Communication-Efficient**
+### **7. Communication-Efficient**
  * [RPN: A Residual Pooling Network for Efficient Federated Learning](https://arxiv.org/abs/2001.08600) - ECAI 2020
 
  * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492) - arXiv 2017
@@ -1043,7 +1117,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 &nbsp;   
 
 
-### **7. Optimization**
+### **8. Optimization**
  * [Federated Learning with Matched Averaging](https://openreview.net/forum?id=BkluqlSFDS) - ICLR 2020
 
  * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175) - arXiv 2019
@@ -1054,7 +1128,9 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 &nbsp;   
 
-### **8. Fairness**
+### **9. Fairness**
+ * [Mitigating Bias in Federated Learning](https://arxiv.org/pdf/2012.02447.pdf)
+ 
  * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497) - arXiv 2019
 
  * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) - ICML 2019
@@ -1064,7 +1140,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 &nbsp; 
 
 
-### **9. Applications**
+### **10. Applications**
 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
