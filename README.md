@@ -514,6 +514,31 @@ In this section, we will summarize Federated Learning papers accepted by top com
 	</tr>
 </table>
 
+### ICCV 
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>	
+    <tr height=19 style='height:14.15pt'>
+		<td rowspan=2 height=38 class=xl6519452 style='height:242.25pt' align="center">ICCV 2021</td>
+		<td class=xl6519452 align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf">Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment</a></td>
+        <td class=xl6519452 align="center"><font size="2">Peking University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf">Ensemble Attention Distillation for Privacy-Preserving Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">University at Buffalo</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+</table>
+
 
 ## Books
 
