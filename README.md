@@ -12,7 +12,9 @@ This repository will continue to be collected and updated everything about feder
 ## Table of Contents
 
  - [Top Machine Learning conferences](#top-machine-learning-conferences)
+     + [ICML](#ICML)    [ICLR](#ICLR)    [NeurIPS](#NeurIPS)   
  - [Top Computer Vision conferences](#top-cv-conferences)
+     + [CVPR](#CVPR)    [ICCV](#ICCV)    [ECCV](#ECCV)   
  - [Books](#Books)
  - [Papers](#papers)
      + [Model Aggregation](#1-Model-Aggregation)<br>
