@@ -590,11 +590,23 @@ Model Aggregation (or Model Fusion) refers to how to combine local models into a
 		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf">Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent</a></td>
 		<td class=xl6519452 align="center">Krum</td>
         <td class=xl6519452 align="center">NeurIPS 2017</td>
-		<td class=xl6519452 align="center"><a href="https://github.com/IBM/probabilistic-federated-neural-matching">code</a></td>
+		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
 		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1803.01498.pdf">Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates</a></td>
-		<td class=xl6519452 align="center">Coordinate-wise median</td>
+		<td class=xl6519452 align="center">median;<br>trimmed mean</td>
+        <td class=xl6519452 align="center">ICML 2018</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1906.01736.pdf">Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms</a></td>
+		<td class=xl6519452 align="center">median;<br>mean</td>
+        <td class=xl6519452 align="center">NeurIPS 2020</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="http://proceedings.mlr.press/v80/mhamdi18a/mhamdi18a.pdf">The hidden vulnerability of distributed learning in byzantium</a></td>
+		<td class=xl6519452 align="center">Bulyan</td>
         <td class=xl6519452 align="center">ICML 2018</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
