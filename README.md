@@ -1326,6 +1326,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
  * [Online Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
  * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
+ * [Go Federated with OpenFL](https://medium.com/@igor.davidyuk_98364/go-federated-with-openfl-8bc145a5ead1) - Intel 2021
 
 
 
@@ -1338,6 +1339,6 @@ Encryption for Cross-Silo Federated Learning</a></td>
  * [OpenMined PySyft](https://github.com/OpenMined/PySyft)
  * [Baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
  * [FedML](https://github.com/FedML-AI/FedML)
- * [OpenML](https://github.com/intel/openfl)
+ * [OpenFL](https://github.com/intel/openfl)
 
 **[⬆ Return to top](#table-of-contents)**
