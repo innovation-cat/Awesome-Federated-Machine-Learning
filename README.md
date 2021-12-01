@@ -15,6 +15,8 @@ This repository will continue to be collected and updated everything about feder
      + [ICML](#ICML)&emsp;[ICLR](#ICLR)&emsp;[NeurIPS](#NeurIPS)   
  - [Top Computer Vision conferences](#top-cv-conferences)
      + [CVPR](#CVPR)&emsp;[ICCV](#ICCV)&emsp;[ECCV](#ECCV)   
+ - [Top Artificial Intelligence conferences](#top-cv-conferences)
+     + [AAAI](#AAAI)&emsp;[AISTATS](#AISTATS)  	 
  - [Books](#Books)
  - [Papers](#papers)
      + [Model Aggregation](#1-Model-Aggregation)<br>
@@ -36,7 +38,7 @@ This repository will continue to be collected and updated everything about feder
 
 ## Top Machine Learning conferences
 
-In this section, we will summarize Federated Learning papers accepted by top machine learning conference, Including Neurips, ICML, ICLR.
+In this section, we will summarize Federated Learning papers accepted by top machine learning conference, Including NeurIPS, ICML, ICLR.
 
 ### ICML 
 <table border=0 cellpadding=0 cellspacing=0 >
@@ -51,7 +53,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center">ICML 2021</td>
+        <td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center"><a href="https://icml.cc/Conferences/2021/Schedule?type=Poster">ICML 2021</a></td>
         <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2106.06089.pdf">Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix</a></td>
         <td class=xl6519452 align="center"><font size="2">Harvard University</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/gdisag/gradient_disaggregation">code</a></td>
@@ -148,7 +150,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">ICML 2020</td>
+        <td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center"><a href="https://icml.cc/Conferences/2020/Schedule?type=Poster">ICML 2020</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf">FedBoost: A Communication-Efficient Algorithm for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Google Research</font></td>
         <td class=xl6519452 align="center"><a href="https://slideslive.com/38928463/fedboost-a-communicationefficient-algorithm-for-federated-learning?ref=speaker-16993-latest">Video</a></td>
@@ -190,7 +192,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">ICML 2019</td>
+        <td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center"><a href="https://icml.cc/Conferences/2019/Schedule?type=Poster">ICML 2019</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1905.12022.pdf">Bayesian Nonparametric Federated Learning of Neural Networks</a></td>
         <td class=xl6519452 align="center"><font size="2">IBM Research</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/IBM/probabilistic-federated-neural-matching">Code</a></td>
@@ -206,6 +208,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"></td>
 	</tr>
 </table>
+
 
 ### ICLR
 
@@ -600,36 +603,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 </table>
 
 
-### Others
 
-<table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
-	</tr>	
-	<tr height=19 style='height:14.25pt'>
-		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">AISTATS 2020</td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf">FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization</a></td>
-        <td class=xl6519452 align="center"><font size="2">UC Santa Barbara; UT Austin</font></td>
-        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf">Supplementary</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf">How To Backdoor Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Cornell Tech</font></td>
-        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf">Supplementary</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf">Federated Heavy Hitters Discovery with Differential Privacy</a></td>
-        <td class=xl6519452 align="center"><font size="2">RPI;<br>Google</font></td>
-        <td class=xl6519452 align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf">Supplementary</a></td>
-	</tr>
-</table>
 
 ## Top CV conferences
 In this section, we will summarize Federated Learning papers accepted by top computer vision conference, Including CVPR, ICCV, ECCV.
@@ -713,6 +687,91 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 align="center"></td>
 	</tr>
 </table>
+
+
+
+
+## Top Artificial Intelligence conferences
+
+In this section, we will summarize Federated Learning papers accepted by top AI conference, Including AAAI, AISTATS.
+
+### AAAI
+
+To be continued.
+
+### AISTATS
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>	
+	<tr height=19 style='height:14.25pt'>
+        <td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center"><a href="http://proceedings.mlr.press/v130/">AISTATS 2021</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v130/fraboni21a/fraboni21a.pdf">Free-rider Attacks on Model Aggregation in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Accenture Labs</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/27640">video</a><br><a href="http://proceedings.mlr.press/v130/fraboni21a/fraboni21a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/zheng21a/zheng21a.pdf">Federated f-differential privacy</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Pennsylvania</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/enosair/federated-fdp">code</a><br><a href="https://papertalk.org/papertalks/27595">video</a><br><a href="http://proceedings.mlr.press/v130/zheng21a/zheng21a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a.pdf">Federated learning with compression: Unified analysis and sharp guarantees</a></td>
+        <td class=xl6519452 align="center"><font size="2">The Pennsylvania State University;<br>The University of Texas at Austin</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/MLOPTPSU/FedTorch">code</a><br><a href="https://papertalk.org/papertalks/27584">video</a><br><a href="http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/girgis21a/girgis21a.pdf">Shuffled Model of Differential Privacy in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">UCLA;<br>Google</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/27565">video</a><br><a href="http://proceedings.mlr.press/v130/girgis21a/girgis21a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/charles21a/charles21a.pdf">Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Google</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/27559">video</a><br><a href="http://proceedings.mlr.press/v130/charles21a/charles21a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/shi21c/shi21c.pdf">Federated Multi-armed Bandits with Personalization</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Virginia;<br>The Pennsylvania State University</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/ShenGroup/PF_MAB">code</a><br><a href="https://papertalk.org/papertalks/27521">video</a><br><a href="http://proceedings.mlr.press/v130/shi21c/shi21c-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/ruan21a/ruan21a.pdf">Towards Flexible Device Participation in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">CMU;<br> Sun Yat-Sen University</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/27467">video</a><br><a href="http://proceedings.mlr.press/v130/ruan21a/ruan21a-supp.pdf">Supplementary</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+        <td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center"><a href="http://proceedings.mlr.press/v108/">AISTATS 2020</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf">FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization</a></td>
+        <td class=xl6519452 align="center"><font size="2">UC Santa Barbara;<br> UT Austin</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/7961">video</a><br><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf">How To Backdoor Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Cornell Tech</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/8046">video</a><br><a href="https://github.com/ebagdasa/backdoor_federated_learning">code</a><br><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf">Supplementary</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf">Federated Heavy Hitters Discovery with Differential Privacy</a></td>
+        <td class=xl6519452 align="center"><font size="2">RPI;<br>Google</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/8129">video</a><br><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf">Supplementary</a></td>
+	</tr>
+</table>
+
 
 
 ## Books
