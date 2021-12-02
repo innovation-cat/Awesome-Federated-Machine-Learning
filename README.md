@@ -13,10 +13,10 @@ This repository will continue to be collected and updated everything about feder
 
  - [Top Machine Learning conferences](#top-machine-learning-conferences)
      + [ICML](#ICML)&emsp;[ICLR](#ICLR)&emsp;[NeurIPS](#NeurIPS)   
- - [Top Computer Vision conferences](#top-cv-conferences)
+ - [Top Computer Vision conferences](#top-comuter-vision-conferences)
      + [CVPR](#CVPR)&emsp;[ICCV](#ICCV)&emsp;[ECCV](#ECCV)   
- - [Top Artificial Intelligence conferences](#top-cv-conferences)
-     + [AAAI](#AAAI)&emsp;[AISTATS](#AISTATS)  	 
+ - [Top Artificial Intelligence and Data Mining conferences](#top-artificial-intelligence-and-data-mining-conferences)
+     + [AAAI](#AAAI)&emsp;[AISTATS](#AISTATS)&emsp;[KDD](#KDD) 	 
  - [Books](#Books)
  - [Papers](#papers)
      + [Model Aggregation](#1-Model-Aggregation)<br>
@@ -605,7 +605,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
 
 
-## Top CV conferences
+## Top Computer Vision conferences
 In this section, we will summarize Federated Learning papers accepted by top computer vision conference, Including CVPR, ICCV, ECCV.
 
 ### CVPR 
@@ -690,10 +690,9 @@ In this section, we will summarize Federated Learning papers accepted by top com
 
 
 
+## Top Artificial Intelligence and Data Mining conferences
 
-## Top Artificial Intelligence conferences
-
-In this section, we will summarize Federated Learning papers accepted by top AI conference, Including AAAI, AISTATS.
+In this section, we will summarize Federated Learning papers accepted by top AI and DM conference, Including AAAI, AISTATS, KDD.
 
 ### AAAI
 
@@ -884,6 +883,76 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf">Federated Heavy Hitters Discovery with Differential Privacy</a></td>
         <td class=xl6519452 align="center"><font size="2">RPI;<br>Google</font></td>
         <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/8129">video</a><br><a href="http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf">Supplementary</a></td>
+	</tr>
+</table>
+
+
+### KDD
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
+        <td height=19 class=xl6519452 width="5%" align="center">Sessions</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>	
+	<tr height=19 style='height:14.25pt'>
+        <td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center"><a href="https://kdd.org/kdd2021/accepted-papers/index">KDD 2021</a></td>
+        <td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Research Track</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2111.14248.pdf">Fed2: Feature-Aligned Federated Learning
+</a></td>
+        <td class=xl6519452 align="center"><font size="2">George Mason University;<br>Microsoft;<br>University of Maryland</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467254">FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">Nanjing University</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467281">Federated Adversarial Debiasing for Fair and Trasnferable Representations</a></td>
+        <td class=xl6519452 align="center"><font size="2">Michigan State University</font></td>
+        <td class=xl6519452 align="center"><a href="https://jyhong.gitlab.io/publication/fade2021kdd/">Home Project(including code, slides, video)</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467371">Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Southern California</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/mengcz13/KDD2021_CNFGNN">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+        <td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Application Track</td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467169">AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization</a></td>
+        <td class=xl6519452 align="center"><font size="2"JD Tech</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/shi21c/shi21c.pdf">FLOP: Federated Learning on Medical Datasets using Partial Networks</a></td>
+        <td class=xl6519452 align="center"><font size="2">Duke University</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/jianyizhang123/FLOP">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+            <td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center"><a href="https://www.kdd.org/kdd2020/accepted-papers">KDD 2020</a></td>
+        <td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Research Track</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3394486.3403176">FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems</a></td>
+        <td class=xl6519452 align="center"><font size="2">University College Dublin</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/23422">video</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+        <td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Application Track</td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3394486.3403298">Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">JD Tech</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/23301">video</a></td>
 	</tr>
 </table>
 
