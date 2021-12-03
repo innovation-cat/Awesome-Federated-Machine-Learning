@@ -13,7 +13,7 @@ This repository will continue to be collected and updated everything about feder
 
  - [Top Machine Learning conferences](#top-machine-learning-conferences)
      + [ICML](#ICML)&emsp;[ICLR](#ICLR)&emsp;[NeurIPS](#NeurIPS)   
- - [Top Computer Vision conferences](#top-comuter-vision-conferences)
+ - [Top Computer Vision conferences](#top-computer-vision-conferences)
      + [CVPR](#CVPR)&emsp;[ICCV](#ICCV)&emsp;[ECCV](#ECCV)   
  - [Top Artificial Intelligence and Data Mining conferences](#top-artificial-intelligence-and-data-mining-conferences)
      + [AAAI](#AAAI)&emsp;[AISTATS](#AISTATS)&emsp;[KDD](#KDD) 	 
@@ -917,7 +917,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467281">Federated Adversarial Debiasing for Fair and Trasnferable Representations</a></td>
         <td class=xl6519452 align="center"><font size="2">Michigan State University</font></td>
-        <td class=xl6519452 align="center"><a href="https://jyhong.gitlab.io/publication/fade2021kdd/">Home Project(including code, slides, video)</a></td>
+        <td class=xl6519452 align="center"><a href="https://jyhong.gitlab.io/publication/fade2021kdd/">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467371">Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling</a></td>
@@ -955,6 +955,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
         <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/23301">video</a></td>
 	</tr>
 </table>
+
 
 
 
