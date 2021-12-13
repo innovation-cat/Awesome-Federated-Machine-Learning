@@ -110,8 +110,8 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.04221.pdf">Ditto: Fair and Robust Federated Learning Through Personalization</a></td>
-        <td class=xl6519452 align="center"><font size="2">CMU; Facebook</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a></td>
+        <td class=xl6519452 align="center"><font size="2">CMU; Facebook AI</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a><br><a href="https://papertalk.org/papertalks/32646">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00697.pdf">Heterogeneity for the Win: One-Shot Federated Clustering</a></td>
@@ -599,6 +599,18 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		Topology Design for Cross-Silo Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">INRIA</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/omarfoq/communication-in-cross-silo-fl">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://papers.nips.cc/paper/2017">NeurIPS 2017</a></td>
+		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/1705.10467.pdf">Federated Multi-Task Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Stanford; <br> USC; <br> CMU</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/gingsmith/fmtl">code</a></td>
 	</tr>
 </table>
 
@@ -1090,16 +1102,43 @@ Personalized federated learning Survey paper:
 		<td class=xl6519452 width="23%" align="center">Conferences</td>
 		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
 	</tr>
-<tr height=19 style='height:14.25pt'>
-    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Multi-Task Learning</td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1903.03934.pdf">Federated Multi-Task Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Stanford<br>USC<br>CMU</font></td>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center">Multi-Task Learning</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1705.10467.pdf">Federated Multi-Task Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2017<br>(Stanford; USC; CMU)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/gingsmith/fmtl">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1610.05202.pdf">Decentralized Collaborative Learning of
+Personalized Models over Networks</a></td>
+        <td class=xl6519452 align="center"><font size="2">AISTATS 2017<br>(INRIA)</font></td>
         <td class=xl6519452 align="center"></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.06268.pdf">Variational Federated Multi-Task Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">ETH Zurich</font></td>
         <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08460.pdf">Fully Decentralized Joint Learning of
+Personalized Models and Collaboration Graphs</a></td>
+        <td class=xl6519452 align="center"><font size="2">AISTATS 2020<br>(INRIA)</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/7855">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2007.03797.pdf">Personalized Cross-Silo Federated Learning on Non-IID Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">AAAI 2021<br>(Simon Fraser University; McMaster University; Huawei Technologies Canada)</font></td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38948676/personalized-crosssilo-federated-learning-on-noniid-data">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.04221.pdf">Ditto: Fair and Robust Federated Learning Through Personalization</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(CMU; Facebook AI)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a><br><a href="https://papertalk.org/papertalks/32646">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2108.10252.pdf">Federated Multi-Task Learning under a Mixture of Distributions</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Inria; Accenture Labs)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/omarfoq/FedEM">code</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
