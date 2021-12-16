@@ -29,8 +29,9 @@ This repository will continue to be collected and updated everything about feder
 	 + [Optimization](#8-Optimization)<br>
 	 + [Fairness](#9-Fairness)<br>
 	 + [Application](#10-Applications)
+	 + [Boosting](#11-Boosting)<br>
+ - [Google FL Workshops](#google-fl-workshops)	 
  - [Talks and Tutorials](#talks-and-tutorials)
- - [Conferences and Workshops](#conferences-and-workshops)
  - [Blogs](#blogs)
  - [Open-Sources](#open-sources)
 
@@ -151,7 +152,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 	<tr height=19 style='height:14.25pt'>
         <td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center"><a href="https://icml.cc/Conferences/2020/Schedule?type=Poster">ICML 2020</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf">FedBoost: A Communication-Efficient Algorithm for Federated Learning</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v119/hamer20a/hamer20a.pdf">FedBoost: A Communication-Efficient Algorithm for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Google Research</font></td>
         <td class=xl6519452 align="center"><a href="https://slideslive.com/38928463/fedboost-a-communicationefficient-algorithm-for-federated-learning?ref=speaker-16993-latest">Video</a></td>
 	</tr>
@@ -1753,6 +1754,52 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 &nbsp; 
 
+### **11. Boosting**
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
+		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="23%" align="center">Conferences/Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Tree-Base Boosting</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1911.04206.pdf">Practical Federated Gradient Boosting Decision Trees</a></td>
+        <td class=xl6519452 align="center">AAAI 2020<br>(NUS)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/Xtra-Computing/SimFL">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08755.pdf">Secureboost: A lossless federated learning framework</a></td>
+        <td class=xl6519452 align="center">IEEE Intelligent Systems 2021<br>(WeBank; HKUST)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.08479.pdf">Large-scale Secure XGB for Vertical Federated Learning</a></td>
+        <td class=xl6519452 align="center">CIKM 2021<br>(Ant Group)</td>
+        <td class=xl6519452 align="center"><a href="https://underline.io/lecture/36394-large-scale-secure-xgb-for-vertical-federated-learning">video</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+</table>
+
+
+
+&nbsp; 
+
+## Google FL Workshops
+
+ * [Google Workshop on Federated Learning and Analytics 2021](https://www.youtube.com/watch?v=q-dmW2F0KC0&list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu&ab_channel=GoogleTechTalks) - Organized by Google.
+ * [Google Federated Learning workshop 2019](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
+
+&nbsp; 
 
 ## Talks and Tutorials
 
@@ -1768,15 +1815,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 &nbsp;  
 
-## Conferences and Workshops
 
- * [FL-ICML 2020](http://federated-learning.org/fl-icml-2020/) - Organized by IBM Watson Research.
- * [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
- * [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
- * [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
- * [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
-
-&nbsp; 
 
 ## Blogs
 
