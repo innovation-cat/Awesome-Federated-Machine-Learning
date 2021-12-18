@@ -1531,7 +1531,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="10%" align="center">Project</td>
+		<td height=19 class=xl6519452 width="10%" align="center">Platform</td>
 		<td class=xl6519452 width="50%" align="center">Paper</td>
 		<td height=19 class=xl6519452 width="5%" align="center">Affiliation</td>
 	</tr>
@@ -1796,13 +1796,15 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 ## Google FL Workshops
 
- * [Google Workshop on Federated Learning and Analytics 2021](https://www.youtube.com/watch?v=q-dmW2F0KC0&list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu&ab_channel=GoogleTechTalks) - Organized by Google.
- * [Google Federated Learning workshop 2019](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
+ * [Google Workshop on Federated Learning and Analytics 2020](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu) 
+ * [Google Federated Learning workshop 2019](https://sites.google.com/view/federated-learning-2019/home) 
 
 &nbsp; 
 
 ## Talks and Tutorials
 
+ * [TensorFlow Federated Tutorial Session](https://www.youtube.com/watch?v=JBNas6Yd30A&ab_channel=GoogleTechTalks) 
+  
  * [TensorFlow Federated (TFF): Machine Learning on Decentralized Data ](https://www.youtube.com/watch?v=1YbPmkChcbo) - Google, TF Dev Summit ‘19 2019
 
  * [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - Google, Google I/O 2019
@@ -1810,8 +1812,6 @@ Encryption for Cross-Silo Federated Learning</a></td>
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
 
  * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
-
- * [Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU) - Google, 2018
 
 &nbsp;  
 
