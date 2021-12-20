@@ -18,7 +18,7 @@ This repository will continue to be collected and updated everything about feder
  - [Top Artificial Intelligence and Data Mining conferences](#top-artificial-intelligence-and-data-mining-conferences)
      + [AAAI](#AAAI)&emsp;[AISTATS](#AISTATS)&emsp;[KDD](#KDD) 	 
  - [Books](#Books)
- - [Papers](#papers)
+ - [Papers (Research areas)](#papers)
      + [Model Aggregation](#1-Model-Aggregation)<br>
 	 + [Personalization](#2-Personalization)<br>
      + [Recommender system](#3-Recommender-system)<br>
@@ -31,8 +31,8 @@ This repository will continue to be collected and updated everything about feder
 	 + [Application](#10-Applications)
 	 + [Boosting](#11-Boosting)<br>
  - [Google FL Workshops](#google-fl-workshops)	 
- - [Talks and Tutorials](#talks-and-tutorials)
- - [Blogs](#blogs)
+ - [Videos and Lectures](#Videos-and-Lectures)
+ - [Tutorials and Blogs](#Tutorials-and-Blogs)
  - [Open-Sources](#open-sources)
 
 
@@ -61,88 +61,88 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05001.pdf">FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Analysis</a></td>
-        <td class=xl6519452 align="center"><font size="2">Peking University; Yale University</font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">Peking University;<br> Princeton University;<br>The University of Washington</font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959650/flntk-a-neural-tangent-kernelbased-framework-for-federated-learning-analysis?ref=speaker-30434-latest&locale=en">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.04628.pdf">Personalized Federated Learning using Hypernetworks</a></td>
-        <td class=xl6519452 align="center"><font size="2">Bar-Ilan University; NVIDIA Research</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/AvivSham/pFedHN">code</a><br><a href="https://avivsham.github.io/pfedhn/">materials</a></td>
+        <td class=xl6519452 align="center"><font size="2">Bar-Ilan University;<br> NVIDIA Research</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/AvivSham/pFedHN">code</a><br><a href="https://avivsham.github.io/pfedhn/">HomePage</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.08474.pdf">Federated Composite Optimization</a></td>
-        <td class=xl6519452 align="center"><font size="2">Stanford University; Google</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/hongliny/FCO-ICML21">code</a></td>
+        <td class=xl6519452 align="center"><font size="2">Stanford University;<br> Google Research</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/hongliny/FCO-ICML21">code</a><br><a href="https://www.youtube.com/watch?v=tKDbc60XJks&ab_channel=FederatedLearningOneWorldSeminar">video</a><br><a href="https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf">slides</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Texas at Austin; University of Pennsylvania</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Texas at Austin;<br> University of Pennsylvania</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a><br><a href="https://slideslive.com/38959519/exploiting-shared-representations-for-personalized-federated-learning">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.10056.pdf">Data-Free Knowledge Distillation for Heterogeneous Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Michigan State University</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/zhuangdizhu/FedGen">code</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/zhuangdizhu/FedGen">code</a><br><a href="https://slideslive.com/38959429/datafree-knowledge-distillation-for-heterogeneous-federated-learning">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.03196.pdf">Federated Continual Learning with Weighted Inter-client Transfer</a></td>
         <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/wyjeong/FedWeIT">code</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/wyjeong/FedWeIT">code</a><br><a href="https://slideslive.com/38959323/federated-continual-learning-with-weighted-interclient-transfer">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.04635.pdf">Federated Deep AUC Maximization for Hetergeneous Data with a Constant Communication Complexity</a></td>
         <td class=xl6519452 align="center"><font size="2">The University of Iowa</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959235/federated-deep-auc-maximization-for-hetergeneous-data-with-a-constant-communication-complexity">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.03198.pdf">Bias-Variance Reduced Local SGD for Less Heterogeneous Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">The University of Tokyo</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959169/biasvariance-reduced-local-sgd-for-less-heterogeneous-federated-learning">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.08776.pdf">Federated Learning of User Verification Models Without Sharing Embeddings</a></td>
         <td class=xl6519452 align="center"><font size="2">Qualcomm AI Research</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38958858/federated-learning-of-user-verification-models-without-sharing-embeddings">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05883.pdf">Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Accenture</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/Accenture//Labs-Federated-Learning/tree/clustered_sampling">code</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/Accenture//Labs-Federated-Learning/tree/clustered_sampling">code</a><br><a href="https://slideslive.com/38959618/clustered-sampling-lowvariance-and-improved-representativity-for-clients-selection-in-federated-learning">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.04221.pdf">Ditto: Fair and Robust Federated Learning Through Personalization</a></td>
-        <td class=xl6519452 align="center"><font size="2">CMU; Facebook AI</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a><br><a href="https://papertalk.org/papertalks/32646">video</a></td>
+        <td class=xl6519452 align="center"><font size="2">CMU;<br> Facebook AI</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a><br><a href="https://slideslive.com/38955195/ditto-fair-and-robust-federated-learning-through-personalization">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00697.pdf">Heterogeneity for the Win: One-Shot Federated Clustering</a></td>
         <td class=xl6519452 align="center"><font size="2">CMU</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/metastableB/kfed/">code</a></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959380/heterogeneity-for-the-win-oneshot-federated-clustering">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.06387.pdf">The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation</a></td>
         <td class=xl6519452 align="center"><font size="2">Google</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959306/the-distributed-discrete-gaussian-mechanism-for-federated-learning-with-secure-aggregation">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
         <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v139/acar21a/acar21a.pdf">Debiasing Model Updates for Improving Personalized Federated Training</a></td>
-        <td class=xl6519452 align="center"><font size="2">Boston University; Arm Research</font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">Boston University;<br> Arm Research</font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959212/debiasing-model-updates-for-improving-personalized-federated-training">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.03228.pdf">One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Toyota Technological Institute of Chicago; University of California, Berkeley; Cornell University</font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">Toyota Technological Institute;<br> University of California, Berkeley;<br> Cornell University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/rlphilli/Collaborative-Incentives">code</a><br><a href="https://slideslive.com/38959135/one-for-one-or-all-for-all-equilibria-and-optimality-of-collaboration-in-federated-learning">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
         <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.08283.pdf">CRFL: Certifiably Robust Federated Learning against Backdoor Attacks</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Illinois at Urbana-Champaign; IBM Research; Zhejiang University</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/CRFL">code</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Illinois at Urbana-Champaign;<br> IBM Research;<br> Zhejiang University</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/CRFL">code</a><br><a href="https://slideslive.com/38959047/crfl-certifiably-robust-federated-learning-against-backdoor-attacks">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
         <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://assets.amazon.science/11/23/3e0cfaf1456d80ecf3f37a2cd812/federated-learning-under-arbitrary-communication-patterns.pdf">Federated Learning under Arbitrary Communication Patterns</a></td>
-        <td class=xl6519452 align="center"><font size="2">Indiana University, Bloomington; Amazon</font></td>
-		<td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><font size="2">Indiana University;<br> Amazon</font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959048/federated-learning-under-arbitrary-communication-patterns">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -1801,7 +1801,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 &nbsp; 
 
-## Talks and Tutorials
+## Videos and Lectures
 
  * [TensorFlow Federated Tutorial Session](https://www.youtube.com/watch?v=JBNas6Yd30A&ab_channel=GoogleTechTalks) 
   
@@ -1817,7 +1817,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 
 
-## Blogs
+## Tutorials and Blogs
 
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
  * [Online Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
