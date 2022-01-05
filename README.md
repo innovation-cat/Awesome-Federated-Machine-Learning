@@ -2098,64 +2098,22 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00697.pdf">Heterogeneity for the Win: One-Shot Federated Clustering</a></td>
         <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(CMU)</font></td>
 		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959380/heterogeneity-for-the-win-oneshot-federated-clustering">video</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08755.pdf">Secureboost: A lossless federated learning framework</a></td>
-        <td class=xl6519452 align="center">IEEE Intelligent Systems 2021<br>(WeBank; HKUST)</td>
-        <td class=xl6519452 align="center"></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.08479.pdf">Large-scale Secure XGB for Vertical Federated Learning</a></td>
-        <td class=xl6519452 align="center">CIKM 2021<br>(Ant Group)</td>
-        <td class=xl6519452 align="center"><a href="https://underline.io/lecture/36394-large-scale-secure-xgb-for-vertical-federated-learning">video</a></td>
-    </tr>
-    <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
     	<td class=xl6519452></td>
     	<td class=xl6519452></td>
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Dimensionality reduction</td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1911.04206.pdf">Practical Federated Gradient Boosting Decision Trees</a></td>
-        <td class=xl6519452 align="center">AAAI 2020<br>(NUS)</td>
-        <td class=xl6519452 align="center"><a href="https://github.com/Xtra-Computing/SimFL">code</a></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08755.pdf">Secureboost: A lossless federated learning framework</a></td>
-        <td class=xl6519452 align="center">IEEE Intelligent Systems 2021<br>(WeBank; HKUST)</td>
-        <td class=xl6519452 align="center"></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.08479.pdf">Large-scale Secure XGB for Vertical Federated Learning</a></td>
-        <td class=xl6519452 align="center">CIKM 2021<br>(Ant Group)</td>
-        <td class=xl6519452 align="center"><a href="https://underline.io/lecture/36394-large-scale-secure-xgb-for-vertical-federated-learning">video</a></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
-    	<td class=xl6519452></td>
-    	<td class=xl6519452></td>
-        <td class=xl6519452></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Representations Learning</td>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Representations Learning</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
         <td class=xl6519452 align="center">ICML 2021<br>(University of Texas at Austin;<br> University of Pennsylvania)</td>
         <td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a><br><a href="https://slideslive.com/38959519/exploiting-shared-representations-for-personalized-federated-learning">video</a></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08755.pdf">Secureboost: A lossless federated learning framework</a></td>
-        <td class=xl6519452 align="center">IEEE Intelligent Systems 2021<br>(WeBank; HKUST)</td>
-        <td class=xl6519452 align="center"></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.08479.pdf">Large-scale Secure XGB for Vertical Federated Learning</a></td>
-        <td class=xl6519452 align="center">CIKM 2021<br>(Ant Group)</td>
-        <td class=xl6519452 align="center"><a href="https://underline.io/lecture/36394-large-scale-secure-xgb-for-vertical-federated-learning">video</a></td>
     </tr>
 </table>
 
