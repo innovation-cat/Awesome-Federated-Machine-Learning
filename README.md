@@ -11,67 +11,72 @@ This repository will continue to be collected and updated everything about feder
 
 ## Table of Contents
 
- - [Top Machine Learning conferences](#top-machine-learning-conferences)
+ - [Top Machine Learning Conferences](#top-machine-learning-conferences)
      + [ICML](#ICML)&emsp;[ICLR](#ICLR)&emsp;[NeurIPS](#NeurIPS)   
- - [Top Computer Vision conferences](#top-computer-vision-conferences)
+ - [Top Computer Vision Conferences](#top-computer-vision-conferences)
      + [CVPR](#CVPR)&emsp;[ICCV](#ICCV)&emsp;[ECCV](#ECCV)   
- - [Top Artificial Intelligence and Data Mining conferences](#top-artificial-intelligence-and-data-mining-conferences)
+ - [Top Artificial Intelligence and Data Mining Conferences](#top-artificial-intelligence-and-data-mining-conferences)
      + [AAAI](#AAAI)&emsp;[AISTATS](#AISTATS)&emsp;[KDD](#KDD) 	 
  - [Books](#Books)
- - [Papers (Research areas)](#papers)
-     + [Model Aggregation](#1-Model-Aggregation)<br>
-	 + [Personalization](#2-Personalization)<br>
-     + [Recommender system](#3-Recommender-system)<br>
-	 + [Security](#4-Security)<br>
-	 + [Survey](#5-Survey)<br>
-	 + [System Architecture](#6-System-Design)<br>
-	 + [Efficiency](#7-Communication-Efficient)<br>
-	 + [Optimization](#8-Optimization)<br>
+ - [Papers (Research Directions)](#papers)
+     + [Model Aggregation](#1-Model-Aggregation)
+	 + [Personalization](#2-Personalization)&emsp;&emsp; 
+	 + [Recommender system](#3-Recommender-system)
+	 + [Security](#4-Security)&emsp;&emsp;
+	 + [Survey](#5-Survey)&emsp;&emsp;
+	 + [System Architecture](#6-System-Design)
+	 + [Efficiency](#7-Communication-Efficient)&emsp;&emsp;
+	 + [Optimization](#8-Optimization)&emsp;&emsp; 
 	 + [Fairness](#9-Fairness)<br>
-	 + [Application](#10-Applications)
-	 + [Boosting](#11-Boosting)<br>
+	 + [Application](#10-Applications)&emsp;&emsp;
+	 + [Boosting](#11-Boosting)&emsp;&emsp;
+	 + [Incentive mechanism](#12-Incentive-mechanism)
+	 + [Unsupervised Learning](#13-Unsupervised-Learning)&emsp;&emsp;
+	 + [Heterogeneity](#14-Heterogeneity)&emsp;&emsp;
+	 + [Client Selection](#15-Client-Selection)
+	 + [Graph Neural Networks](#16-Graph-Neural-Networks)
  - [Google FL Workshops](#google-fl-workshops)	 
  - [Videos and Lectures](#Videos-and-Lectures)
  - [Tutorials and Blogs](#Tutorials-and-Blogs)
  - [Open-Sources](#open-sources)
 
+&nbsp; 
 
-
-## Top Machine Learning conferences
+## Top Machine Learning Conferences
 
 In this section, we will summarize Federated Learning papers accepted by top machine learning conference, Including NeurIPS, ICML, ICLR.
 
 ### ICML 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
         <td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center"><a href="https://icml.cc/Conferences/2021/Schedule?type=Poster">ICML 2021</a></td>
         <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2106.06089.pdf">Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix</a></td>
         <td class=xl6519452 align="center"><font size="2">Harvard University</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/gdisag/gradient_disaggregation">code</a></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38958558/gradient-disaggregation-breaking-privacy-in-federated-learning-by-reconstructing-the-user-participant-matrix">video</a><br><a href="https://github.com/gdisag/gradient_disaggregation">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05001.pdf">FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Analysis</a></td>
-        <td class=xl6519452 align="center"><font size="2">Peking University;<br> Princeton University;<br>The University of Washington</font></td>
-		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959650/flntk-a-neural-tangent-kernelbased-framework-for-federated-learning-analysis?ref=speaker-30434-latest&locale=en">video</a></td>
+        <td class=xl6519452 align="center"><font size="2">Peking University;<br> Princeton University</font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959650/flntk-a-neural-tangent-kernelbased-framework-for-federated-learning-analysis">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.04628.pdf">Personalized Federated Learning using Hypernetworks</a></td>
-        <td class=xl6519452 align="center"><font size="2">Bar-Ilan University;<br> NVIDIA Research</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/AvivSham/pFedHN">code</a><br><a href="https://avivsham.github.io/pfedhn/">HomePage</a></td>
+        <td class=xl6519452 align="center"><font size="2">Bar-Ilan University;<br> NVIDIA </font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/AvivSham/pFedHN">code</a><br><a href="https://avivsham.github.io/pfedhn/">HomePage</a><br><a href="https://slideslive.com/38959583/personalized-federated-learning-using-hypernetworks">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.08474.pdf">Federated Composite Optimization</a></td>
-        <td class=xl6519452 align="center"><font size="2">Stanford University;<br> Google Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">Stanford University;<br> Google</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/hongliny/FCO-ICML21">code</a><br><a href="https://www.youtube.com/watch?v=tKDbc60XJks&ab_channel=FederatedLearningOneWorldSeminar">video</a><br><a href="https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf">slides</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
@@ -101,7 +106,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.08776.pdf">Federated Learning of User Verification Models Without Sharing Embeddings</a></td>
-        <td class=xl6519452 align="center"><font size="2">Qualcomm AI Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">Qualcomm</font></td>
 		<td class=xl6519452 align="center"><a href="https://slideslive.com/38958858/federated-learning-of-user-verification-models-without-sharing-embeddings">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
@@ -126,17 +131,17 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	</tr>
 	<tr height=19 style='height:14.25pt'>
         <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v139/acar21a/acar21a.pdf">Debiasing Model Updates for Improving Personalized Federated Training</a></td>
-        <td class=xl6519452 align="center"><font size="2">Boston University;<br> Arm Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">Boston University;<br> Arm </font></td>
 		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959212/debiasing-model-updates-for-improving-personalized-federated-training">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.03228.pdf">One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Toyota Technological Institute;<br> University of California, Berkeley;<br> Cornell University</font></td>
+        <td class=xl6519452 align="center"><font size="2">Toyota;<br>Berkeley;<br> Cornell University</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/rlphilli/Collaborative-Incentives">code</a><br><a href="https://slideslive.com/38959135/one-for-one-or-all-for-all-equilibria-and-optimality-of-collaboration-in-federated-learning">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
         <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.08283.pdf">CRFL: Certifiably Robust Federated Learning against Backdoor Attacks</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Illinois at Urbana-Champaign;<br> IBM Research;<br> Zhejiang University</font></td>
+        <td class=xl6519452 align="center"><font size="2">UIUC;<br>IBM</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/CRFL">code</a><br><a href="https://slideslive.com/38959047/crfl-certifiably-robust-federated-learning-against-backdoor-attacks">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
@@ -153,36 +158,32 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
         <td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center"><a href="https://icml.cc/Conferences/2020/Schedule?type=Poster">ICML 2020</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v119/hamer20a/hamer20a.pdf">FedBoost: A Communication-Efficient Algorithm for Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Google Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">Google</font></td>
         <td class=xl6519452 align="center"><a href="https://slideslive.com/38928463/fedboost-a-communicationefficient-algorithm-for-federated-learning?ref=speaker-16993-latest">Video</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2007.07682">FetchSGD:
-		Communication-Efficient Federated Learning with Sketching</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2007.07682.pdf">FetchSGD: Communication-Efficient Federated Learning with Sketching</a></td>
         <td class=xl6519452 align="center"><font size="2">UC Berkeley;<br>Johns Hopkins University;<br>Amazon</font></td>
         <td class=xl6519452 align="center"><a href="https://slideslive.com/38928454/fetchsgd-communicationefficient-federated-learning-with-sketching">Video</a><br><a href="https://github.com/kiddyboots216/CommEfficient">Code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1910.06378.pdf">SCAFFOLD: Stochastic
-		Controlled Averaging for Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">EPFL;<br>Google Research</font></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1910.06378.pdf">SCAFFOLD: Stochastic Controlled Averaging for Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">EPFL;<br>Google</font></td>
         <td class=xl6519452 align="center"><a href="https://slideslive.com/38927610/scaffold-stochastic-controlled-averaging-for-federated-learning">Video</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2004.10342">Federated Learning with
 		Only Positive Labels</a></td>
-        <td class=xl6519452 align="center"><font size="2">Google Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">Google</font></td>
         <td class=xl6519452 align="center"><a href="https://slideslive.com/38928322/federated-learning-with-only-positive-labels">Video</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2004.01442.pdf">From Local SGD to Local
-		Fixed-Point Methods for Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2004.01442.pdf">From Local SGD to Local Fixed-Point Methods for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Moscow Institute of Physics and Technology;<br>KAUST</font></td>
         <td class=xl6519452 align="center"><a href="https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-15-18-00UTC-6590-from_local_sgd.pdf">Slide</a><br><a href="https://slideslive.com/38928320/from-local-sgd-to-local-fixed-point-methods-for-federated-learning">Video</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://arxiv.org/abs/2002.11364">Acceleration
-		for Compressed Gradient Descent in Distributed and Federated Optimization</a></td>
+		<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://arxiv.org/abs/2002.11364">Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization</a></td>
         <td class=xl6519452 align="center"><font size="2">KAUST</font></td>
         <td class=xl6519452 align="center"><a href="https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-15-19-00UTC-6191-acceleration_fo.pdf">Slide</a><br><a href="https://slideslive.com/38927921/acceleration-for-compressed-gradient-descent-in-distributed-optimization">Video</a></td>
 	</tr>
@@ -195,17 +196,17 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
         <td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center"><a href="https://icml.cc/Conferences/2019/Schedule?type=Poster">ICML 2019</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1905.12022.pdf">Bayesian Nonparametric Federated Learning of Neural Networks</a></td>
-        <td class=xl6519452 align="center"><font size="2">IBM Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">IBM</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/IBM/probabilistic-federated-neural-matching">Code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://arxiv.org/abs/1811.12470">Analyzing Federated Learning through an Adversarial Lens</a></td>
-        <td class=xl6519452 align="center"><font size="2">Princeton University;<br>IBM Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">Princeton University;<br>IBM</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/inspire-group/ModelPoisoning">Code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://arxiv.org/pdf/1902.00146.pdf">Agnostic Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Google Research</font></td>
+        <td class=xl6519452 align="center"><font size="2">Google </font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 </table>
@@ -214,20 +215,20 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 ### ICLR
 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
 		<td rowspan=10 height=190 class=xl6519452 style='height:242.25pt' align="center">ICLR 2021</td>
 		<td class=xl6519452 align="center"><a href="https://openreview.net/pdf?id=B7v4QMR6Z9w">Federated Learning Based on Dynamic Regularization</a></td>
-        <td class=xl6519452 align="center"><font size="2">Boston University; ARM</font></td>
+        <td class=xl6519452 align="center"><font size="2">Boston University;<br>ARM</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
@@ -303,8 +304,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
         <td class=xl6519452 align="center"><a href="https://github.com/IBM/FedMA">Code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=rJgqMRVYvr">Differentially Private Meta-Learning
-</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=rJgqMRVYvr">Differentially Private Meta-Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">CMU</font></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
@@ -322,181 +322,181 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 
 ### NeurIPS
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
     <tr height=19 style='height:14.15pt'>
         <td rowspan=33 height=627 class=xl6519452 style='height:242.25pt' align="center"><a href="https://papers.nips.cc/paper/2021">NeurIPS 2021</a></td>
 		<td class=xl6519452 align="center"><a href="https://proceedings.neurips.cc/paper/2021/file/076a8133735eb5d7552dc195b125a454-Paper.pdf">Sageflow: Robust Federated Learning against Both Stragglers and Adversaries</a></td>
         <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/08040837089cdf46631a10aca5258e16-Paper.pdf">Catastrophic Data Leakage in Vertical Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/08040837089cdf46631a10aca5258e16-Paper.pdf">CAFE: Catastrophic Data Leakage in Vertical Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Rensselaer Polytechnic Institute;<br>IBM Research</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/DeRafael/CAFE">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/DeRafael/CAFE">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
         <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/080acdcce72c06873a773c4311c2e464-Paper.pdf">Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee</a></td>
         <td class=xl6519452 align="center"><font size="2">NUS</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/flint-xf-fan/Byzantine-Federeated-RL">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/080acdcce72c06873a773c4311c2e464-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/flint-xf-fan/Byzantine-Federeated-RL">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/080acdcce72c06873a773c4311c2e464-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/09a5e2a11bea20817477e0b1dfe2cc21-Paper.pdf">Optimality and Stability in Federated Learning: A Game-theoretic Approach</a></td>
         <td class=xl6519452 align="center"><font size="2">Cornell University</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/kpdonahue/model_sharing_games">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/09a5e2a11bea20817477e0b1dfe2cc21-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/kpdonahue/model_sharing_games">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/09a5e2a11bea20817477e0b1dfe2cc21-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/1dba3025b159cd9354da65e2d0436a31-Paper.pdf">QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">UCLA</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html">The Skellam Mechanism for Differentially Private Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/285baacbdf8fda1de94b19282acd23e2-Paper.pdf">The Skellam Mechanism for Differentially Private Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Google Research;<br>CMU</font></td>
-		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html">supplementary</a></td>
+		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/2f2b265625d76a6704b08093c652fd79-Paper.pdf">No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data</a></td>
-        <td class=xl6519452 align="center"><font size="2">NUS; <br> Huawei Noah’s Ark Lab</font></td>
-		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><font size="2">NUS; <br> Huawei</font></td>
+		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/3016a447172f3045b65f5fc83e04b554-Paper.pdf">STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">University of Minnesota</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/3016a447172f3045b65f5fc83e04b554-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/3016a447172f3045b65f5fc83e04b554-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf">Subgraph Federated Learning with Missing Neighbor Generation</a></td>
         <td class=xl6519452 align="center"><font size="2">Emory University; <br> University of British Columbia; <br> Lehigh University</font></td>
-		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html">supplementary</a></td>
+		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/3b3fff6463464959dcd1b68d0320f781-Paper.pdf">Evaluating Gradient Inversion Attacks and Defenses in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Princeton University</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/JonasGeiping/invertinggradients">Code</a><br><a href="https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html">supplementary</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/JonasGeiping/invertinggradients">Code</a><br><a href="https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.15482.pdf">Personalized Federated Learning With Gaussian Processes</a></td>
         <td class=xl6519452 align="center"><font size="2">Bar-Ilan University</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/IdanAchituve/pFedGP">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/46d0671dd4117ea366031f87f3aa0093-Abstract.html">supplementary</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/IdanAchituve/pFedGP">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/46d0671dd4117ea366031f87f3aa0093-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/4c27cea8526af8cfee3be5e183ac9605-Paper.pdf">Differentially Private Federated Bayesian Optimization with Distributed Exploration</a></td>
         <td class=xl6519452 align="center"><font size="2">MIT;<br>NUS</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optimization">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/4c27cea8526af8cfee3be5e183ac9605-Abstract.html">supplementary</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optimization">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/4c27cea8526af8cfee3be5e183ac9605-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf">Parameterized Knowledge Transfer for Personalized Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Hong Kong Polytechnic University; <br> </font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/5d44a2b0d85aa1a4dd3f218be6422c66-Paper.pdf">Federated Reconstruction: Partially Local Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Google Research</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/64be20f6dd1dd46adf110cf871e3ed35-Paper.pdf">Fast Federated Learning in the Presence of Arbitrary Device Unavailability</a></td>
         <td class=xl6519452 align="center"><font size="2">Tsinghua University;<br>Princeton University;<br>MIT</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/hmgxr128/MIFA_code/">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/64be20f6dd1dd46adf110cf871e3ed35-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/hmgxr128/MIFA_code/">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/64be20f6dd1dd46adf110cf871e3ed35-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/692baebec3bb4b53d7ebc3b9fabac31b-Paper.pdf">FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective</a></td>
         <td class=xl6519452 align="center"><font size="2">Duke University;<br>Accenture Labs</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/jeremy313/FL-WBC">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/jeremy313/FL-WBC">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf">FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout</a></td>
         <td class=xl6519452 align="center"><font size="2">KAUST;<br>Samsung AI Center</font></td>
-		<td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/6aed000af86a084f9cb0264161e29dd3-Abstract.html">supplementary</a></td>
+		<td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/6aed000af86a084f9cb0264161e29dd3-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf">Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients</a></td>
         <td class=xl6519452 align="center"><font size="2">University of Pennsylvania</font></td>
-		<td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/7a6bda9ad6ffdac035c752743b7e9d0e-Abstract.html">supplementary</a></td>
+		<td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/7a6bda9ad6ffdac035c752743b7e9d0e-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf">Federated Multi-Task Learning under a Mixture of Distributions</a></td>
         <td class=xl6519452 align="center"><font size="2">INRIA;<br>Accenture Labs</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/omarfoq/FedEM">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/omarfoq/FedEM">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf">Federated Graph Classification over Non-IID Graphs</a></td>
         <td class=xl6519452 align="center"><font size="2">Emory University</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/a0205b87490c847182672e8d371e9948-Paper.pdf">Federated Hyperparameter Tuning: Challenges, Baselines, and Connections to Weight-Sharing</a></td>
         <td class=xl6519452 align="center"><font size="2">CMU;<br>Hewlett Packard Enterprise</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/mkhodak/fedex">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/a0205b87490c847182672e8d371e9948-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/mkhodak/fedex">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/a0205b87490c847182672e8d371e9948-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/ab9ebd57177b5106ad7879f0896685d4-Paper.pdf">On Large-Cohort Training for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Google;<br>CMU</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/google-research/federated/tree/f4e26c1b9b47ac320e520a8b9943ea2c5324b8c2/large_cohort">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/ab9ebd57177b5106ad7879f0896685d4-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/google-research/federated/tree/f4e26c1b9b47ac320e520a8b9943ea2c5324b8c2/large_cohort">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/ab9ebd57177b5106ad7879f0896685d4-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/b0ab42fcb7133122b38521d13da7120b-Paper.pdf">DeepReduce: A Sparse-tensor Communication Framework for Federated Deep Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">KAUST;<br>Columbia University;<br>University of Central Florida</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/hangxu0304/DeepReduce">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/b0ab42fcb7133122b38521d13da7120b-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/hangxu0304/DeepReduce">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/b0ab42fcb7133122b38521d13da7120b-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/c429429bf1f2af051f2021dc92a8ebea-Paper.pdf">PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization</a></td>
         <td class=xl6519452 align="center"><font size="2">Huawei</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf">Federated Split Task-Agnostic Vision Transformer for COVID-19 CXR Diagnosis</a></td>
         <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/ceb0595112db2513b9325a85761b7310-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/ceb0595112db2513b9325a85761b7310-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/db8e1af0cb3aca1ae2d0018624204529-Paper.pdf">Addressing Algorithmic Disparity and Performance Inconsistency in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Tsinghua University;<br> Alibaba;<br>Weill Cornell Medicine</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/cuis15/FCFL">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/db8e1af0cb3aca1ae2d0018624204529-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/cuis15/FCFL">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/db8e1af0cb3aca1ae2d0018624204529-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/e347c51419ffb23ca3fd5050202f9c3d-Paper.pdf">Federated Linear Contextual Bandits</a></td>
         <td class=xl6519452 align="center"><font size="2">The Pennsylvania State University;<br> Facebook;<br>University of Virginia</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/f065d878ccfb4cc4f4265a4ff8bafa9a-Paper.pdf">Few-Round Learning for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/f065d878ccfb4cc4f4265a4ff8bafa9a-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/f065d878ccfb4cc4f4265a4ff8bafa9a-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/f0e6be4ce76ccfa73c5a540d992d0756-Paper.pdf">Breaking the centralized barrier for cross-device federated learning</a></td>
         <td class=xl6519452 align="center"><font size="2">EPFL;<br>Google Research</font></td>
-        <td class=xl6519452 align="center"><a href="https://fedjax.readthedocs.io/en/latest/fedjax.algorithms.html#module-fedjax.algorithms.mime">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/f0e6be4ce76ccfa73c5a540d992d0756-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://fedjax.readthedocs.io/en/latest/fedjax.algorithms.html#module-fedjax.algorithms.mime">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/f0e6be4ce76ccfa73c5a540d992d0756-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/f740c8d9c193f16d8a07d3a8a751d13f-Paper.pdf">Federated-EM with heterogeneity mitigation and variance reduction</a></td>
         <td class=xl6519452 align="center"><font size="2">Ecole Polytechnique;<br>Google Research</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/f740c8d9c193f16d8a07d3a8a751d13f-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/f740c8d9c193f16d8a07d3a8a751d13f-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/fc03d48253286a798f5116ec00e99b2b-Paper.pdf">Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">MIT;<br>Amazon;<br>Google</font></td>
-        <td class=xl6519452 align="center"><a href="https://dga.hanlab.ai/">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://dga.hanlab.ai/">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/fe7ee8fc1959cc7214fa21c4840dff0a-Paper.pdf">FedDR – Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a></td>
         <td class=xl6519452 align="center"><font size="2">University of North Carolina at Chapel Hill;<br>IBM Research</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/unc-optimization/FedDR">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/unc-optimization/FedDR">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html">HomePage</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/fa84632d742f2729dc32ce8cb5d49733-Paper.pdf">Gradient Inversion with Generative Image Prior</a></td>
         <td class=xl6519452 align="center"><font size="2">Pohang University of Science and Technology;<br>University of Wisconsin-Madison;<br>University of Washington</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/ml-postech/gradient-inversion-generative-image-prior">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/fa84632d742f2729dc32ce8cb5d49733-Abstract.html">supplementary</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/ml-postech/gradient-inversion-generative-image-prior">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/fa84632d742f2729dc32ce8cb5d49733-Abstract.html">HomePage</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -590,14 +590,12 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/JonasGeiping/invertinggradients">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2006.07242">Ensemble Distillation
-		for Robust Model Fusion in Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2006.07242.pdf">Ensemble Distillation for Robust Model Fusion in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">EPFL</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2010.12229">Throughput-Optimal
-		Topology Design for Cross-Silo Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.12229.pdf">Throughput-Optimal Topology Design for Cross-Silo Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">INRIA</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/omarfoq/communication-in-cross-silo-fl">code</a></td>
 	</tr>
@@ -608,30 +606,42 @@ In this section, we will summarize Federated Learning papers accepted by top mac
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
+        <td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://papers.nips.cc/paper/2018">NeurIPS 2018</a></td>
+		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/1805.10559.pdf">cpSGD: Communication-efficient and differentially-private distributed SGD</a></td>
+		<td class=xl6519452 align="center"><font size="2">Princeton University;<br>Google</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
         <td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://papers.nips.cc/paper/2017">NeurIPS 2017</a></td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/1705.10467.pdf">Federated Multi-Task Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Stanford; <br> USC; <br> CMU</font></td>
+		<td class=xl6519452 align="center"><font size="2">Stanford; <br> USC; <br> CMU</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/gingsmith/fmtl">code</a></td>
 	</tr>
 </table>
 
+&nbsp; 
 
 
-
-## Top Computer Vision conferences
+## Top Computer Vision Conferences
 In this section, we will summarize Federated Learning papers accepted by top computer vision conference, Including CVPR, ICCV, ECCV.
 
 ### CVPR 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
     <tr height=19 style='height:14.15pt'>
 		<td rowspan=4 height=76 class=xl6519452 style='height:242.25pt' align="center">CVPR 2021</td>
@@ -658,15 +668,15 @@ In this section, we will summarize Federated Learning papers accepted by top com
 
 ### ECCV 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
     <tr height=19 style='height:14.15pt'>
 		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center">ECCV 2020</td>
@@ -678,15 +688,15 @@ In this section, we will summarize Federated Learning papers accepted by top com
 
 ### ICCV 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
     <tr height=19 style='height:14.15pt'>
 		<td rowspan=2 height=38 class=xl6519452 style='height:242.25pt' align="center">ICCV 2021</td>
@@ -702,23 +712,24 @@ In this section, we will summarize Federated Learning papers accepted by top com
 </table>
 
 
+&nbsp; 
 
-## Top Artificial Intelligence and Data Mining conferences
+## Top Artificial Intelligence and Data Mining Conferences
 
 In this section, we will summarize Federated Learning papers accepted by top AI and DM conference, Including AAAI, AISTATS, KDD.
 
 ### AAAI
 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
 	<tr height=19 style='height:14.25pt'>
         <td rowspan=14 height=266 class=xl6519452 style='height:85.5pt' align="center"><a href="https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf">AAAI 2021</a></td>
@@ -748,7 +759,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.10936.pdf">Toward Understanding the Influence of Individual Clients in Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Shanghai Jiao Tong University;<br>The University of Texas at Dallas</font></td>
+		<td class=xl6519452 align="center"><font size="2">Shanghai Jiao Tong University;<br>The University of Texas at Dallas</font></td>
         <td class=xl6519452 align="center"><a href="https://slideslive.com/38948549/toward-understanding-the-influence-of-individual-clients-in-federated-learning">video</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
@@ -829,15 +840,15 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 ### AISTATS
 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Affiliation</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
 	<tr height=19 style='height:14.25pt'>
         <td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center"><a href="http://proceedings.mlr.press/v130/">AISTATS 2021</a></td>
@@ -867,7 +878,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/shi21c/shi21c.pdf">Federated Multi-armed Bandits with Personalization</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Virginia;<br>The Pennsylvania State University</font></td>
+		<td class=xl6519452 align="center"><font size="2">University of Virginia;<br>The Pennsylvania State University</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/ShenGroup/PF_MAB">code</a><br><a href="https://papertalk.org/papertalks/27521">video</a><br><a href="http://proceedings.mlr.press/v130/shi21c/shi21c-supp.pdf">Supplementary</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
@@ -889,7 +900,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf">How To Backdoor Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Cornell Tech</font></td>
+		<td class=xl6519452 align="center"><font size="2">Cornell Tech</font></td>
         <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/8046">video</a><br><a href="https://github.com/ebagdasa/backdoor_federated_learning">code</a><br><a href="http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf">Supplementary</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
@@ -908,11 +919,11 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Conferences</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
         <td height=19 class=xl6519452 width="5%" align="center">Sessions</td>
 		<td class=xl6519452 width="67%" align="center">Title</td>
 		<td class=xl6519452 width="23%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
 	<tr height=19 style='height:14.25pt'>
         <td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center"><a href="https://kdd.org/kdd2021/accepted-papers/index">KDD 2021</a></td>
@@ -923,12 +934,12 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
         <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467254">FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf">FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data</a></td>
         <td class=xl6519452 align="center"><font size="2">Nanjing University</font></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467281">Federated Adversarial Debiasing for Fair and Trasnferable Representations</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf">Federated Adversarial Debiasing for Fair and Trasnferable Representations</a></td>
         <td class=xl6519452 align="center"><font size="2">Michigan State University</font></td>
         <td class=xl6519452 align="center"><a href="https://jyhong.gitlab.io/publication/fade2021kdd/">HomePage</a></td>
 	</tr>
@@ -939,12 +950,12 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	</tr>
     <tr height=19 style='height:14.25pt'>
         <td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Application Track</td>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467169">AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2109.12519.pdf">AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization</a></td>
         <td class=xl6519452 align="center"><font size="2"JD Tech</font></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/shi21c/shi21c.pdf">FLOP: Federated Learning on Medical Datasets using Partial Networks</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.05218.pdf">FLOP: Federated Learning on Medical Datasets using Partial Networks</a></td>
         <td class=xl6519452 align="center"><font size="2">Duke University</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/jianyizhang123/FLOP">code</a></td>
 	</tr>
@@ -963,14 +974,14 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	</tr>
     <tr height=19 style='height:14.25pt'>
         <td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Application Track</td>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3394486.3403298">Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2008.06197.pdf">Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data</a></td>
         <td class=xl6519452 align="center"><font size="2">JD Tech</font></td>
         <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/23301">video</a></td>
 	</tr>
 </table>
 
 
-
+&nbsp; 
 
 ## Books
 
@@ -986,7 +997,9 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
   
   [Github](https://github.com/FederatedAI/Practicing-Federated-Learning)
   
-  
+
+&nbsp; 
+
 ## Papers
 
 ### 1. Model Aggregation
@@ -994,81 +1007,93 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 Model Aggregation (or Model Fusion) refers to how to combine local models into a shared global model.  
 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+    <col width="60%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="60%" align="center">Title</td>
+		<td height=19 class=xl6519452 width="60%" align="center">Papers</td>
 		<td class=xl6519452 width="5%" align="center">Abbreviation</td>
-		<td class=xl6519452 width="20%" align="center">Conferences</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
     <tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1602.05629.pdf">Communication-Efficient Learning of Deep Networks from Decentralized Data</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1602.05629.pdf">Communication-Efficient Learning of Deep Networks from Decentralized Data</a></td>
 		<td class=xl6519452 align="center">FedAvg</td>
         <td class=xl6519452 align="center">ASTATS 2017</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1905.12022.pdf">Bayesian Nonparametric Federated Learning of Neural Networks</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1905.12022.pdf">Bayesian Nonparametric Federated Learning of Neural Networks</a></td>
 		<td class=xl6519452 align="center">PFNM</td>
         <td class=xl6519452 align="center">ICML 2019</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/IBM/probabilistic-federated-neural-matching">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf">Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf">Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent</a></td>
 		<td class=xl6519452 align="center">Krum</td>
         <td class=xl6519452 align="center">NeurIPS 2017</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1803.01498.pdf">Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1803.01498.pdf">Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates</a></td>
 		<td class=xl6519452 align="center">median;<br>trimmed mean</td>
         <td class=xl6519452 align="center">ICML 2018</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1906.01736.pdf">Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.01736.pdf">Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms</a></td>
 		<td class=xl6519452 align="center">median;<br>mean</td>
         <td class=xl6519452 align="center">NeurIPS 2020</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="http://proceedings.mlr.press/v80/mhamdi18a/mhamdi18a.pdf">The hidden vulnerability of distributed learning in byzantium</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v80/mhamdi18a/mhamdi18a.pdf">The hidden vulnerability of distributed learning in byzantium</a></td>
 		<td class=xl6519452 align="center">Bulyan</td>
         <td class=xl6519452 align="center">ICML 2018</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1805.10032.pdf">Zeno: Distributed Stochastic Gradient Descent with Suspicion-based Fault-tolerance</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1805.10032.pdf">Zeno: Distributed Stochastic Gradient Descent with Suspicion-based Fault-tolerance</a></td>
 		<td class=xl6519452 align="center">Zeno </td>
         <td class=xl6519452 align="center">ICML 2019</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/xcgoner/icml2019_zeno">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1911.00218.pdf">Statistical Model Aggregation via Parameter Matching</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1911.00218.pdf">Statistical Model Aggregation via Parameter Matching</a></td>
 		<td class=xl6519452 align="center">SPAHM</td>
         <td class=xl6519452 align="center">	NeurIPS 2019</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/IBM/SPAHM">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/2009.06303.pdf">Fed+: A Unified Approach to Robust Personalized Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2009.06303.pdf">Fed+: A Unified Approach to Robust Personalized Federated Learning</a></td>
 		<td class=xl6519452 align="center">Fed+</td>
         <td class=xl6519452 align="center"></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/1812.06127.pdf">FEDERATED OPTIMIZATION IN HETEROGENEOUS NETWORKS</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1812.06127.pdf">FEDERATED OPTIMIZATION IN HETEROGENEOUS NETWORKS</a></td>
 		<td class=xl6519452 align="center">FedProx</td>
         <td class=xl6519452 align="center">MLSys 2020</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/litian96/FedProx">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center"><a href="https://arxiv.org/pdf/2105.09400.pdf">Separation of Powers in Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.09400.pdf">Separation of Powers in Federated Learning</a></td>
 		<td class=xl6519452 align="center">Truda</td>
         <td class=xl6519452 align="center"></td>
 		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2009.01974.pdf">FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning</a></td>
+		<td class=xl6519452 align="center"><font size="2">FedBE</font></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(The Ohio State University)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=BkluqlSFDS">Federated Learning with Matched Averaging</a></td>
+		<td class=xl6519452 align="center"><font size="2">FedMA</font></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2020<br>(University of Wisconsin-Madison; IBM)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/IBM/FedMA">Code</a></td>
 	</tr>
 </table>
 
@@ -1099,9 +1124,9 @@ Personalized federated learning Survey paper:
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Conferences</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="67%" align="center">Papers</td>
+		<td class=xl6519452 width="23%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center">Multi-Task Learning</td>
@@ -1110,8 +1135,7 @@ Personalized federated learning Survey paper:
         <td class=xl6519452 align="center"><a href="https://github.com/gingsmith/fmtl">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1610.05202.pdf">Decentralized Collaborative Learning of
-Personalized Models over Networks</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1610.05202.pdf">Decentralized Collaborative Learning of Personalized Models over Networks</a></td>
         <td class=xl6519452 align="center"><font size="2">AISTATS 2017<br>(INRIA)</font></td>
         <td class=xl6519452 align="center"></td>
     </tr>
@@ -1121,8 +1145,7 @@ Personalized Models over Networks</a></td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08460.pdf">Fully Decentralized Joint Learning of
-Personalized Models and Collaboration Graphs</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08460.pdf">Fully Decentralized Joint Learning of Personalized Models and Collaboration Graphs</a></td>
         <td class=xl6519452 align="center"><font size="2">AISTATS 2020<br>(INRIA)</font></td>
         <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/7855">video</a></td>
     </tr>
@@ -1148,11 +1171,16 @@ Personalized Models and Collaboration Graphs</a></td>
         <td class=xl6519452></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Meta Learning</td>
+    	<td rowspan=5 height=76 class=xl6519452 style='height:85.5pt' align="center">Meta Learning</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2002.07948.pdf">Personalized Federated Learning: A Meta-Learning Approach</a></td>
         <td class=xl6519452 align="center"><font size="2">MIT</font></td>
         <td class=xl6519452 align="center"></td>
     </tr>
+	<tr height=19 style='height:14.25pt'>
+        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v139/acar21a/acar21a.pdf">Debiasing Model Updates for Improving Personalized Federated Training</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(Boston University; Arm) </font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959212/debiasing-model-updates-for-improving-personalized-federated-training">video</a></td>
+	</tr>
     <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1909.12488.pdf">Improving Federated Learning Personalization via Model Agnostic Meta Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">University of Washington; </br>Google</font></td>
@@ -1197,16 +1225,20 @@ Personalized Models and Collaboration Graphs</a></td>
         <td class=xl6519452></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center"> Personalization Layers</td>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center"> Personalization Layers</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1912.00818.pdf">Federated Learning with Personalization Layers</a></td>
         <td class=xl6519452 align="center"><font size="2">Adobe Research<br>Indian Institute of Technology</font></td>
         <td class=xl6519452 align="center"></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.01523.pdf">Think Locally, Act Globally: Federated Learning with Local and Global Representations</a></td>
-        <td class=xl6519452 align="center"><font size="2">CMU<br>University of Tokyo<br>Columbia University
-</font></td>
+        <td class=xl6519452 align="center"><font size="2">CMU<br>University of Tokyo<br>Columbia University</font></td>
         <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
+        <td class=xl6519452 align="center">ICML 2021<br>(University of Texas at Austin;<br> University of Pennsylvania)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a><br><a href="https://slideslive.com/38959519/exploiting-shared-representations-for-personalized-federated-learning">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -1215,7 +1247,7 @@ Personalized Models and Collaboration Graphs</a></td>
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Transfer Learning</td>
+		<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Transfer Learning</td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1910.10252.pdf">Federated evaluation of on-device personalization</a></td>
         <td class=xl6519452 align="center"><font size="2">Google</font></td>
         <td class=xl6519452 align="center"></td>
@@ -1232,13 +1264,18 @@ Personalized Models and Collaboration Graphs</a></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/1dba3025b159cd9354da65e2d0436a31-Paper.pdf">QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning</a></td>
+        <td class=xl6519452 align="center">NeurIPS 2021<br>(UCLA)</td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html">HomePage</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
 		<td class=xl6519452></td>
 		<td class=xl6519452></td>
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
+		<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1910.01991.pdf">Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints</a></td>
         <td class=xl6519452 align="center"><font size="2">Fraunhofer Heinrich Hertz Institute</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/felisat/clustered-federated-learning">Code</a></td>
@@ -1249,10 +1286,26 @@ Personalized Models and Collaboration Graphs</a></td>
         <td class=xl6519452 align="center"><a href="https://github.com/jichan3751/ifca">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.06629.pdf">Robust Federated Learning in a Heterogeneous
-Environment</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1906.06629.pdf">Robust Federated Learning in a Heterogeneous Environment</a></td>
         <td class=xl6519452 align="center"><font size="2">UC Berkeley</font></td>
         <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=ehJqJQk9cw">Personalized Federated Learning with First Order Model Optimization</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(Stanford University; NVIDIA)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Hypernetwork</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2103.04628.pdf">Personalized Federated Learning using Hypernetworks</a></td>
+        <td class=xl6519452 align="center"><font size="2">Bar-Ilan University;<br> NVIDIA </font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/AvivSham/pFedHN">code</a><br><a href="https://avivsham.github.io/pfedhn/">HomePage</a><br><a href="https://slideslive.com/38959583/personalized-federated-learning-using-hypernetworks">video</a></td>
 	</tr>
 </table>
 
@@ -1272,11 +1325,11 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Conferences</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="67%" align="center">Papers</td>
+		<td class=xl6519452 width="23%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
-<tr height=19 style='height:14.25pt'>
+	<tr height=19 style='height:14.25pt'>
     	<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">Matrix Factorization</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1906.05108">Secure federated matrix factorization</a></td>
         <td class=xl6519452 align="center">IEEE Intelligent Systems</td>
@@ -1333,11 +1386,11 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Conferences</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="67%" align="center">Papers</td>
+		<td class=xl6519452 width="23%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
-<tr height=19 style='height:14.25pt'>
+	<tr height=19 style='height:14.25pt'>
     	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Backdoor Attack</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1906.05108">How To Backdoor Federated Learning</a></td>
         <td class=xl6519452 align="center">AISTATS 2020</td>
@@ -1358,6 +1411,60 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452 align="center">ICLR 2020</td>
         <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/DBA">code</a></td>
     </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center">Gradients Attack</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1906.08935.pdf">Deep Leakage from Gradients</a></td>
+        <td class=xl6519452 align="center">NeurIPS 2020</td>
+    	<td class=xl6519452 align="center"><a href="https://hanlab.mit.edu/projects/dlg/">HomePage</a><br><a href="https://github.com/mit-han-lab/dlg">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.06089.pdf">Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix</a></td>
+        <td class=xl6519452 align="center">ICML 2021</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/gdisag/gradient_disaggregation">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.02610.pdf">iDLG: Improved Deep Leakage from Gradients</a></td>
+        <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.02610.pdf">See through Gradients: Image Batch Recovery via GradInversion</a></td>
+        <td class=xl6519452 align="center">CVPR 2021</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.14053.pdf">Inverting Gradients - How easy is it to break Privacy in Federated Learning?</a></td>
+        <td class=xl6519452 align="center">NeurIPS 2020</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/08040837089cdf46631a10aca5258e16-Paper.pdf">CAFE: Catastrophic Data Leakage in Vertical Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Rensselaer Polytechnic Institute; IBM)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/DeRafael/CAFE">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html">HomePage</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/3b3fff6463464959dcd1b68d0320f781-Paper.pdf">Evaluating Gradient Inversion Attacks and Defenses in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Princeton University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/JonasGeiping/invertinggradients">Code</a><br><a href="https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html">HomePage</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=5 height=95 class=xl6519452 style='height:85.5pt' align="center">Model Poison Attack</td>
+    	<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://arxiv.org/abs/1811.12470">Analyzing Federated Learning through an Adversarial Lens</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2019<br>(Princeton University; IBM)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/inspire-group/ModelPoisoning">Code</a></td>
+    </tr>
 </table>
 
 
@@ -1366,17 +1473,18 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 #### 4.2. Defense
 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Methodology</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Conferences</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="67%" align="center">Papers</td>
+		<td class=xl6519452 width="23%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
-<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">FL+DP</td>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=5 height=95 class=xl6519452 style='height:85.5pt' align="center">FL+DP</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1911.00222">Federated Learning With Differential Privacy: Algorithms and Performance Analysis</a></td>
         <td class=xl6519452 align="center">IEEE Transactions on Information Forensics and Security</td>
     	<td class=xl6519452 align="center"></td>
@@ -1391,6 +1499,16 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452 align="center">ICLR 2018</td>
         <td class=xl6519452 align="center"></td>
     </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.06387.pdf">The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(Google)</font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959306/the-distributed-discrete-gaussian-mechanism-for-federated-learning-with-secure-aggregation">video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/285baacbdf8fda1de94b19282acd23e2-Paper.pdf">The Skellam Mechanism for Differentially Private Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Google Research; CMU)</font></td>
+		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html">HomePage</a></td>
+	</tr>
     <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
     	<td class=xl6519452></td>
@@ -1404,8 +1522,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.usenix.org/system/files/atc20-zhang-chengliang.pdf">BatchCrypt: Efficient Homomorphic
-Encryption for Cross-Silo Federated Learning</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.usenix.org/system/files/atc20-zhang-chengliang.pdf">BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning</a></td>
         <td class=xl6519452 align="center">USENIX 2020</td>
         <td class=xl6519452 align="center"><a href="https://github.com/marcoszh/BatchCrypt">code</a></td>
     </tr>
@@ -1433,11 +1550,21 @@ Encryption for Cross-Silo Federated Learning</a></td>
         <td class=xl6519452></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"></td>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Algorithm</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf">A Little Is Enough: Circumventing Defenses For Distributed Learning</a></td>
         <td class=xl6519452 align="center">NeurIPS 2019</td>
         <td class=xl6519452 align="center"></td>
     </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.08283.pdf">CRFL: Certifiably Robust Federated Learning against Backdoor Attacks</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(UIUC; IBM)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/CRFL">code</a><br><a href="https://slideslive.com/38959047/crfl-certifiably-robust-federated-learning-against-backdoor-attacks">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/3b3fff6463464959dcd1b68d0320f781-Paper.pdf">Evaluating Gradient Inversion Attacks and Defenses in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Princeton University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/JonasGeiping/invertinggradients">Code</a><br><a href="https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html">HomePage</a></td>
+	</tr>
 </table>    
 
 &nbsp; 
@@ -1450,7 +1577,7 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
+		<td class=xl6519452 width="67%" align="center">Papers</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=5 height=95 class=xl6519452 style='height:85.5pt' align="center">General</td>
@@ -1532,8 +1659,8 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="10%" align="center">Platform</td>
-		<td class=xl6519452 width="50%" align="center">Paper</td>
-		<td height=19 class=xl6519452 width="5%" align="center">Affiliation</td>
+		<td class=xl6519452 width="50%" align="center">Papers</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Affiliations</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://www.tensorflow.org/federated">Tensorflow-Federated</a></td>
@@ -1607,32 +1734,169 @@ Encryption for Cross-Silo Federated Learning</a></td>
 &nbsp; 
 
 ### **7. Communication-Efficient**
- * [RPN: A Residual Pooling Network for Efficient Federated Learning](https://arxiv.org/abs/2001.08600) - ECAI 2020
 
- * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492) - arXiv 2017
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="70%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="70%" align="center">Papers</td>
+		<td class=xl6519452 width="25%" align="center">Conferences/Affiliations</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://arxiv.org/pdf/2001.08600.pdf">RPN: A Residual Pooling Network for Efficient Federated Learning</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center">ECAI 2020<br>(WeBank)</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v119/hamer20a/hamer20a.pdf">FedBoost: A Communication-Efficient Algorithm for Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(Google)</font></td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38928463/fedboost-a-communicationefficient-algorithm-for-federated-learning?ref=speaker-16993-latest">Video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://arxiv.org/pdf/1610.05492.pdf">Federated Learning: Strategies for Improving Communication Efficiency</a></td>
+		<td class=xl6519452 align="center"><font size="2">arXiv<br>(Google)</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2007.07682.pdf">FetchSGD: Communication-Efficient Federated Learning with Sketching</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2020<br>(UC Berkeley; Johns Hopkins University; Amazon)</font></td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38928454/fetchsgd-communicationefficient-federated-learning-with-sketching">Video</a><br><a href="https://github.com/kiddyboots216/CommEfficient">Code</a></td>	
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://arxiv.org/abs/2002.11364">Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2020<br>(KAUST)</font></td>
+        <td class=xl6519452 align="center"><a href="https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-15-19-00UTC-6191-acceleration_fo.pdf">Slide</a><br><a href="https://slideslive.com/38927921/acceleration-for-compressed-gradient-descent-in-distributed-optimization">Video</a></td>
+	</tr>
+</table>
+
 
 &nbsp;   
 
 
 ### **8. Optimization**
- * [Federated Learning with Matched Averaging](https://openreview.net/forum?id=BkluqlSFDS) - ICLR 2020
 
- * [One-Shot Federated Learning](https://arxiv.org/abs/1902.11175) - arXiv 2019
-
- * [cpSGD: Communication-efficient and differentially-private distributed SGD](https://arxiv.org/abs/1805.10559) - NeurIPS 2018
-
- * [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527) - arXiv 2016
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="70%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="20%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="70%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Application Scenarios</td>
+		<td class=xl6519452 width="20%" align="center">Conferences/Affiliations</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://arxiv.org/pdf/2011.08474.pdf">Federated Composite Optimization</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">loss function contains a non-smooth regularizer</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center">ICML 2021(Google)</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/hongliny/FCO-ICML21">code</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.04635.pdf">Federated Deep AUC Maximization for Hetergeneous Data with a Constant Communication Complexity</a></td>
+		<td class=xl6519452 align="center">Federated Deep AUC Maximization</td>
+        <td class=xl6519452 align="center">ICML 2021<br>(The University of Iowa)</td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38959235/federated-deep-auc-maximization-for-hetergeneous-data-with-a-constant-communication-complexity">video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.03198.pdf">Bias-Variance Reduced Local SGD for Less Heterogeneous Federated Learning</a></td>
+		<td class=xl6519452 align="center"><font size="2">Non-Convex Objective optimization</font></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(The University of Tokyo)</font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959169/biasvariance-reduced-local-sgd-for-less-heterogeneous-federated-learning">video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2004.01442.pdf">From Local SGD to Local Fixed-Point Methods for Federated Learning</a></td>
+		<td class=xl6519452 align="center"> fixed-point algorithms optimization</td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2020<br>(Moscow Institute of Physics and Technology; KAUST)</font></td>
+        <td class=xl6519452 align="center"><a href="https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-15-18-00UTC-6590-from_local_sgd.pdf">Slide</a><br><a href="https://slideslive.com/38928320/from-local-sgd-to-local-fixed-point-methods-for-federated-learning">Video</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td class=xl6519452 align="center"><a href="https://openreview.net/pdf?id=B7v4QMR6Z9w">Federated Learning Based on Dynamic Regularization</a></td>
+		<td class=xl6519452 align="center">In each round, the objective function for each device dynamically updates its regularizer</td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(Boston University; ARM)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.05273.pdf">Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms</a></td>
+		<td class=xl6519452 align="center">Formulate federated learning optimization as a posterior inference problem</td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(CMU; Google)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/alshedivat/fedpa">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.00295.pdf">Adaptive Federated Optimization</a></td>
+		<td class=xl6519452 align="center">Federated versions of adaptive optimizers</td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(Google)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/google-research/federated/tree/master/optimization">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=6YEQUn0QICG">FedBN: Federated Learning on Non-IID Features via Local Batch Normalization</a></td> 
+		<td class=xl6519452 align="center">How to uses local batch normalization to alleviate the feature shift before averaging models.</td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(Princeton University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/med-air/FedBN">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=ce6CFXBh30h">Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning</a></td>
+		<td class=xl6519452 align="center"><font size="1">SFederated versions of emi-Supervised Learning</font></td>
+        <td class=xl6519452 align="center">ICLR 2021<br>(KAIST)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/wyjeong/FedMatch">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td class=xl6519452 align="center"><a href="https://proceedings.neurips.cc/paper/2021/file/076a8133735eb5d7552dc195b125a454-Paper.pdf">Sageflow: Robust Federated Learning against Both Stragglers and Adversaries</a></td>
+		<td class=xl6519452 align="center">Handle both stragglers (slow devices) and adversaries simultaneously</td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(KAIST)</font></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html">HomePage</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/3016a447172f3045b65f5fc83e04b554-Paper.pdf">STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning</a></td>
+		<td class=xl6519452 align="center">Distributed stochastic non-convex optimization</td>
+        <td class=xl6519452 align="center"><font size="2">University of Minnesota</font></td>
+        <td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/3016a447172f3045b65f5fc83e04b554-Abstract.html">HomePage</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2103.00958.pdf">Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating</a></td>
+		<td class=xl6519452 align="center"><font size="1"> Vertical Federated Learning Optimization</font></td>
+        <td class=xl6519452 align="center"><font size="2"> AAAI 2021<br>(Xidian University; JD Tech)</font></td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38947765/secure-bilevel-asynchronous-vertical-federated-learning-with-backward-updating">video</a></td>
+	</tr>
+</table>
 
 &nbsp;   
 
 ### **9. Fairness**
- * [Mitigating Bias in Federated Learning](https://arxiv.org/pdf/2012.02447.pdf)
 
- * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497) - arXiv 2019
 
- * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) - ICML 2019
-
-   
+<table border=0 cellpadding=0 cellspacing=0 >
+	<col width="70%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6519452 width="70%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=ByexElSYDr">Fair Resource Allocation in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2020<br>(CMU; Facebook AI)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/litian96/fair_flearn">Code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1902.00146.pdf">Agnostic Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2019<br>(Google)</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.02447.pdf">Mitigating Bias in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">arXiv<br>(IBM)</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.04221.pdf">Ditto: Fair and Robust Federated Learning Through Personalization</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(CMU; Facebook AI)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a><br><a href="https://slideslive.com/38955195/ditto-fair-and-robust-federated-learning-through-personalization">video</a></td>
+	</tr>
+</table>
 
 &nbsp; 
 
@@ -1645,9 +1909,9 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Applications</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Company</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="67%" align="center">Papers</td>
+		<td class=xl6519452 width="23%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Computer Vision</td>
@@ -1762,9 +2026,9 @@ Encryption for Cross-Silo Federated Learning</a></td>
 	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
-		<td class=xl6519452 width="67%" align="center">Title</td>
-		<td class=xl6519452 width="23%" align="center">Conferences/Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Slide<br>&<br>Code</td>
+		<td class=xl6519452 width="67%" align="center">Papers</td>
+		<td class=xl6519452 width="23%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Tree-Base Boosting</td>
@@ -1793,6 +2057,268 @@ Encryption for Cross-Silo Federated Learning</a></td>
 
 
 &nbsp; 
+
+### **12. Incentive mechanism**
+
+<table border=0 cellpadding=0 cellspacing=0 >
+	<col width="70%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6519452 width="70%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.03228.pdf">One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021(Toyota; Berkeley; Cornell University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/rlphilli/Collaborative-Incentives">code</a><br><a href="https://slideslive.com/38959135/one-for-one-or-all-for-all-equilibria-and-optimality-of-collaboration-in-federated-learning">video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/09a5e2a11bea20817477e0b1dfe2cc21-Paper.pdf">Optimality and Stability in Federated Learning: A Game-theoretic Approach</a></td>
+        <td class=xl6519452 align="center">NeurIPS 2021<br>(Cornell University)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/kpdonahue/model_sharing_games">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/09a5e2a11bea20817477e0b1dfe2cc21-Abstract.html">HomePage</a></td>
+	</tr>
+</table>
+
+
+&nbsp;
+
+### **13. Unsupervised Learning** 
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
+		<td class=xl6519452 width="65%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Clustering</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00697.pdf">Heterogeneity for the Win: One-Shot Federated Clustering</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(CMU)</font></td>
+		<td class=xl6519452 align="center"><a href="https://slideslive.com/38959380/heterogeneity-for-the-win-oneshot-federated-clustering">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08755.pdf">Secureboost: A lossless federated learning framework</a></td>
+        <td class=xl6519452 align="center">IEEE Intelligent Systems 2021<br>(WeBank; HKUST)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.08479.pdf">Large-scale Secure XGB for Vertical Federated Learning</a></td>
+        <td class=xl6519452 align="center">CIKM 2021<br>(Ant Group)</td>
+        <td class=xl6519452 align="center"><a href="https://underline.io/lecture/36394-large-scale-secure-xgb-for-vertical-federated-learning">video</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Dimensionality reduction</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1911.04206.pdf">Practical Federated Gradient Boosting Decision Trees</a></td>
+        <td class=xl6519452 align="center">AAAI 2020<br>(NUS)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/Xtra-Computing/SimFL">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08755.pdf">Secureboost: A lossless federated learning framework</a></td>
+        <td class=xl6519452 align="center">IEEE Intelligent Systems 2021<br>(WeBank; HKUST)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.08479.pdf">Large-scale Secure XGB for Vertical Federated Learning</a></td>
+        <td class=xl6519452 align="center">CIKM 2021<br>(Ant Group)</td>
+        <td class=xl6519452 align="center"><a href="https://underline.io/lecture/36394-large-scale-secure-xgb-for-vertical-federated-learning">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Representations Learning</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
+        <td class=xl6519452 align="center">ICML 2021<br>(University of Texas at Austin;<br> University of Pennsylvania)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a><br><a href="https://slideslive.com/38959519/exploiting-shared-representations-for-personalized-federated-learning">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.08755.pdf">Secureboost: A lossless federated learning framework</a></td>
+        <td class=xl6519452 align="center">IEEE Intelligent Systems 2021<br>(WeBank; HKUST)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.08479.pdf">Large-scale Secure XGB for Vertical Federated Learning</a></td>
+        <td class=xl6519452 align="center">CIKM 2021<br>(Ant Group)</td>
+        <td class=xl6519452 align="center"><a href="https://underline.io/lecture/36394-large-scale-secure-xgb-for-vertical-federated-learning">video</a></td>
+    </tr>
+</table>
+
+&nbsp;
+
+### **14. Heterogeneity** 
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
+		<td class=xl6519452 width="65%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=9 height=171 class=xl6519452 style='height:85.5pt' align="center">Data Heterogeneity (NON-IID)</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2105.10056.pdf">Data-Free Knowledge Distillation for Heterogeneous Federated Learning</a></td>
+        <td class=xl6519452 align="center">ICML 2021<br>(Michigan State University)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/zhuangdizhu/FedGen">code</a><br><a href="https://slideslive.com/38959429/datafree-knowledge-distillation-for-heterogeneous-federated-learning">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.04635.pdf">Federated Deep AUC Maximization for Hetergeneous Data with a Constant Communication Complexity</a></td>
+        <td class=xl6519452 align="center">ICML 2021<br>(The University of Iowa)</td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38959235/federated-deep-auc-maximization-for-hetergeneous-data-with-a-constant-communication-complexity">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
+        <td class=xl6519452 align="center">ICML 2021<br>(University of Texas at Austin;<br> University of Pennsylvania)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a><br><a href="https://slideslive.com/38959519/exploiting-shared-representations-for-personalized-federated-learning">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td hclass=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1910.06378.pdf">SCAFFOLD: Stochastic Controlled Averaging for Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2020<br>(EPFL; Google)</font></td>
+        <td class=xl6519452 align="center"><a href="https://slideslive.com/38927610/scaffold-stochastic-controlled-averaging-for-federated-learning">Video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=jDdzh5ul-d">Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(The Ohio State University)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.01264.pdf">HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(Duke University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/dem123456789/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=Ogga20D2HO-">FedMix: Approximation of Mixup under Mean Augmented Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(KAIST)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6619452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=HJxNAnVtDS">On the Convergence of FedAvg on Non-IID Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2020<br>(Peking University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lx10077/fedavgpy">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/2f2b265625d76a6704b08093c652fd79-Paper.pdf">No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(NUS; Huawei)</font></td>
+		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html">HomePage</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Model Heterogeneity</td>
+    	<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://arxiv.org/abs/2006.08848">Personalized Federated Learning with Moreau Envelopes</a></td>
+        <td class=xl6519452 align="center">NeurIPS 2020<br>(The University of Sydney)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/CharlieDinh/pFedMe">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2002.05516.pdf">Federated Learning of a Mixture of Global and Local Models</a></td>
+        <td class=xl6519452 align="center"><font size="2">KAUST</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2002.04758.pdf">Salvaging Federated Learning by Local Adaptation</a></td>
+        <td class=xl6519452 align="center"><font size="2">Cornell University</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Device Heterogeneity</td>
+		<td class=xl6519452 align="center"><a href="https://proceedings.neurips.cc/paper/2021/file/076a8133735eb5d7552dc195b125a454-Paper.pdf">Sageflow: Robust Federated Learning against Both Stragglers and Adversaries</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(KAIST)</font></td>
+        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html">HomePage</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://proceedings.mlr.press/v130/ruan21a/ruan21a.pdf">Towards Flexible Device Participation in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">AISTATS 2021<br>(CMU; Sun Yat-Sen University)</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/27467">video</a><br><a href="http://proceedings.mlr.press/v130/ruan21a/ruan21a-supp.pdf">Supplementary</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1903.03934.pdf">Asynchronous Federated Optimization</a></td>
+        <td class=xl6519452 align="center"><font size="2">12th Annual Workshop on Optimization for Machine Learning</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+</table>
+
+&nbsp;
+
+### **15. Client Selection** 
+
+<table border=0 cellpadding=0 cellspacing=0 >
+	<col width="70%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6519452 width="70%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05883.pdf">Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(Accenture)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/Accenture//Labs-Federated-Learning/tree/clustered_sampling">code</a><br><a href="https://slideslive.com/38959618/clustered-sampling-lowvariance-and-improved-representativity-for-clients-selection-in-federated-learning">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2101.12204.pdf">Federated Multi-Armed Bandits</a></td>
+        <td class=xl6519452 align="center">AAAI 2021<br>(University of Virginia)</td>
+        <td class=xl6519452 align="center"><a href="https://github.com/ShenGroup/FMAB">code</a><br><a href="https://slideslive.com/38947985/federated-multiarmed-bandits">video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf">FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization</a></td>
+        <td class=xl6519452 align="center"><font size="2">AISTATS 2020<br>(UC Santa Barbara; UT Austin)</font></td>
+        <td class=xl6519452 align="center"><a href="https://papertalk.org/papertalks/7961">video</a><br><a href="http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf">Supplementary</a></td>
+	</tr>
+</table>
+
+
+&nbsp;
+
+### **16. Graph Neural Networks** 
+
+<table border=0 cellpadding=0 cellspacing=0 >
+	<col width="70%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6519452 width="70%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf">Subgraph Federated Learning with Missing Neighbor Generation</a></td>
+         <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Emory University; University of British Columbia; Lehigh University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html">HomePage</a></td>
+    </tr>
+</table>
+
+&nbsp; 
+
 
 ## Google FL Workshops
 
