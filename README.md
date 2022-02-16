@@ -1618,7 +1618,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2003.08673">Survey of Personalization Techniques for Federated Learning</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2003.02133">Threats to Federated Learning: A Survey</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00710.pdf">Towards Personalized Federated Learning</a></td>
     </tr>
 	<tr height=25 style='height:14.25pt'>
     	<td height=25 class=xl6519452 style='height:14.25pt'></td>
