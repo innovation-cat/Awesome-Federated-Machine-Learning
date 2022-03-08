@@ -1779,6 +1779,9 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     </tr>
     <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1907.09693.pdf">A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection</a></td>
+     </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeeaccess.ieee.org/featured-articles/internetoffederated_thingsioft/">The Internet of Federated Things (IoFT)</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1909.11875.pdf">Federated Learning in Mobile Edge Networks: A Comprehensive Survey</a></td>
