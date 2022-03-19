@@ -229,32 +229,32 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td rowspan=21 height=399 class=xl6519452 style='height:242.25pt' align="center">ICLR 2022</td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2111.04706.pdf">Bayesian Framework for Gradient Leakage</a></td>
         <td class=xl6519452 align="center"><font size="2">ETH Zurich</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/eth-sri/bayes-framework-leakage">Code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=WHA8009laxu">Unsupervised Federated Learning is Possible</a></td>
-        <td class=xl6519452 align="center"><font size="2"></font></td>
-		<td class=xl6519452 align="center"></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=WHA8009laxu">Federated Learning from only unlabeled data with class-conditional-sharing clients</a></td>
+        <td class=xl6519452 align="center"><font size="2">The University of Tokyo;<br>The Chinese University of Hong Kong</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lunanbit/FedUL">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2108.06869.pdf">Reducing the Communication Cost of Federated Learning through Multistage Optimization</a></td>
-        <td class=xl6519452 align="center"><font size="2">Carnegie Mellon University</font></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2108.06869.pdf">FedChain: Chained Algorithms for Near-Optimal Communication Cost in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Carnegie Mellon University;<br>University of Illinois at Urbana-Champaign;<br>University of Washington</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=541PxiEKN3F">Acceleration of Federated Learning with Alleviated Forgetting in Local Training</a></td>
         <td class=xl6519452 align="center"><font size="2">Tsinghua University</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/Zoesgithub/FedReg">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2108.06098.pdf">FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">POSTECH</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/South-hw/FedPara_ICLR22">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=Xo0lbDt975">An Agnostic Approach to Federated Learning with Class Imbalance</a></td>
         <td class=xl6519452 align="center"><font size="2">University of Pennsylvania </font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/shenzebang/Federated-Learning-Pytorch">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=_QLmakITKg">Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization</a></td>
@@ -262,19 +262,19 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/illidanlab/SplitMix">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2110.13057.pdf">Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Maryland</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=fwzUgo0FM9v">Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Maryland;<br>New York University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lhfowl/robbing_the_fed">code (Minimum)</a><br><a href="https://github.com/JonasGeiping/breaching">code (Comprehensive)</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=2sDQwC_hmnM">ZeroFL: Efficient On-Device Training for Federated Learning with Local Sparsity</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Cambridge</font></td>
+        <td class=xl6519452 align="center"><font size="2">University of Cambridge;<br>University of Oxford</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=nwKXyFvaUm">Diverse Client Selection for Federated Learning via Submodular Maximization</a></td>
         <td class=xl6519452 align="center"><font size="2">Intel;<br>Carnegie Mellon University</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/melodi-lab/divfl">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2202.00280.pdf">Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank? </a></td>
@@ -284,7 +284,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=E4EE_ohFGz">Diurnal or Nocturnal? Federated Learning of Multi-branch Networks from Periodically Shifting Distributions </a></td>
         <td class=xl6519452 align="center"><font size="2">University of Maryland;<br>Google</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/google-research/federated/tree/7525c36324cb022bc05c3fce88ef01147cae9740/periodic_distribution_shift">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2110.15210.pdf">Towards Model Agnostic Federated Learning Using Knowledge Distillation</a></td>
@@ -299,7 +299,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2110.14216.pdf">What Do We Mean by Generalization in Federated Learning? </a></td>
         <td class=xl6519452 align="center"><font size="2">Stanford University;<br>Google</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/google-research/federated/tree/master/generalization">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.06042.pdf">FedBABU: Toward Enhanced Representation for Federated Image Classification </a></td>
@@ -324,11 +324,11 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2107.00778.pdf">On Bridging Generic and Personalized Federated Learning for Image Classification </a></td>
         <td class=xl6519452 align="center"><font size="2">The Ohio State University</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/hongyouc/Fed-RoD">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2110.10342.pdf">Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond</a></td>
-        <td class=xl6519452 align="center"><font size="2">MIT</font></td>
+        <td class=xl6519452 align="center"><font size="2">KAIST;<br>MIT</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
@@ -861,7 +861,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/16920">SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Chinese Academy of Sciences</font></td>
+        <td class=xl6519452 align="center"><font size="2">Harbin Institute of Technology;<br>Peng Cheng Laboratory</font></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
