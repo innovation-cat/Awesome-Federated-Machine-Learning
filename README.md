@@ -1586,7 +1586,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Backdoor Attack</td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1906.05108">How To Backdoor Federated Learning</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1807.00459.pdf">How To Backdoor Federated Learning</a></td>
         <td class=xl6519452 align="center">AISTATS 2020</td>
     	<td class=xl6519452 align="center"><a href="https://github.com/ebagdasa/backdoor_federated_learning">code</a></td>
     </tr>
@@ -1601,7 +1601,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452 align="center"><a href="https://github.com/ksreenivasan/OOD_Federated_Learning">code</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://lirias.kuleuven.be/retrieve/540896">DBA: Distributed Backdoor Attacks against Federated Learning</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=rkgyS0VFvr">DBA: Distributed Backdoor Attacks against Federated Learning</a></td>
         <td class=xl6519452 align="center">ICLR 2020</td>
         <td class=xl6519452 align="center"><a href="https://github.com/AI-secure/DBA">code</a></td>
     </tr>
