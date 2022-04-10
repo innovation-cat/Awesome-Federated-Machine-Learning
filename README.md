@@ -755,6 +755,38 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="25%" align="center">Affiliation</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=5 height=95 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
+		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.11751.pdf">FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction</a></td>
+        <td class=xl6519452 align="center"><font size="2">National University of Defense Technology</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/gaoliang13/FedDC">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.11473.pdf">Federated Class-Incremental Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Chinese Academy of Sciences;<br>Northwestern University; <br>University of Technology Sydney</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/conditionWang/FCIL">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.09249.pdf">Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2"> Peking University; <br> JD Explore Academy; <br> The University of Sydney</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.03106.pdf">Differentially Private Federated Learning with Local Regularization and Sparsification</a></td>
+        <td class=xl6519452 align="center"><font size="2">Chinese Academy of Sciences</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.15696.pdf">Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Tennessee;<br>Oak Ridge National Laboratory;<br>Google Research</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/zhuohangli/GGL">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
     <tr height=19 style='height:14.15pt'>
 		<td rowspan=4 height=76 class=xl6519452 style='height:242.25pt' align="center">CVPR 2021</td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2103.02148.pdf">Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning</a></td>
@@ -767,7 +799,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 align="center"><a href="https://github.com/QinbinLi/MOON">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://github.com/liuquande/FedDG-ELCFS">FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space</a></td>
+        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.06030.pdf">FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space</a></td>
         <td class=xl6519452 align="center"><font size="2">The Chinese University of Hong Kong</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/liuquande/FedDG-ELCFS">code</a></td>
 	</tr>
