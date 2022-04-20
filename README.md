@@ -5,7 +5,8 @@ Federated Learning (FL) is a new machine learning framework, which enables multi
 <img width="700" src="images/cover.png" alt="FL"/>
 </div>
 
-This repository will continue to be collected and updated everything about federated learning materials, including research papers, conferences, blogs and beyond.
+This repository aims to keep tracking the latest research advancements of federated learning, including but not limited to research papers, books, codes, tutorials, and videos.
+
 
 
 
