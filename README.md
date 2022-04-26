@@ -844,7 +844,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
     <tr height=19 style='height:14.15pt'>
-		<td rowspan=2 height=38 class=xl6519452 style='height:242.25pt' align="center">ICCV 2021</td>
+		<td rowspan=3 height=38 class=xl6519452 style='height:242.25pt' align="center">ICCV 2021</td>
 		<td class=xl6519452 align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf">Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment</a></td>
         <td class=xl6519452 align="center"><font size="2">Peking University</font></td>
 		<td class=xl6519452 align="center"></td>
