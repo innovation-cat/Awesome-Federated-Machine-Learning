@@ -854,6 +854,11 @@ In this section, we will summarize Federated Learning papers accepted by top com
         <td class=xl6519452 align="center"><font size="2">University at Buffalo</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
+		<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.pdf">Collaborative Unsupervised Visual Representation Learning from Decentralized Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">Nanyang Technological University;SenseTime</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
 </table>
 
 
@@ -1923,6 +1928,11 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2007.13518">FedML: A Research Library and Benchmark for Federated Machine Learning</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedml.ai/">fedml.ai</a></td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/EasyFL-AI/EasyFL">EasyFL</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9684558">EasyFL: A Low-code Federated Learning Platform For Dummies</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">NTU</td>
+	</tr>	
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/intel/openfl">OpenFL</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2105.06413">OpenFL: An open-source framework for Federated Learning</a></td>
