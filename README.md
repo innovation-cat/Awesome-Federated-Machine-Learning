@@ -1692,7 +1692,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.15696.pdf">Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage</a></td>
-        <td class=xl6519452 align="center"><font size="2">CVPR 2022<br>(University of Tennessee)</font></td>
+        <td class=xl6519452 align="center"><font size="2">CVPR 2022<br>(University of Tennessee;Oak Ridge National Laboratory)</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/zhuohangli/GGL">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
