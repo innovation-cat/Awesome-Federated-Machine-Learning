@@ -1987,7 +1987,12 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/sherpaai/Sherpa.ai-Federated-Learning-Framework">Sherpa.ai Federated Learning </a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://developers.sherpa.ai/privacy-technology/overview">Sherpa.ai</a></td>
-	</tr>	
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/SymbioticLab/FedScale">FedScale</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2105.11367.pdf">FedScale: Benchmarking Model and System Performance of Federated Learning at Scale</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/SymbioticLab/FedScale">fedscale.ai</a></td>
+	</tr>
 </table>
 
 
@@ -2508,6 +2513,11 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.usenix.org/conference/osdi21/presentation/lai">Oort: Efficient Federated Learning via Guided Participant Selection</a></td>
+        <td class=xl6519452 align="center"><font size="2">OSDI 2021<br>(University of Michigan)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/SymbioticLab/Oort">code</a><br><a href="https://www.youtube.com/watch?v=5npOel4T4Mw&t=1s">video</a></td>
+    </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05883.pdf">Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(Accenture)</font></td>
