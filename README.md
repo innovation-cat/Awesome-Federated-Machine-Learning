@@ -1645,7 +1645,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center">Gradients Attack</td>
+    	<td rowspan=10 height=190 class=xl6519452 style='height:85.5pt' align="center">Gradients Attack</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1906.08935.pdf">Deep Leakage from Gradients</a></td>
         <td class=xl6519452 align="center">NeurIPS 2020</td>
     	<td class=xl6519452 align="center"><a href="https://hanlab.mit.edu/projects/dlg/">HomePage</a><br><a href="https://github.com/mit-han-lab/dlg">code</a></td>
@@ -1656,19 +1656,24 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452 align="center"><a href="https://github.com/gdisag/gradient_disaggregation">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.06089.pdf">Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning</a></td>
+        <td class=xl6519452 align="center">ACM CCS 2017</td>
+        <td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=_esD8BlciB0&ab_channel=AssociationofComputingMachinery2017">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.02610.pdf">iDLG: Improved Deep Leakage from Gradients</a></td>
         <td class=xl6519452 align="center">Arxiv</td>
         <td class=xl6519452 align="center"><a href="https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.02610.pdf">See through Gradients: Image Batch Recovery via GradInversion</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.07586.pdf">See through Gradients: Image Batch Recovery via GradInversion</a></td>
         <td class=xl6519452 align="center">CVPR 2021</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2003.14053.pdf">Inverting Gradients - How easy is it to break Privacy in Federated Learning?</a></td>
         <td class=xl6519452 align="center">NeurIPS 2020</td>
-        <td class=xl6519452 align="center"><a href="https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients">code</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/JonasGeiping/invertinggradients">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/08040837089cdf46631a10aca5258e16-Paper.pdf">CAFE: Catastrophic Data Leakage in Vertical Federated Learning</a></td>
@@ -1678,7 +1683,17 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/3b3fff6463464959dcd1b68d0320f781-Paper.pdf">Evaluating Gradient Inversion Attacks and Defenses in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Princeton University)</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/JonasGeiping/invertinggradients">Code</a><br><a href="https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html">HomePage</a></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.07733.pdf">R-GAP: RECURSIVE GRADIENT ATTACK ON PRIVACY</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2021<br>(KU Leuven, Belgium)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/JunyiZhu-AI/R-GAP">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.15696.pdf">Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage</a></td>
+        <td class=xl6519452 align="center"><font size="2">CVPR 2022<br>(University of Tennessee)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/zhuohangli/GGL">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
