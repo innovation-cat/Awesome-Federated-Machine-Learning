@@ -844,7 +844,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
     <tr height=19 style='height:14.15pt'>
-		<td rowspan=2 height=38 class=xl6519452 style='height:242.25pt' align="center">ICCV 2021</td>
+		<td rowspan=3 height=57 class=xl6519452 style='height:242.25pt' align="center">ICCV 2021</td>
 		<td class=xl6519452 align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf">Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment</a></td>
         <td class=xl6519452 align="center"><font size="2">Peking University</font></td>
 		<td class=xl6519452 align="center"></td>
@@ -852,6 +852,11 @@ In this section, we will summarize Federated Learning papers accepted by top com
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf">Ensemble Attention Distillation for Privacy-Preserving Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">University at Buffalo</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.pdf">Collaborative Unsupervised Visual Representation Learning from Decentralized Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">Nanyang Technological University;<br>SenseTime</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 </table>
@@ -1822,7 +1827,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 		<td class=xl6519452 width="67%" align="center">Papers</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=5 height=95 class=xl6519452 style='height:85.5pt' align="center">General</td>
+    	<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">General</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1902.04885.pdf">Federated machine learning: Concept and applications</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
@@ -1836,6 +1841,9 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1908.07873.pdf">Federated Learning: Challenges, Methods, and Future Directions</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeeaccess.ieee.org/featured-articles/internetoffederated_thingsioft/">The Internet of Federated Things (IoFT)</a></td>
     </tr>
     <tr height=25 style='height:14.25pt'>
     	<td height=25 class=xl6519452 style='height:14.25pt'></td>
@@ -1987,6 +1995,16 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/sherpaai/Sherpa.ai-Federated-Learning-Framework">Sherpa.ai Federated Learning </a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://developers.sherpa.ai/privacy-technology/overview">Sherpa.ai</a></td>
+	</tr>	
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/SymbioticLab/FedScale">FedScale</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2105.11367.pdf">FedScale: Benchmarking Model and System Performance of Federated Learning at Scale</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/SymbioticLab/FedScale">fedscale.ai</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/EasyFL-AI/EasyFL">EasyFL</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9684558">EasyFL: A Low-code Federated Learning Platform For Dummies</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">NTU</td>
 	</tr>	
 </table>
 
@@ -2509,13 +2527,18 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.usenix.org/conference/osdi21/presentation/lai">Oort: Efficient Federated Learning via Guided Participant Selection</a></td>
+        <td class=xl6519452 align="center"><font size="2">OSDI 2021<br>(University of Michigan)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/SymbioticLab/Oort">code</a><br><a href="https://www.youtube.com/watch?v=5npOel4T4Mw&t=1s">video</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.05883.pdf">Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(Accenture)</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/Accenture//Labs-Federated-Learning/tree/clustered_sampling">code</a><br><a href="https://slideslive.com/38959618/clustered-sampling-lowvariance-and-improved-representativity-for-clients-selection-in-federated-learning">video</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2101.12204.pdf">Federated Multi-Armed Bandits</a></td>
-        <td class=xl6519452 align="center">AAAI 2021<br>(University of Virginia)</td>
+        <td class=xl6519452 align="center"><font size="2">AAAI 2021<br>(University of Virginia)</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/ShenGroup/FMAB">code</a><br><a href="https://slideslive.com/38947985/federated-multiarmed-bandits">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
@@ -2612,7 +2635,7 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 
 
 ## Google FL Workshops
-
+ * [Google Workshop on Federated Learning and Analytics 2021](https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA)
  * [Google Workshop on Federated Learning and Analytics 2020](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu) 
  * [Google Federated Learning workshop 2019](https://sites.google.com/view/federated-learning-2019/home) 
 
