@@ -1851,7 +1851,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">System</td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9780218">Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/document/9780218">Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies</a></td>
     </tr>
 	<tr height=25 style='height:14.25pt'>
     	<td height=25 class=xl6519452 style='height:14.25pt'></td>
