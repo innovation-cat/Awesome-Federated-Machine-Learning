@@ -1849,6 +1849,14 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     	<td height=25 class=xl6519452 style='height:14.25pt'></td>
     	<td class=xl6519452></td>
     </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">System</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9780218">Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies</a></td>
+    </tr>
+	<tr height=25 style='height:14.25pt'>
+    	<td height=25 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    </tr>
     <tr height=19 style='height:14.25pt'>
     	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Security</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.researchgate.net/publication/344611776_A_survey_on_security_and_privacy_of_federated_learning">A survey on security and privacy of federated learning</a></td>
