@@ -757,10 +757,15 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=5 height=95 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
+		<td rowspan=6 height=114 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.11751.pdf">FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction</a></td>
         <td class=xl6519452 align="center"><font size="2">National University of Defense Technology</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/gaoliang13/FedDC">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.14666.pdf">Federated Learning with Position-Aware Neurons</a></td>
+        <td class=xl6519452 align="center"><font size="2">Nanjing University;<br>Huawei Noah’s Ark Lab</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lxcnju/FedRepo">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.11473.pdf">Federated Class-Incremental Learning</a></td>
@@ -1168,7 +1173,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf">FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data</a></td>
         <td class=xl6519452 align="center"><font size="2">Nanjing University</font></td>
-        <td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/lxcnju/FedRepo">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf">Federated Adversarial Debiasing for Fair and Trasnferable Representations</a></td>
