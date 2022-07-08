@@ -2399,11 +2399,36 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Representations Learning</td>
+    	<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">Representations Learning</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2102.07078.pdf">Exploiting Shared Representations for Personalized Federated Learning</a></td>
         <td class=xl6519452 align="center">ICML 2021<br>(University of Texas at Austin;<br> University of Pennsylvania)</td>
         <td class=xl6519452 align="center"><a href="https://github.com/lgcollins/FedRep">code</a><br><a href="https://slideslive.com/38959519/exploiting-shared-representations-for-personalized-federated-learning">video</a></td>
     </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://drive.google.com/file/d/10THt_cAsRNPNKRu4GJLEwAM3nF0vowmb/view">Towards Federated Unsupervised Representation Learning</a></td>
+        <td class=xl6519452 align="center">EdgeSys '20<br>(Eindhoven University of Technology)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2010.08982.pdf">Federated Unsupervised Representation Learning</a></td>
+        <td class=xl6519452 align="center">Zhejiang University</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.pdf">Collaborative Unsupervised Visual Representation Learning from Decentralized Data</a></td>
+        <td class=xl6519452 align="center">(ICCV 2021)<br>(Nanyang Technological University;SenseTime)</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2204.04385.pdf">Divergence-aware Federated Self-Supervised Learning</a></td>
+        <td class=xl6519452 align="center">(ICLR 2022)<br>(Nanyang Technological University)</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2205.11506.pdf">Orchestra: Unsupervised Federated Learning via Globally Consistent Clustering</a></td>
+        <td class=xl6519452 align="center">(ICML 2022)<br>(University of Michigan;University of Cambridge)</td>
+		<td class=xl6519452 align="center"><a href="https://github.com/akhilmathurs/orchestra">code</a></td>
+	</tr>
 </table>
 
 &nbsp;
