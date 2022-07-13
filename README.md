@@ -25,7 +25,6 @@ This repository aims to keep tracking the latest research advancements of federa
 	 + [Recommender system](#3-Recommender-system)
 	 + [Security](#4-Security)&emsp;&emsp;
 	 + [Survey](#5-Survey)&emsp;&emsp;
-	 + [System Architecture](#6-System-Design)
 	 + [Efficiency](#7-Communication-Efficient)&emsp;&emsp;
 	 + [Optimization](#8-Optimization)&emsp;&emsp; 
 	 + [Fairness](#9-Fairness)<br>
@@ -40,6 +39,8 @@ This repository aims to keep tracking the latest research advancements of federa
  - [Videos and Lectures](#Videos-and-Lectures)
  - [Tutorials and Blogs](#Tutorials-and-Blogs)
  - [Open-Sources](#open-sources)
+     + [Enterprise Grade](#Enterprise-Grade)
+	 + [Research Purpose](#Research-Purpose)
 
 &nbsp; 
 
@@ -1922,91 +1923,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 ### **6. System Design**
 
-<table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
-	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
-	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="10%" align="center">Platform</td>
-		<td class=xl6519452 width="50%" align="center">Papers</td>
-		<td height=19 class=xl6519452 width="5%" align="center">Affiliations</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://www.tensorflow.org/federated">Tensorflow-Federated</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1902.01046">Towards Federated Learning at Scale: System Design</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">Google</td>
-    </tr>
-    <tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/OpenMined/PySyft">PySyft</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1811.04017">A generic framework for privacy preserving deep learning</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">OpenMined</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/FedML-AI/FedML">FedML</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2007.13518">FedML: A Research Library and Benchmark for Federated Machine Learning</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedml.ai/">fedml.ai</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/intel/openfl">OpenFL</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2105.06413">OpenFL: An open-source framework for Federated Learning</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">Intel</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://developer.nvidia.com/clara">Clara</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">NVIDIA</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/IBM/federated-learning-lib">IBM Federated Learning</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2007.10987.pdf">IBM Federated Learning: an Enterprise Framework White Paper</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">IBM</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/FederatedAI/FATE">FATE</a></td>
-        <td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.jmlr.org/papers/volume22/20-815/20-815.pdf">FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedai.org/">WeBank</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/bytedance/fedlearner">Fedlearner</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">Bytedance</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/adap/flower">Flower</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.03042.pdf">Flower: A Friendly Federated Learning Research Framework</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://flower.dev/">flower.dev</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/PaddlePaddle/PaddleFL">PaddleFL</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">Baidu</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/TalwalkarLab/leaf">LEAF </a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1812.01097.pdf">LEAF: A Benchmark for Federated Settings</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://leaf.cmu.edu/">CMU</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/OpenMined/PyVertical">PyVertical </a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.00489.pdf">PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">OpenMined</td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/sherpaai/Sherpa.ai-Federated-Learning-Framework">Sherpa.ai Federated Learning </a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://developers.sherpa.ai/privacy-technology/overview">Sherpa.ai</a></td>
-	</tr>	
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/SymbioticLab/FedScale">FedScale</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2105.11367.pdf">FedScale: Benchmarking Model and System Performance of Federated Learning at Scale</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/SymbioticLab/FedScale">fedscale.ai</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/EasyFL-AI/EasyFL">EasyFL</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9684558">EasyFL: A Low-code Federated Learning Platform For Dummies</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center">NTU</td>
-	</tr>	
-</table>
+
 
 
 
@@ -2695,11 +2612,129 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 
 
 ## Open-Sources
- * [WeBank Federated AI Technology Enabler](https://github.com/FederatedAI/FATE)
- * [Google Tensorflow Federated](https://github.com/tensorflow/federated)
- * [OpenMined PySyft](https://github.com/OpenMined/PySyft)
- * [Baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
- * [FedML](https://github.com/FedML-AI/FedML)
- * [OpenFL](https://github.com/intel/openfl)
+
+Developing a federated learning framework from scratch is very time-consuming, especially in industrial. An excellent FL framework can facilitate engineers and researchers to train, research and deploy the FL model in practice. In this section, we summarize some commonly used open-source FL frameworks from both industrial and academia perspectives. 
+
+### Enterprise Grade
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="10%" align="center">Platform</td>
+		<td class=xl6519452 width="50%" align="center">Papers</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Affiliations/HomePage</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/FederatedAI/FATE">FATE</a></td>
+        <td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.jmlr.org/papers/volume22/20-815/20-815.pdf">FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedai.org/">WeBank</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/FedML-AI/FedML">FedML</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2007.13518">FedML: A Research Library and Benchmark for Federated Machine Learning</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedml.ai/">fedml.ai</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/intel/openfl">OpenFL</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2105.06413">OpenFL: An open-source framework for Federated Learning</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://openfl.readthedocs.io/en/latest/">Intel</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/NVIDIA/NVFlare">NVFlare</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://nvflare.readthedocs.io/">NVIDIA</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/IBM/federated-learning-lib">IBM Federated Learning</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2007.10987.pdf">IBM Federated Learning: an Enterprise Framework White Paper</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ibmfl.mybluemix.net/">IBM</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/bytedance/fedlearner">Fedlearner</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/bytedance/fedlearner">Bytedance</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/adap/flower">Flower</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.03042.pdf">Flower: A Friendly Federated Learning Research Framework</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://flower.dev/">flower.dev</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/PaddlePaddle/PaddleFL">PaddleFL</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://paddlefl.readthedocs.io/en/stable/introduction.html">Baidu</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/sherpaai/Sherpa.ai-Federated-Learning-Framework">Sherpa.ai Federated Learning </a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2007.00914.pdf">Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.sherpa.ai/">Sherpa.ai</a></td>
+	</tr>		
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/alibaba/FederatedScope">FederatedScope</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2204.05011.pdf">FederatedScope: A Flexible Federated Learning Platform for Heterogeneity</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.federatedscope.io/">Alibaba</a></td>
+	</tr>		
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/secretflow/secretflow">secretflow</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://secretflow.readthedocs.io/en/latest/">Antgroup</a></td>
+	</tr>		
+</table>
+
+### Research Purpose 
+
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
+	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
+	<col width="23%" style='mso-width-source:userset;mso-width-alt:10944;width:257pt'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="10%" align="center">Platform</td>
+		<td class=xl6519452 width="50%" align="center">Papers</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Affiliations/HomePage</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/tensorflow/federated">Tensorflow-Federated</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1902.01046">Towards Federated Learning at Scale: System Design</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.tensorflow.org/federated">Google</a></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/OpenMined/PySyft">PySyft</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1811.04017">A generic framework for privacy preserving deep learning</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.openmined.org/">OpenMined</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/TalwalkarLab/leaf">LEAF</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1812.01097.pdf">LEAF: A Benchmark for Federated Settings</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://leaf.cmu.edu/">CMU</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/SymbioticLab/FedScale">FedScale</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2105.11367.pdf">FedScale: Benchmarking Model and System Performance of Federated Learning at Scale</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://symbioticlab.org/">SymbioticLab(University of Michigan)</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/EasyFL-AI/EasyFL">EasyFL</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9684558">EasyFL: A Low-code Federated Learning Platform For Dummies</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://easyfl.readthedocs.io/en/latest/">NTU</a></td>
+	</tr>	
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/SMILELab-FL/FedLab">FedLab</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2107.11621.pdf">FedLab: A Flexible Federated Learning Framework</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedlab.readthedocs.io/en/master/">SMILELab-FL</a></td>
+	</tr>	
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/GalaxyLearning/GFL">Galaxy Federated Learning</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2010.10996.pdf">GFL: A Decentralized Federated Learning Framework Based On Blockchain</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://galaxylearning.github.io/">Zhejiang University</a></td>
+	</tr>	
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/Xtra-Computing/FedTree">FedTree</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedtree.readthedocs.io/en/latest/index.html">National University of Singapore</a></td>
+	</tr>	
+</table>
+
 
 **[⬆ Return to top](#table-of-contents)**
