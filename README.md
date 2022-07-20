@@ -2847,11 +2847,6 @@ Developing a federated learning framework from scratch is very time-consuming, e
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/bytedance/fedlearner">Bytedance</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/adap/flower">Flower</a></td>
-    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.03042.pdf">Flower: A Friendly Federated Learning Research Framework</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://flower.dev/">flower.dev</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/PaddlePaddle/PaddleFL">PaddleFL</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://paddlefl.readthedocs.io/en/stable/introduction.html">Baidu</a></td>
@@ -2891,6 +2886,26 @@ Developing a federated learning framework from scratch is very time-consuming, e
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/tensorflow/federated">Tensorflow-Federated</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/1902.01046">Towards Federated Learning at Scale: System Design</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.tensorflow.org/federated">Google</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/google/fedjax">FedJAX</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2108.02117.pdf">FEDJAX: Federated learning simulation with JAX</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ai.googleblog.com/2021/10/fedjax-federated-learning-simulation.html">Google</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/adap/flower">Flower</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.03042.pdf">Flower: A Friendly Federated Learning Research Framework</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://flower.dev/">flower.dev</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/microsoft/msrflute">FLUTE</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2203.13789.pdf">FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.microsoft.com/en-us/research/blog/flute-a-scalable-federated-learning-simulation-platform/">Microsoft</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/facebookresearch/FLSim">FLSim</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center">Meta</td>
     </tr>
     <tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/OpenMined/PySyft">PySyft</a></td>
