@@ -1075,10 +1075,25 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-        <td rowspan=15 height=285 class=xl6519452 style='height:85.5pt' align="center"><a href="https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf">AAAI 2022</a></td>
+        <td rowspan=18 height=342 class=xl6519452 style='height:85.5pt' align="center"><a href="https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf">AAAI 2022</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2112.10775.pdf">HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images</a></td>
         <td class=xl6519452 align="center"><font size="2"> The Chinese University of Hong Kong;<br>Beihang University</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/med-air/HarmoFL">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20213">Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Chinese Academy of Sciences</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20903">FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates</a></td>
+        <td class=xl6519452 align="center"><font size="2">Nanjing University of Aeronautics and Astronautics</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.aaai.org/AAAI22Papers/AAAI-12714.ZhangS.pdf">Learning Advanced Client Selection Strategy for Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Harvard University</font></td>
+        <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2112.07246.pdf">Federated Learning for Face Recognition with Gradient Correction</a></td>
@@ -1096,8 +1111,8 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
         <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2112.08831.pdf">Bridging between Cognitive Processing Signals and Linguistic Features via a Unified Attentional Network</a></td>
-        <td class=xl6519452 align="center"><font size="2">Tianjin University</font></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2112.08831.pdf">Is Your Data Relevant?: Dynamic Selection of Relevant Data for Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">IIT Bombay</font></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
@@ -1148,7 +1163,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2112.07157.pdf">Federated Nearest Neighbor Classification with a Colony of Fruit-Flies</a></td>
         <td class=xl6519452 align="center"><font size="2">IBM Research;<br>Wichita State University</font></td>
-        <td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/rithram/flynn">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -2657,6 +2672,26 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 		<td class=xl6519452 width="70%" align="center">Papers</td>
 		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=nwKXyFvaUm">Diverse Client Selection for Federated Learning via Submodular Maximization</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2022<br>(Intel; CMU)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/melodi-lab/divfl">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.aaai.org/AAAI22Papers/AAAI-12714.ZhangS.pdf">Learning Advanced Client Selection Strategy for Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">AAAI 2022<br>(Harvard University)</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://proceedings.mlr.press/v151/jee-cho22a/jee-cho22a.pdf">Towards understanding biased client selection in federated learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">AISTATS 2022<br>(Carnegie Mellon University)</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.08756.pdf">Stochastic Client Selection for Federated Learning with Volatile Clients</a></td>
+        <td class=xl6519452 align="center"><font size="2">IEEE Internet of Things Journal 2022<br>(South China University of Technology)</font></td>
+        <td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.usenix.org/conference/osdi21/presentation/lai">Oort: Efficient Federated Learning via Guided Participant Selection</a></td>
