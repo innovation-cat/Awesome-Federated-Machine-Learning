@@ -35,6 +35,8 @@ This repository aims to keep tracking the latest research advancements of federa
 	 + [Heterogeneity](#14-Heterogeneity)&emsp;&emsp;
 	 + [Client Selection](#15-Client-Selection)
 	 + [Graph Neural Networks](#16-Graph-Neural-Networks)
+	 + [Neural Architecture Search](#17-Neural-Architecture-Search)
+	 + [Other Machine Learning Paradigm](#18-Other-Machine-Learning-Paradigm)
  - [Google FL Workshops](#google-fl-workshops)	 
  - [Videos and Lectures](#Videos-and-Lectures)
  - [Tutorials and Blogs](#Tutorials-and-Blogs)
@@ -2744,6 +2746,26 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 		<td class=xl6519452 align="center"><a href="https://github.com/melodi-lab/divfl">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.09249.pdf">TiFL: A Tier-based Federated Learning System</a></td>
+        <td class=xl6519452 align="center"><font size="2">HPDC 2020<br>(George Mason University)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2007.15197.pdf">Communication-Efficient Federated Learning via Optimal Client Sampling</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Texas at Austin</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.usenix.org/system/files/osdi21-lai.pdf">Oort: Efficient Federated Learning via Guided Participant Selection</a></td>
+        <td class=xl6519452 align="center"><font size="2">OSDI 2021<br>(University of Michigan)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/SymbioticLab/Oort">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://intellisys.haow.ca/assets/pdf/hao-favor-slides.pdf">Optimizing federated learning on non-iid data with reinforcement learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">IEEE INFOCOM 2020<br>(University of Toronto)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.aaai.org/AAAI22Papers/AAAI-12714.ZhangS.pdf">Learning Advanced Client Selection Strategy for Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">AAAI 2022<br>(Harvard University)</font></td>
         <td class=xl6519452 align="center"></td>
@@ -2865,6 +2887,43 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 
 &nbsp; 
 
+### **17. Neural Architecture Search** 
+
+<table border=0 cellpadding=0 cellspacing=0 >
+	<col width="70%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6519452 width="70%" align="center">Papers</td>
+		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2002.06352.pdf">Federated Neural Architecture Search</a></td>
+        <td class=xl6519452 align="center"><font size="2">Beijing University of Posts and Telecommunications</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=1OHZX4YDqhT">FedNAS: Federated Deep Learning via Neural Architecture Search</a></td>
+        <td class=xl6519452 align="center"><font size="2">CVPR 2020 workshop<br>(University of Southern California)</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2101.11896.pdf">Self-supervised cross-silo federated neural architecture search</a></td>
+        <td class=xl6519452 align="center"><font size="2">WeBank</font></td>
+        <td class=xl6519452 align="center"></td>
+	</tr>
+</table>
+
+
+&nbsp;
+
+
+### **18. Other Machine Learning Paradigm** 
+
+TBC...
+
+&nbsp;
 
 ## Google FL Workshops
  * [Google Workshop on Federated Learning and Analytics 2021](https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA)
