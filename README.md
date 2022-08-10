@@ -79,7 +79,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.02969.pdf">FedNL: Making Newton-Type Methods Applicable to Federated Learning</a></td>
         <td class=xl6519452 align="center">KAUST</td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=_VYCEWT17R0&ab_channel=FederatedLearningOneWorldSeminar">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.04850.pdf">Federated Minimax Optimization: Improved Convergence Analyses and Algorithms</a></td>
@@ -420,7 +420,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=21 height=399 class=xl6519452 style='height:242.25pt' align="center">ICLR 2022</td>
+		<td rowspan=21 height=399 class=xl6519452 style='height:242.25pt' align="center"><a href="https://openreview.net/group?id=ICLR.cc/2022/Conference">ICLR 2022</a></td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2111.04706.pdf">Bayesian Framework for Gradient Leakage</a></td>
         <td class=xl6519452 align="center"><font size="2">ETH Zurich</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/eth-sri/bayes-framework-leakage">Code</a></td>
@@ -532,7 +532,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=10 height=190 class=xl6519452 style='height:242.25pt' align="center">ICLR 2021</td>
+		<td rowspan=10 height=190 class=xl6519452 style='height:242.25pt' align="center"><a href="https://openreview.net/group?id=ICLR.cc/2021/Conference">ICLR 2021</a></td>
 		<td class=xl6519452 align="center"><a href="https://openreview.net/pdf?id=B7v4QMR6Z9w">Federated Learning Based on Dynamic Regularization</a></td>
         <td class=xl6519452 align="center"><font size="2">Boston University;<br>ARM</font></td>
 		<td class=xl6519452 align="center"></td>
@@ -589,7 +589,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center">ICLR 2020</td>
+		<td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center"><a href="https://openreview.net/group?id=ICLR.cc/2020/Conference">ICLR 2020</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://openreview.net/pdf?id=HJezF3VYPB">Federated Adversarial Domain Adaptation</a></td>
         <td class=xl6519452 align="center"><font size="2">Boston University;<br>Columbia University;<br>Rutgers University</font></td>
 		<td class=xl6519452 align="center"></td>
@@ -950,7 +950,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=5 height=95 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
+		<td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.11751.pdf">FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction</a></td>
         <td class=xl6519452 align="center"><font size="2">National University of Defense Technology</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/gaoliang13/FedDC">code</a></td>
@@ -973,7 +973,72 @@ In this section, we will summarize Federated Learning papers accepted by top com
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.15696.pdf">Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage</a></td>
         <td class=xl6519452 align="center"><font size="2">University of Tennessee;<br>Oak Ridge National Laboratory;<br>Google Research</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/zhuohangli/GGL">code</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/zhuohangli/GGL">code</a><br><a href="https://www.youtube.com/watch?v=rphFSGDlGPY&ab_channel=MoSISLab">video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.15696.pdf">FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Duke University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.pdf">Learn from Others and Be Yourself in Heterogeneous Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Wuhan University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/WenkeHuang/FCCL">code</a><br><a href="https://www.youtube.com/watch?v=zZoASA71qwQ&ab_channel=HuangWenke">video</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2205.04007.pdf">ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arizona State University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/zlijingtao/ResSFL">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.pdf">Robust Federated Learning with Noisy and Heterogeneous Clients</a></td>
+        <td class=xl6519452 align="center"><font size="2">Wuhan University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/FangXiuwen/Robust_FL">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.06047.pdf">Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Stanford University</font></td>
+		<td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=Ae1CDi0_Nok&ab_channel=StanfordMedAI">video</a><br><a href="https://github.com/Liangqiong/ViT-FL-main">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2204.03880.pdf">CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Shanghai Jiao Tong University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2204.03880.pdf">FedCorr: Multi-Stage Federated Learning for Label Noise Correction</a></td>
+        <td class=xl6519452 align="center"><font size="2">Singapore University of Technology and Design</font></td>
+		<td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=GA22ct1LgRA&ab_channel=ZihanChen">video</a><br><a href="https://github.com/Xu-Jingyi/FedCorr">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.pdf">ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework</a></td>
+        <td class=xl6519452 align="center"><font size="2">Harbin Institute of Technology</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Federated_Learning_With_Position-Aware_Neurons_CVPR_2022_paper.pdf">Federated Learning with Position-Aware Neurons</a></td>
+        <td class=xl6519452 align="center"><font size="2">Nanjing University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.13993.pdf">RSCFed: Random Sampling Consensus Federated Semi-supervised Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">The Hong Kong University of Science and Technology</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/XMed-Lab/RSCFed">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.10144.pdf">Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation</a></td>
+        <td class=xl6519452 align="center"><font size="2">Univ. of Pittsburgh;<br>NVIDIA</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/NVIDIA/NVFlare/examples/FedSM">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2205.03993.pdf">Layer-wised Model Aggregation for Personalized Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">The Hong Kong Polytechnic University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.14213.pdf">Local Learning Matters: Rethinking Data Heterogeneity in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2"> University of Central Florida</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/mmendiet/FedAlign">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -1376,7 +1441,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf">FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data</a></td>
         <td class=xl6519452 align="center"><font size="2">Nanjing University</font></td>
-        <td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/lxcnju/FedRepo">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf">Federated Adversarial Debiasing for Fair and Trasnferable Representations</a></td>
