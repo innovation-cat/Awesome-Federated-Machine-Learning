@@ -2336,16 +2336,19 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 
 <table border=0 cellpadding=0 cellspacing=0 >
-	<col width="70%" style='mso-width-source:userset;mso-width-alt:26080'>
-	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
+	<col width="10%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="20%" style='mso-width-source:userset;mso-width-alt:10944'>
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<tr height=19 style='height:14.25pt'>
-		<td class=xl6519452 width="70%" align="center">Papers</td>
-		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="10%" align="center">Taxonomy</td>
+		<td class=xl6519452 width="65%" align="center">Papers</td>
+		<td class=xl6519452 width="20%" align="center">Conferences/Affiliations</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/db8e1af0cb3aca1ae2d0018624204529-Paper.pdf">Addressing Algorithmic Disparity and Performance Inconsistency in Federated Learning</a></td>
+		<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">Performance Fairness</td>
+    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.nips.cc/paper/2021/file/db8e1af0cb3aca1ae2d0018624204529-Paper.pdf">Addressing Algorithmic Disparity and Performance Inconsistency in Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Tsinghua University; Alibaba)</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/cuis15/FCFL">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/db8e1af0cb3aca1ae2d0018624204529-Abstract.html">HomePage</a></td>
     </tr>
@@ -2374,6 +2377,60 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452 align="center"><font size="2">ICML 2021<br>(CMU; Facebook AI)</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/litian96/ditto">code</a><br><a href="https://slideslive.com/38955195/ditto-fair-and-robust-federated-learning-through-personalization">video</a></td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Client Selection Fairness</td>
+    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.01783.pdf">An Efficiency-boosting Client Selection Scheme for Federated Learning with Fairness Guarantee</a></td>
+        <td class=xl6519452 align="center"><font size="2">IEEE Transactions on Parallel and Distributed Systems</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.08756.pdf">Stochastic Client Selection for Federated Learning with Volatile Clients</a></td>
+        <td class=xl6519452 align="center"><font size="2">IEEE Internet of Things Journal</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.11266.pdf">Federated learning with class imbalance reduction</a></td>
+        <td class=xl6519452 align="center"><font size="2">European Signal Processing Conference</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/document/9428537">Reputation-Based Federated Learning for Secure Wireless Networks</a></td>
+        <td class=xl6519452 align="center"><font size="2">” IEEE Internet of Things Journal</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Contribution Fairness</td>
+    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://hufudb.com/static/paper/2019/BigData2019_Profit%20Allocation%20for%20Federated%20Learning.pdf">Profit Allocation for Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">2019 IEEE International Conference on Big Data</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.08756.pdf">Stochastic Client Selection for Federated Learning with Volatile Clients</a></td>
+        <td class=xl6519452 align="center"><font size="2">IEEE Internet of Things Journal</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.11266.pdf">Federated learning with class imbalance reduction</a></td>
+        <td class=xl6519452 align="center"><font size="2">European Signal Processing Conference</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/document/9428537">Reputation-Based Federated Learning for Secure Wireless Networks</a></td>
+        <td class=xl6519452 align="center"><font size="2">” IEEE Internet of Things Journal</font></td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
 </table>
 
 &nbsp; 
