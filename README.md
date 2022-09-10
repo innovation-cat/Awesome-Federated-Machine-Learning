@@ -36,6 +36,7 @@ This repository aims to keep tracking the latest research advancements of federa
 	 + [Client Selection](#15-Client-Selection)
 	 + [Graph Neural Networks](#16-Graph-Neural-Networks)
 	 + [Other Machine Learning Paradigm](#18-Other-Machine-Learning-Paradigm)
+	 + [Trade-off](#19-Trade-Off)
  - [Google FL Workshops](#google-fl-workshops)	 
  - [Videos and Lectures](#Videos-and-Lectures)
  - [Tutorials and Blogs](#Tutorials-and-Blogs)
@@ -3153,6 +3154,16 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
         <td class=xl6519452 align="center"></td>
     </tr>
 </table>
+
+&nbsp;
+
+### **19. Trade off**
+
+Privacy, utility, and efficiency are the three key concepts of trustworthy federated learning. We point out that there is no security mechanism that can achieve optimality in terms of privacy leakage, utility loss, and efficiency loss simultaneously.
+
+
+ * [No Free Lunch Theorem for Security and Utility in Federated Learning](https://arxiv.org/pdf/2203.05816.pdf)
+ * [Trading Off Privacy, Utility and Efficiency in Federated Learning](https://arxiv.org/pdf/2209.00230.pdf) 
 
 &nbsp;
 
