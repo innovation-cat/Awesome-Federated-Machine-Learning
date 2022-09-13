@@ -1626,6 +1626,11 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
   
   [Github](https://github.com/FederatedAI/Practicing-Federated-Learning)
   
+- Federated Learning - A Comprehensive Overview of Methods and Applications
+
+  [English Version](https://link.springer.com/book/10.1007/978-3-030-96896-0)
+
+  
 
 &nbsp; 
 
@@ -3185,6 +3190,8 @@ Privacy, utility, and efficiency are the three key concepts of trustworthy feder
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
 
  * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
+ 
+ * [Code Tutorial: From Centralized to Federated](https://www.youtube.com/watch?v=Ky6TicaPfVI) - Flower Summit 2021
 
 &nbsp;  
 
@@ -3195,8 +3202,9 @@ Privacy, utility, and efficiency are the three key concepts of trustworthy feder
  * [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
  * [Online Federated Learning Comic](https://federated.withgoogle.com/) - Google 2019
  * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
+ * [Federated Learning for Credit Scoring](https://blog.openmined.org/federated-credit-scoring/) - OpenMined 2020
  * [Go Federated with OpenFL](https://medium.com/@igor.davidyuk_98364/go-federated-with-openfl-8bc145a5ead1) - Intel 2021
-
+ 
 
 
 &nbsp; 
