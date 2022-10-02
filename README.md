@@ -1626,7 +1626,9 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
   
   [Github](https://github.com/FederatedAI/Practicing-Federated-Learning)
   
+- Federated Learning - A Comprehensive Overview of Methods and Applications
 
+  [English Version](https://link.springer.com/book/10.1007/978-3-030-96896-0)
 &nbsp; 
 
 ## Papers
@@ -2307,11 +2309,17 @@ The incorporation of federated learning and RecSys is a promising approach, whic
     	<td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Graph</td>
+    	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Graph</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.07145.pdf">FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2105.11099.pdf">Federated Graph Learning - A Position Paper</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2207.11812.pdf">Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2202.07256.pdf">Federated Graph Neural Networks: Overview, Techniques and Challenges</a></td>
     </tr>
 	<tr height=25 style='height:14.25pt'>
     	<td height=25 class=xl6519452 style='height:14.25pt'></td>
@@ -3185,6 +3193,9 @@ Privacy, utility, and efficiency are the three key concepts of trustworthy feder
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
 
  * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
+ 
+ 
+ * [Code Tutorial: From Centralized to Federated](https://www.youtube.com/watch?v=Ky6TicaPfVI) - Flower Summit 2021
 
 &nbsp;  
 
