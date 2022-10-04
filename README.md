@@ -3002,7 +3002,7 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 ### **16. Graph Neural Networks** 
 
-This section is partially refers to this repository: [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers)
+
 
 <table border=0 cellpadding=0 cellspacing=0 >
 	<col width="15%" style='mso-width-source:userset;mso-width-alt:26080'>
@@ -3016,20 +3016,20 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Knowledge Graph</td>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2010.12882.pdf">FedE: Embedding Knowledge Graphs in Federated Setting</a></td>
-        <td class=xl6519452 align="center"><font size="2">arXiv<br>(Zhejiang University; Huawei)</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/AnselCmy/FedE">code</a></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.11369.pdf">Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty</a></td>
-        <td class=xl6519452 align="center"><font size="2">arXiv<br>(Antgroup)</font></td>
+		<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Graph-Level</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.13423.pdf">Federated Graph Classification over Non-IID Graphs</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Emory University)</font></td>
 		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.07615.pdf">Differentially Private Federated Knowledge Graphs Embedding</a></td>
-        <td class=xl6519452 align="center"><font size="2">CIKM 2021<br>(Beihang University)</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/HKUST-KnowComp/FKGE">code</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2109.07258.pdf">Federated Learning of Molecular Properties with Graph Neural Networks in a Heterogeneous Setting</a></td>
+        <td class=xl6519452 align="center"><font size="2">arXiv<br>(University of Rochester)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://www.mdpi.com/2227-7390/10/6/1000/htm">FedGCN: Federated Learning-Based Graph Convolutional Networks for Non-Euclidean Spatial Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">Mathematics 2022<br>(Nanjing University of Information Science and Technology)</font></td>
+		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -3038,46 +3038,107 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=8 height=152 class=xl6519452 style='height:85.5pt' align="center">Graph Neural Network</td>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2009.07351.pdf">Federated Dynamic GNN with Secure Aggregation</a></td>
-        <td class=xl6519452 align="center"><font size="2">arXiv<br>(University of Notre Dame)</font></td>
+		<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">SubGraph-Level</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.01370.pdf">FedGraph: Federated Graph Learning with Intelligent Sampling</a></td>
+        <td class=xl6519452 align="center"><font size="2"> IEEE TPDS<br>(University of Aizu)</font></td>
 		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2005.11903.pdf">Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification</a></td>
-        <td class=xl6519452 align="center"><font size="2">arXiv<br>(AntGroup)</font></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/document/9521331">Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling</a></td>
+        <td class=xl6519452 align="center"><font size="2">IWQOS 2021<br>(University of Aizu)</font></td>
 		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2011.03248.pdf">ASFGNN: Automated separated-federated graph neural network</a></td>
-        <td class=xl6519452 align="center">arXiv<br>(AntGroup)</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2110.12906.pdf">PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>(Xi’an Jiaotong University)</font></td>
 		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.14628.pdf">Cluster-driven Graph Federated Learning over Multiple Domains</a></td>
-        <td class=xl6519452 align="center">CVPR 2021<br>(Politecnico di Torino)</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf">Subgraph Federated Learning with Missing Neighbor Generation</a></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Emory University;)</font></td>
+		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html">HomePage</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2112.10166.pdf">FedNI: Federated Graph Learning with Network Inpainting for Population-Based Disease Prediction</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>( University of Electronic Science and Technology of China)</font></td>
 		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.02743.pdf">SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks</a></td>
-        <td class=xl6519452 align="center">AAAI 2022<br>(university of Southern California)</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.03170.pdf">FedGL: Federated Graph Learning Framework with Global Self-Supervision</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>(Sun Yat-sen University)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=12 height=228 class=xl6519452 style='height:85.5pt' align="center">Node-Level</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.05223.pdf">Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling</a></td>
+        <td class=xl6519452 align="center"><font size="2">KDD 2021<br>(University of Southern California)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.00829.pdf">Personalized Federated Learning With Graph</a></td>
+        <td class=xl6519452 align="center"><font size="2">IJCAI 2022<br>(Beihang University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/dawenzi098/SFL-Structural-Federated-Learning">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://fl-icml.github.io/2021/papers/FL-ICML21_paper_74.pdf">BiG-Fed: Bilevel Optimization Enhanced Graph-Aided Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">FL-ICML Workshop 2021<br>(Nanyang Technological University)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf">Decentralized Federated Graph Neural Networks</a></td>
+        <td class=xl6519452 align="center"><font size="2">FL-IJCAI Workshop 2021<br>(Blue Elephant Tec)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1901.11173.pdf">Peer-to-Peer Federated Learning on Graphs</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>(University of California)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.13215.pdf">A Graph Federated Architecture with Privacy
+Preserving Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>(EPFL)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/document/9086196">Decentralized Federated Learning for Electronic Health Records</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>(IBM)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1912.01792.pdf">Learn Electronic Health Records by Fully Decentralized Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">FL-NeurIPS 2019<br>(University of Minnesota)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2002.12507.pdf">Decentralized Federated Learning via SGD over
+Wireless D2D Networks</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>(Shenzhen University)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2106.02743.pdf">SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">AAAI 2022<br>(university of Southern California)</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/FedML-AI/SpreadGNN">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467371">Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling</a></td>
-        <td class=xl6519452 align="center"><font size="2">KDD 2021<br>(University of Southern California)</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/mengcz13/KDD2021_CNFGNN">code</a></td>
-	</tr>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.07148.pdf">A New Look and Convergence Rate of Federated
+Multi-Task Learning with Laplacian Regularization</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>(The University of Sydney)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/dual-grp/FedU_FMTL">code</a></td>
+    </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467371">Federated Graph Classification over Non-IID Graphs</a></td>
-        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Emory University)</font></td>
-        <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html">HomePage</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6619452 width=815 style='height:14.25pt;width:611pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf">Subgraph Federated Learning with Missing Neighbor Generation</a></td>
-        <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(Emory University; University of British Columbia; Lehigh University)</font></td>
-		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html">HomePage</a></td>
-	</tr>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2204.03726.pdf">Decentralized Event-Triggered Federated Learning
+with Heterogeneous Communication Thresholds</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv<br>( Purdue University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/ShahryarBQ/EF_HC">code</a></td>
+    </tr>
 </table>
 
 &nbsp; 
