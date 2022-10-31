@@ -2811,26 +2811,64 @@ The incorporation of federated learning and RecSys is a promising approach, whic
 
 ### **12. Incentive mechanism**
 
+Typically, the incentive mechanism consists of the following two steps:
+
+* How to evaluate the contribution of each participant (Shapley value)
+
+* How to allocate profits based on contributions
+
 <table border=0 cellpadding=0 cellspacing=0 >
-	<col width="70%" style='mso-width-source:userset;mso-width-alt:26080'>
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
 	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<tr height=19 style='height:14.25pt'>
-		<td class=xl6519452 width="70%" align="center">Papers</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
+		<td class=xl6519452 width="65%" align="center">Papers</td>
 		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.03228.pdf">One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">ICML 2021(Toyota; Berkeley; Cornell University)</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/rlphilli/Collaborative-Incentives">code</a><br><a href="https://slideslive.com/38959135/one-for-one-or-all-for-all-equilibria-and-optimality-of-collaboration-in-federated-learning">video</a></td>
-	</tr>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Contribution Evaluation</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00697.pdf">Data Shapley: Equitable Valuation of Data for Machine Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2019<br>(Stanford University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/amiratag/DataShapley">code</a></td>
+    </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/09a5e2a11bea20817477e0b1dfe2cc21-Paper.pdf">Optimality and Stability in Federated Learning: A Game-theoretic Approach</a></td>
-        <td class=xl6519452 align="center">NeurIPS 2021<br>(Cornell University)</td>
-        <td class=xl6519452 align="center"><a href="https://github.com/kpdonahue/model_sharing_games">code</a><br><a href="https://papers.nips.cc/paper/2021/hash/09a5e2a11bea20817477e0b1dfe2cc21-Abstract.html">HomePage</a></td>
-	</tr>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2009.06192.pdf">A principled approach to data valuation for federated learning</a></td>
+        <td class=xl6519452 align="center">Arxiv<br>(Harvard University)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1909.08525.pdf">Measure contribution of participants in federated learning</a></td>
+        <td class=xl6519452 align="center">IEEE Big Data<br>(Swiss Re)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Profit Allocation</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2109.02053.pdf">GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning</a></td>
+        <td class=xl6519452 align="center">IAAI 2021<br>(NTU)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://hufudb.com/static/paper/2019/BigData2019_Profit%20Allocation%20for%20Federated%20Learning.pdf">Profit allocation for federated learning</a></td>
+        <td class=xl6519452 align="center">Arxiv<br>(Beihang University)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2002.11711.pdf">Fedcoin: A peer-to-peer payment system for federated learning</a></td>
+        <td class=xl6519452 align="center">NTU</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
 </table>
+
+
 
 
 &nbsp;
@@ -3332,8 +3370,8 @@ Privacy, utility, and efficiency are the three key concepts of trustworthy feder
  * [Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI) - Cloudera Fast Forward Labs, DataWorks Summit 2019
 
  * [GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
- 
- 
+
+
  * [Code Tutorial: From Centralized to Federated](https://www.youtube.com/watch?v=Ky6TicaPfVI) - Flower Summit 2021
 
 &nbsp;  
