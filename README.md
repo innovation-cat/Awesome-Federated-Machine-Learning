@@ -2823,14 +2823,14 @@ Typically, the incentive mechanism consists of the following two steps:
 	<col width="30%" style='mso-width-source:userset;mso-width-alt:10944'>
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Category</td>
+		<td height=19 class=xl6519452 width="5%" align="center">Steps</td>
 		<td class=xl6519452 width="65%" align="center">Papers</td>
 		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Contribution Evaluation</td>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.00697.pdf">Data Shapley: Equitable Valuation of Data for Machine Learning</a></td>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">1. Contribution Evaluation</td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1904.02868.pdf">Data Shapley: Equitable Valuation of Data for Machine Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">ICML 2019<br>(Stanford University)</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/amiratag/DataShapley">code</a></td>
     </tr>
@@ -2851,7 +2851,7 @@ Typically, the incentive mechanism consists of the following two steps:
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Profit Allocation</td>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">2. Profit Allocation</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2109.02053.pdf">GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning</a></td>
         <td class=xl6519452 align="center">IAAI 2021<br>(NTU)</td>
         <td class=xl6519452 align="center"></td>
