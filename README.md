@@ -1950,6 +1950,8 @@ Traditionally, RecSys requires the data that are distributed across multiple dev
 
 The incorporation of federated learning and RecSys is a promising approach, which can alleviate the risk of privacy leakage.
 
+More federated recommendation papers can be found in this repository: [FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers)
+
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
 	<col width="67%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
@@ -1998,9 +2000,29 @@ The incorporation of federated learning and RecSys is a promising approach, whic
         <td class=xl6519452></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
-    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">GNN</td>
+    	<td rowspan=5 height=95 class=xl6519452 style='height:85.5pt' align="center">GNN</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2102.04925">FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation</a></td>
         <td class=xl6519452 align="center">Arxiv</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.10778.pdf">Federated Social Recommendation with Graph Neural Network</a></td>
+        <td class=xl6519452 align="center">ACM TIST</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.10778.pdf">Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation</a></td>
+        <td class=xl6519452 align="center">CIKM 2022</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9919348">Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation</a></td>
+        <td class=xl6519452 align="center">IEEE Big Data 2022</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9873989">Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural Networks</a></td>
+        <td class=xl6519452 align="center">IEEE Big Data 2022</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 </table>
