@@ -2011,18 +2011,18 @@ More federated recommendation papers can be found in this repository: [FedRecPap
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.10778.pdf">Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2208.09375.pdf">Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation</a></td>
         <td class=xl6519452 align="center">CIKM 2022</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9919348">Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9919348">Federated Meta Embedding Concept Stock Recommendation</a></td>
         <td class=xl6519452 align="center">IEEE Big Data 2022</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9873989">Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural Networks</a></td>
-        <td class=xl6519452 align="center">IEEE Big Data 2022</td>
+        <td class=xl6519452 align="center">IEEE Transactions on Industrial Informatics</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 </table>
