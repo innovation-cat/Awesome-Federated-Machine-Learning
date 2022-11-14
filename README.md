@@ -1726,6 +1726,12 @@ Model Aggregation (or Model Fusion) refers to how to combine local models into a
         <td class=xl6519452 align="center"><font size="2">ICLR 2020<br>(University of Wisconsin-Madison; IBM)</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/IBM/FedMA">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://doi.org/10.1016/j.neucom.2021.08.141">FedSim: Similarity Guided Model Aggregation for Federated Learning</a></td>
+		<td class=xl6519452 align="center"><font size="2">FedSim</font></td>
+        <td class=xl6519452 align="center"><font size="2">Neurocomputing 2022 (Vol 483)<br>(Robert Gordon University, UK)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/chamathpali/FedSim">Code</a></td>
+	</tr>
 </table>
 
 &nbsp; 
