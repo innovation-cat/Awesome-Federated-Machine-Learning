@@ -1381,6 +1381,12 @@ In this section, we will summarize Federated Learning papers accepted by top com
         <td class=xl6519452 align="center"><font size="2">MIT;<br>Google</font></td>
 		<td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=Rc67rZzPDDY&ab_channel=TzuMingHsu">Video</a></td>
 	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center">ECCV 2022</td>
+		<td class=xl6519452 align="center"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860161.pdf">SphereFed: Hyperspherical Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Harvard;<br>UT Dallas</font></td>
+		<td class=xl6519452 align="center"><a href="">Video</a></td>
+	</tr>
 </table>
 
 ### ICCV 
