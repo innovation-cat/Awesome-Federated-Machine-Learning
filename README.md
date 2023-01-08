@@ -2086,6 +2086,13 @@ Model Aggregation (or Model Fusion) refers to how to combine local models into a
         <td class=xl6519452 align="center"><font size="2">Neurocomputing 2022 (Vol 483)<br>(Robert Gordon University, UK)</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/chamathpali/FedSim">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1910.05653.pdf">Model Fusion via Optimal Transport
+</a></td>
+		<td class=xl6519452 align="center"><font size="2"></font></td>
+        <td class=xl6519452 align="center"><font size="2">NeurIPS 2020<br>(ETH, EPFL)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/sidak/otfusion">Code</a></td>
+	</tr>
 </table>
 
 &nbsp; 
