@@ -3410,7 +3410,7 @@ Typically, the incentive mechanism consists of the following two steps:
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Device Heterogeneity</td>
+    	<td rowspan=4 height=57 class=xl6519452 style='height:85.5pt' align="center">Device Heterogeneity</td>
 		<td class=xl6519452 align="center"><a href="https://proceedings.neurips.cc/paper/2021/file/076a8133735eb5d7552dc195b125a454-Paper.pdf">Sageflow: Robust Federated Learning against Both Stragglers and Adversaries</a></td>
         <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(KAIST)</font></td>
         <td class=xl6519452 align="center"><a href="https://papers.nips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html">HomePage</a></td>
@@ -3428,7 +3428,7 @@ Typically, the incentive mechanism consists of the following two steps:
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/abs/10.1145/3542929.3563463">Pisces: Efficient Federated Learning via Guided Asynchronous Training</a></td>
         <td class=xl6519452 align="center"><font size="2">ACM SoCC 2022<br>(HKUST)</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/SamuelGong/Pisces">Code</a><a href="http://home.cse.ust.hk/~zjiangaj/files/pisces-socc22-slides.pdf">Slides</a><br></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/SamuelGong/Pisces">Code</a><br><a href="http://home.cse.ust.hk/~zjiangaj/files/pisces-socc22-slides.pdf">Slides</a><br></td>
 	</tr>
 </table>
 
