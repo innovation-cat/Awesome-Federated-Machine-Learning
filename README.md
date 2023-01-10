@@ -3425,6 +3425,11 @@ Typically, the incentive mechanism consists of the following two steps:
         <td class=xl6519452 align="center"><font size="2">12th Annual Workshop on Optimization for Machine Learning</font></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/abs/10.1145/3542929.3563463">Pisces: Efficient Federated Learning via Guided Asynchronous Training</a></td>
+        <td class=xl6519452 align="center"><font size="2">ACM SoCC 2022<br>(HKUST)</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/SamuelGong/Pisces">Code</a><a href="http://home.cse.ust.hk/~zjiangaj/files/pisces-socc22-slides.pdf">Slides</a><br></td>
+	</tr>
 </table>
 
 &nbsp;
