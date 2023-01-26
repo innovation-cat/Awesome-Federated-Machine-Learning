@@ -1877,7 +1877,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
         <td class=xl6519452 align="center"></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center">FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks</td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539384">FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks</a></td>
         <td class=xl6519452 align="center"></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
@@ -2680,11 +2680,15 @@ More federated recommendation papers can be found in this repository: [FedRecPap
     	<td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Incentive</td>
+    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">Incentive</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2106.15406.pdf">A Comprehensive Survey of Incentive Mechanism for Federated Learning</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="http://home.ustc.edu.cn/~yxjing/C2021/A%20Survey%20of%20Incentive%20Mechanism%20Design%20for%20Federated%20Learning.pdf">A Survey of Incentive Mechanism Design for Federated Learning</a></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/document/9369019">A Survey of Incentive Mechanism Design for Federated Learning</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.11850.pdf">Incentive Mechanisms for Federated Learning:
+From Economic and Game Theoretic Perspective</a></td>
     </tr>
 	<tr height=25 style='height:14.25pt'>
     	<td height=25 class=xl6519452 style='height:14.25pt'></td>
@@ -3222,14 +3226,16 @@ Typically, the incentive mechanism consists of the following two steps:
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 width="5%" align="center">Steps</td>
-		<td class=xl6519452 width="65%" align="center">Papers</td>
-		<td class=xl6519452 width="30%" align="center">Conferences/Affiliations</td>
+		<td class=xl6519452 width="5%" align="center">Techniques</td>
+		<td class=xl6519452 width="60%" align="center">Papers</td>
+		<td class=xl6519452 width="25%" align="center">Affiliations</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">1. Contribution Evaluation</td>
+    	<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">1. Contribution Evaluation</td>
+		<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">Shapley Value</td>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1904.02868.pdf">Data Shapley: Equitable Valuation of Data for Machine Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">ICML 2019<br>(Stanford University)</font></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center">ICML 2019<br>(Stanford University)</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/amiratag/DataShapley">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
@@ -3242,14 +3248,7 @@ Typically, the incentive mechanism consists of the following two steps:
         <td class=xl6519452 align="center">IEEE Big Data<br>(Swiss Re)</td>
         <td class=xl6519452 align="center"></td>
     </tr>
-    <tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
-    	<td class=xl6519452></td>
-    	<td class=xl6519452></td>
-        <td class=xl6519452></td>
-    </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=3 height=57 class=xl6519452 style='height:85.5pt' align="center">2. Profit Allocation</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2109.02053.pdf">GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning</a></td>
         <td class=xl6519452 align="center">IAAI 2021<br>(NTU)</td>
         <td class=xl6519452 align="center"></td>
@@ -3262,6 +3261,74 @@ Typically, the incentive mechanism consists of the following two steps:
 	<tr height=19 style='height:14.25pt'>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2002.11711.pdf">Fedcoin: A peer-to-peer payment system for federated learning</a></td>
         <td class=xl6519452 align="center">NTU</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt'></td>
+    	<td class=xl6519452></td>
+    	<td class=xl6519452></td>
+        <td class=xl6519452></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=11 height=209 class=xl6519452 style='height:85.5pt' align="center">2. Profit Allocation</td>
+    	<td rowspan=4 height=76 class=xl6519452 style='height:85.5pt' align="center">Contract Theory</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://dr.ntu.edu.sg/bitstream/10356/144299/2/Hierarchical%20Incentive%20Mechanism%20Design%20for%20Federated%20Machine%20Learning%20in%20Mobile%20Networks.pdf">Hierarchical Incentive Mechanism Design for Federated Machine Learning in Mobile networks</a></td>
+        <td class=xl6519452 align="center">IEEE Internet of Things Journal 2020</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1905.07479.pdf">Incentive Design for Efficient Federated Learning in Mobile Networks: A Contract Theory Approach</a></td>
+        <td class=xl6519452 align="center">2019 IEEE VTS Asia Pacific Wireless Communications Symposium </td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/document/8832210">Incentive Mechanism for Reliable Federated Learning: A Joint Optimization Approach to Combining Reputation and Contract Theory</a></td>
+        <td class=xl6519452 align="center">IEEE Internet of Things Journal 2019</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2108.05568.pdf">A Contract Theory based Incentive Mechanism for Federated Learning</a></td>
+        <td class=xl6519452 align="center">FTL-IJCAI Workshop 2021</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=2 height=38 class=xl6519452 style='height:85.5pt' align="center">Stackelberg Game</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1908.03092.pdf">Motivating Workers in Federated Learning: A
+Stackelberg Game Perspective</a></td>
+        <td class=xl6519452 align="center">IEEE Networking Letters, 2020.</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://u-aizu.ac.jp/~pengli/files/fl_incentive_iot.pdf">A Learning-based Incentive
+Mechanism for Federated Learning</a></td>
+        <td class=xl6519452 align="center">IEEE Internet of Things Journal, 2020 </td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=5 height=95 class=xl6519452 style='height:85.5pt' align="center">Auction</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2002.09699.pdf">FMore: An Incentive Scheme of Multi-dimensional
+Auction for Federated Learning in MEC</a></td>
+        <td class=xl6519452 align="center">IEEE ICDCS, 2020.</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2008.06680.pdf">A VCG-based Fair Incentive Mechanism for Federated Learning</a></td>
+        <td class=xl6519452 align="center">arXiv preprint</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/1912.06370.pdf">Toward an Automated Auction Framework for Wireless Federated Learning Services Market</a></td>
+        <td class=xl6519452 align="center">IEEE Transactions on Mobile Computing, 2020</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://dl.acm.org/doi/10.1109/WCNC45663.2020.9120773">Auction based Incentive Design for Efficient Federated Learning in Cellular Wireless Networks</a></td>
+        <td class=xl6519452 align="center">2020 IEEE Wireless Communications and Networking Conference</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.cs.sjtu.edu.cn/~yichao/assets/publications/infocom21_deng.pdf">FAIR: Quality-Aware Federated Learning with Precise User Incentive and Model Aggregation</a></td>
+        <td class=xl6519452 align="center">IEEE INFOCOM, 2021.</td>
         <td class=xl6519452 align="center"></td>
     </tr>
 </table>
