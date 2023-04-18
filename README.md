@@ -4059,7 +4059,7 @@ with Heterogeneous Communication Thresholds</a></td>
 
 &nbsp;
 
-### **19.Computational Learning Theory**
+### **19. Computational Learning Theory**
 
 Privacy, utility, and efficiency are the three key concepts of trustworthy federated learning. We point out that there is no security mechanism that can achieve optimality in terms of privacy leakage, utility loss, and efficiency loss simultaneously.
 
