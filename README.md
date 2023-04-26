@@ -3871,7 +3871,7 @@ Auction for Federated Learning in MEC</a></td>
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">SubGraph-Level</td>
+		<td rowspan=7 height=114 class=xl6519452 style='height:85.5pt' align="center">SubGraph-Level</td>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.01370.pdf">FedGraph: Federated Graph Learning with Intelligent Sampling</a></td>
         <td class=xl6519452 align="center"><font size="2"> IEEE TPDS<br>(University of Aizu)</font></td>
 		<td class=xl6519452 align="center"></td>
@@ -3899,6 +3899,11 @@ Auction for Federated Learning in MEC</a></td>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.03170.pdf">FedGL: Federated Graph Learning Framework with Global Self-Supervision</a></td>
         <td class=xl6519452 align="center"><font size="2">Arxiv<br>(Sun Yat-sen University)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2206.10206.pdf">Personalized Subgraph Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2023<br>(KAIST)</font></td>
 		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
