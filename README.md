@@ -3871,7 +3871,7 @@ Auction for Federated Learning in MEC</a></td>
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=6 height=114 class=xl6519452 style='height:85.5pt' align="center">SubGraph-Level</td>
+		<td rowspan=7 height=133 class=xl6519452 style='height:85.5pt' align="center">SubGraph-Level</td>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2111.01370.pdf">FedGraph: Federated Graph Learning with Intelligent Sampling</a></td>
         <td class=xl6519452 align="center"><font size="2"> IEEE TPDS<br>(University of Aizu)</font></td>
 		<td class=xl6519452 align="center"></td>
@@ -3899,6 +3899,12 @@ Auction for Federated Learning in MEC</a></td>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2105.03170.pdf">FedGL: Federated Graph Learning Framework with Global Self-Supervision</a></td>
         <td class=xl6519452 align="center"><font size="2">Arxiv<br>(Sun Yat-sen University)</font></td>
+		<td class=xl6519452 align="center"></td>
+    </tr>
+	</tr>
+		<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2206.10206.pdf">Personalized Subgraph Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2023<br>(KAIST)</font></td>
 		<td class=xl6519452 align="center"></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
@@ -4068,10 +4074,12 @@ Privacy, utility, and efficiency are the three key concepts of trustworthy feder
  * [Trading Off Privacy, Utility and Efficiency in Federated Learning](https://arxiv.org/pdf/2209.00230.pdf) 
  * [Probably Approximately Correct Federated Learning](https://arxiv.org/pdf/2304.04641.pdf) 
  * [A Game-theoretic Framework for Federated Learning](https://arxiv.org/pdf/2304.05836.pdf)  
+ * [Optimizing Privacy, Utility and Efficiency in Constrained Multi-Objective Federated Learning](https://arxiv.org/pdf/2305.00312.pdf)  
 
 &nbsp;
 
 ## Google FL Workshops
+ * [Google Workshop on Federated Learning and Analytics 2022](https://www.youtube.com/watch?v=ZokMxYDlCJk&list=PLSIUOFhnxEiA-Ky_BuirTS6Amb9A60uSH&ab_channel=GoogleTechTalks)
  * [Google Workshop on Federated Learning and Analytics 2021](https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA)
  * [Google Workshop on Federated Learning and Analytics 2020](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu) 
  * [Google Federated Learning workshop 2019](https://sites.google.com/view/federated-learning-2019/home) 
