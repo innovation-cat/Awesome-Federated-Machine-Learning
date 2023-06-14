@@ -1743,7 +1743,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=23 height=437 class=xl6519452 style='height:242.25pt' align="center"><a href="https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers">CVPR 2023</a></td>
+		<td rowspan=23 height=437 class=xl6519452 style='height:242.25pt' align="center"><a href="https://openaccess.thecvf.com/CVPR2023">CVPR 2023</a></td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2303.11511.pdf">STDLens: Model Hijacking-Resilient Federated Learning for Object Detection </a></td>
         <td class=xl6519452 align="center"><font size="2">Georgia Instutite of Technology</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/git-disl/STDLens">code</a></td>
@@ -1865,7 +1865,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
         <td class=xl6519452></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
+		<td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center"><a href="https://openaccess.thecvf.com/CVPR2022">CVPR 2022</a></td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.11751.pdf">FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction</a></td>
         <td class=xl6519452 align="center"><font size="2">National University of Defense Technology</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/gaoliang13/FedDC">code</a></td>
@@ -1962,7 +1962,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
         <td class=xl6519452></td>
 	</tr>
     <tr height=19 style='height:14.15pt'>
-		<td rowspan=4 height=76 class=xl6519452 style='height:242.25pt' align="center">CVPR 2021</td>
+		<td rowspan=4 height=76 class=xl6519452 style='height:242.25pt' align="center"><a href="https://openaccess.thecvf.com/CVPR2021">CVPR 2021</a></td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2103.02148.pdf">Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Johns Hopkins University</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/guopengf/FL-MRCM">code</a></td>
