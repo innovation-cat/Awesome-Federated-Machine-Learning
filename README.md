@@ -63,7 +63,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-        <td rowspan=50 height=950 class=xl6519452 style='height:242.25pt' align="center"><a href="https://icml.cc/Conferences/2022/Schedule?type=Poster">ICML 2023</a></td>
+        <td rowspan=50 height=950 class=xl6519452 style='height:242.25pt' align="center"><a href="https://icml.cc/Conferences/2023/Schedule?type=Poster">ICML 2023</a></td>
         <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2206.10189.pdf">A General Theory for Federated Optimization with Asynchronous and Heterogeneous Clients Updates</a></td>
         <td class=xl6519452 align="center">Accenture Labs</td>
 		<td class=xl6519452 align="center"></td>
@@ -1742,6 +1742,128 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="25%" align="center">Affiliation</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
+	<tr height=19 style='height:14.15pt'>
+		<td rowspan=23 height=437 class=xl6519452 style='height:242.25pt' align="center"><a href="https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers">CVPR 2023</a></td>
+		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2303.11511.pdf">STDLens: Model Hijacking-Resilient Federated Learning for Object Detection </a></td>
+        <td class=xl6519452 align="center"><font size="2">Georgia Instutite of Technology</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/git-disl/STDLens">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2212.02191.pdf">On the Effectiveness of Partial Variance Reduction in Federated Learning With Heterogeneous Data</a></td>
+        <td class=xl6519452 align="center"><font size="2">Technical University of Denmark</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lyn1874/fedpvr">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2302.14307.pdf">GradMA: A Gradient-Memory-Based Accelerated Federated Learning With Alleviated Catastrophic Forgetting</a></td>
+        <td class=xl6519452 align="center"><font size="2">East China Normal University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/lkyddd/GradMA">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2305.12557.pdf">Confidence-Aware Personalized Federated Learning via Variational Expectation Maximization </a></td>
+        <td class=xl6519452 align="center"><font size="2">ESAT-PSI, KU Leuven</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/JunyiZhu-AI/confidence_aware_PFL">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Elastic_Aggregation_for_Federated_Optimization_CVPR_2023_paper.pdf">Elastic Aggregation for Federated Optimization</a></td>
+        <td class=xl6519452 align="center"><font size="2"> Meituan</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Duan_Federated_Learning_With_Data-Agnostic_Distribution_Fusion_CVPR_2023_paper.pdf">Federated Learning With Data-Agnostic Distribution Fusion</a></td>
+        <td class=xl6519452 align="center"><font size="2">Nanjing University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/LiruichenSpace/FedFusion">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Qu_How_To_Prevent_CVPR_2023_supplemental.pdf">How To Prevent the Poor Performance Clients for Personalized Federated Learning?</a></td>
+        <td class=xl6519452 align="center"><font size="2">Central South University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2207.09653.pdf">FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">UCLA</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf">DaFKD: Domain-Aware Federated Knowledge Distillation</a></td>
+        <td class=xl6519452 align="center"><font size="2">Huazhong University of Science and Technology</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/haozhaowang/DaFKD2023">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_Adaptive_Channel_Sparsity_for_Federated_Learning_Under_System_Heterogeneity_CVPR_2023_paper.pdf">Adaptive Channel Sparsity for Federated Learning Under System Heterogeneity</a></td>
+        <td class=xl6519452 align="center"><font size="2">University of Macau</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ilhan_ScaleFL_Resource-Adaptive_Federated_Learning_With_Heterogeneous_Clients_CVPR_2023_paper.pdf">ScaleFL: Resource-Adaptive Federated Learning With Heterogeneous Clients </a></td>
+        <td class=xl6519452 align="center"><font size="2">Georgia Institute of Technology</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/git-disl/scale-fl">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2303.14868.pdf">The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Purdue University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2303.12317.pdf">Re-Thinking Federated Active Learning Based on Inter-Class Diversity</a></td>
+        <td class=xl6519452 align="center"><font size="2">KAIST</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/raymin0223/LoGo">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Rethinking_Federated_Learning_With_Domain_Shift_A_Prototype_View_CVPR_2023_paper.pdf">Rethinking Federated Learning With Domain Shift: A Prototype View</a></td>
+        <td class=xl6519452 align="center"><font size="2">Wuhan University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/WenkeHuang/RethinkFL">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Reliable_and_Interpretable_Personalized_Federated_Learning_CVPR_2023_paper.pdf">Reliable and Interpretable Personalized Federated Learning </a></td>
+        <td class=xl6519452 align="center"><font size="2">Tianjin University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2303.11242.pdf">Make Landscape Flatter in Differentially Private Federated Learning </a></td>
+        <td class=xl6519452 align="center"><font size="2">Tsinghua University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/YMJS-Irfan/DP-FedSAM">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2304.04620.pdf">Federated Incremental Semantic Segmentation</a></td>
+        <td class=xl6519452 align="center"><font size="2">Shenyang Institute of Automation</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/JiahuaDong/FISS">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf">Federated Domain Generalization with Generalization Adjustment</a></td>
+        <td class=xl6519452 align="center"><font size="2">Shanghai Jiao Tong University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/MediaBrain-SJTU/FedDG-GA">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Miao_FedSeg_Class-Heterogeneous_Federated_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf">FedSeg: Class-Heterogeneous Federated Learning for Semantic Segmentation</a></td>
+        <td class=xl6519452 align="center"><font size="2">Zhejiang University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Bias-Eliminating_Augmentation_Learning_for_Debiased_Federated_Learning_CVPR_2023_paper.pdf">Bias-Eliminating Augmentation Learning for Debiased Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">National Taiwan University</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Class_Balanced_Adaptive_Pseudo_Labeling_for_Federated_Semi-Supervised_Learning_CVPR_2023_paper.pdf">Class Balanced Adaptive Pseudo Labeling for Federated Semi-Supervised Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">East China Normal University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/minglllli/CBAFed">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2303.16181.pdf">Learning Federated Visual Prompt in Null Space for MRI Reconstruction</a></td>
+        <td class=xl6519452 align="center"><font size="2">IHPC</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/chunmeifeng/FedPR">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2303.16520.pdf">Fair Federated Medical Image Segmentation via Client Contribution Estimation</a></td>
+        <td class=xl6519452 align="center"><font size="2">The Chinese University of Hong Kong</font></td>
+		<td class=xl6519452 align="center"><a href="https://appsrv.cse.cuhk.edu.hk/~mrjiang/FedCE/index.html">HomePage</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt'></td>
+		<td class=xl6519452></td>
+		<td class=xl6519452></td>
+        <td class=xl6519452></td>
+	</tr>
 	<tr height=19 style='height:14.15pt'>
 		<td rowspan=18 height=342 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.11751.pdf">FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction</a></td>
