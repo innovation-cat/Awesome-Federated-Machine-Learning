@@ -1743,7 +1743,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>	
 	<tr height=19 style='height:14.15pt'>
-		<td rowspan=23 height=437 class=xl6519452 style='height:242.25pt' align="center"><a href="https://openaccess.thecvf.com/CVPR2023">CVPR 2023</a></td>
+		<td rowspan=24 height=456 class=xl6519452 style='height:242.25pt' align="center"><a href="https://openaccess.thecvf.com/CVPR2023">CVPR 2023</a></td>
 		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2303.11511.pdf">STDLens: Model Hijacking-Resilient Federated Learning for Object Detection </a></td>
         <td class=xl6519452 align="center"><font size="2">Georgia Instutite of Technology</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/git-disl/STDLens">code</a></td>
@@ -1858,6 +1858,11 @@ In this section, we will summarize Federated Learning papers accepted by top com
         <td class=xl6519452 align="center"><font size="2">The Chinese University of Hong Kong</font></td>
 		<td class=xl6519452 align="center"><a href="https://appsrv.cse.cuhk.edu.hk/~mrjiang/FedCE/index.html">HomePage</a></td>
 	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf">Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack</a></td>
+        <td class=xl6519452 align="center"><font size="2">Tsinghua University</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/FLAIR-THU/PairedLogitsInversion">code</a></td>
+	</tr>	
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt'></td>
 		<td class=xl6519452></td>
