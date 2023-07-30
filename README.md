@@ -13,36 +13,36 @@ This repository aims to keep tracking the latest research advancements of federa
 ## Table of Contents
 
  - [Top Machine Learning Conferences](#top-machine-learning-conferences)
-     + [ICML](#ICML)&emsp;[ICLR](#ICLR)&emsp;[NeurIPS](#NeurIPS)   
+     + [ICML](#icml)&emsp;[ICLR](#iclr)&emsp;[NeurIPS](#neurips)   
  - [Top Computer Vision Conferences](#top-computer-vision-conferences)
-     + [CVPR](#CVPR)&emsp;[ICCV](#ICCV)&emsp;[ECCV](#ECCV)   
+     + [CVPR](#cvpr)&emsp;[ICCV](#iccv)&emsp;[ECCV](#eccv)   
  - [Top Artificial Intelligence and Data Mining Conferences](#top-artificial-intelligence-and-data-mining-conferences)
-     + [AAAI](#AAAI)&emsp;[AISTATS](#AISTATS)&emsp;[KDD](#KDD) 	 
- - [Books](#Books)
+     + [AAAI](#aaai)&emsp;[AISTATS](#aistats)&emsp;[KDD](#kdd) 	 
+ - [Books](#books)
  - [Papers (Research directions)](#papers)
-     + [Model Aggregation](#1-Model-Aggregation)
-	 + [Personalization](#2-Personalization)&emsp;&emsp; 
-	 + [Recommender system](#3-Recommender-system)
-	 + [Security](#4-Security)&emsp;&emsp;
-	 + [Survey](#5-Survey)&emsp;&emsp;
-	 + [Efficiency](#7-Efficiency)&emsp;&emsp;
-	 + [Optimization](#8-Optimization)&emsp;&emsp; 
-	 + [Fairness](#9-Fairness)<br>
-	 + [Application](#10-Applications)&emsp;&emsp;
-	 + [Boosting](#11-Boosting)&emsp;&emsp;
-	 + [Incentive mechanism](#12-Incentive-mechanism)
-	 + [Unsupervised Learning](#13-Unsupervised-Learning)&emsp;&emsp;
-	 + [Heterogeneity](#14-Heterogeneity)&emsp;&emsp;
-	 + [Client Selection](#15-Client-Selection)
-	 + [Graph Neural Networks](#16-Graph-Neural-Networks)
-	 + [Other Machine Learning Paradigm](#18-Other-Machine-Learning-Paradigm)
-	 + [Computational Learning Theory](#19-Computational-Learning-Theory)
+     + [Model Aggregation](#1-model-aggregation)
+	 + [Personalization](#2-personalization)&emsp;&emsp; 
+	 + [Recommender system](#3-recommender-system)
+	 + [Security](#4-security)&emsp;&emsp;
+	 + [Survey](#5-survey)&emsp;&emsp;
+	 + [Efficiency](#7-efficiency)&emsp;&emsp;
+	 + [Optimization](#8-optimization)&emsp;&emsp; 
+	 + [Fairness](#9-fairness)<br>
+	 + [Application](#10-applications)&emsp;&emsp;
+	 + [Boosting](#11-boosting)&emsp;&emsp;
+	 + [Incentive mechanism](#12-incentive-mechanism)
+	 + [Unsupervised Learning](#13-unsupervised-learning)&emsp;&emsp;
+	 + [Heterogeneity](#14-heterogeneity)&emsp;&emsp;
+	 + [Client Selection](#15-client-selection)
+	 + [Graph Neural Networks](#16-graph-neural-networks)
+	 + [Other Machine Learning Paradigm](#18-other-machine-learning-paradigm)
+	 + [Computational Learning Theory](#19-computational-learning-theory)
  - [Google FL Workshops](#google-fl-workshops)	 
- - [Videos and Lectures](#Videos-and-Lectures)
- - [Tutorials and Blogs](#Tutorials-and-Blogs)
+ - [Videos and Lectures](#videos-and-lectures)
+ - [Tutorials and Blogs](#tutorials-and-blogs)
  - [Open-Sources](#open-sources)
-     + [Enterprise Grade](#Enterprise-Grade)
-	 + [Research Purpose](#Research-Purpose)
+     + [Enterprise Grade](#enterprise-grade)
+	 + [Research Purpose](#research-purpose)
 
 &nbsp; 
 
@@ -4043,7 +4043,7 @@ Auction for Federated Learning in MEC</a></td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td rowspan=9 height=171 class=xl6519452 style='height:85.5pt' align="center">Data Heterogeneity (NON-IID)</td>
+    	<td rowspan=10 height=190 class=xl6519452 style='height:85.5pt' align="center">Data Heterogeneity (NON-IID)</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2105.10056.pdf">Data-Free Knowledge Distillation for Heterogeneous Federated Learning</a></td>
         <td class=xl6519452 align="center">ICML 2021<br>(Michigan State University)</td>
         <td class=xl6519452 align="center"><a href="https://github.com/zhuangdizhu/FedGen">code</a><br><a href="https://slideslive.com/38959429/datafree-knowledge-distillation-for-heterogeneous-federated-learning">video</a></td>
@@ -4087,6 +4087,11 @@ Auction for Federated Learning in MEC</a></td>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://papers.neurips.cc/paper/2021/file/2f2b265625d76a6704b08093c652fd79-Paper.pdf">No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data</a></td>
         <td class=xl6519452 align="center"><font size="2">NeurIPS 2021<br>(NUS; Huawei)</font></td>
 		<td class=xl6519452 align="center"><a href="https://papers.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html">HomePage</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2112.10775.pdf">HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images</a></td>
+        <td class=xl6519452 align="center"><font size="2">AAAI 2022<br>(The Chinese University of Hong Kong)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/med-air/HarmoFL">code</a></td>
 	</tr>
     <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
@@ -4160,6 +4165,11 @@ Auction for Federated Learning in MEC</a></td>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2001.09249.pdf">TiFL: A Tier-based Federated Learning System</a></td>
         <td class=xl6519452 align="center"><font size="2">HPDC 2020<br>(George Mason University)</font></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://par.nsf.gov/servlets/purl/10386524">HACCS: Heterogeneity-Aware Clustered Client Selection for Accelerated Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">IPDPS 2022<br>(University of Minnesota)</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
