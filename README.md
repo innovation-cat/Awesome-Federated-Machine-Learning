@@ -4274,7 +4274,7 @@ Auction for Federated Learning in MEC</a></td>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://par.nsf.gov/servlets/purl/10386524">HACCS: Heterogeneity-Aware Clustered Client Selection for Accelerated Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">IPDPS 2022<br>(University of Minnesota)</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/NS-PhD-Research/HACCS">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2007.15197.pdf">Communication-Efficient Federated Learning via Optimal Client Sampling</a></td>
