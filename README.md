@@ -3230,6 +3230,11 @@ More federated recommendation papers can be found in this repository: [FedRecPap
         <td class=xl6519452 align="center"><font size="2">ICML 2019<br>(Princeton University; IBM)</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/inspire-group/ModelPoisoning">Code</a></td>
     </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://dl.acm.org/doi/10.1145/3576915.3623114">Turning Privacy-preserving Mechanisms against Federated Learning</a></td>
+        <td class=xl6519452 align="center"><font size="2">CCS 2023<br>(University of Pavia; TU Delft; University of Padua; Radboud University)</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/DCALab-UNIPV/Turning-Privacy-preserving-Mechanisms-against-Federated-Learning">Code</a></td>
+	</tr>
 </table>
 
 
