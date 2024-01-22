@@ -2184,7 +2184,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 align="center"><a href="https://github.com/zhuohangli/GGL">code</a><br><a href="https://www.youtube.com/watch?v=rphFSGDlGPY&ab_channel=MoSISLab">video</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.15696.pdf">FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_FedCor_Correlation-Based_Active_Client_Selection_Strategy_for_Heterogeneous_Federated_Learning_CVPR_2022_paper.pdf">FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning</a></td>
         <td class=xl6519452 align="center"><font size="2">Duke University</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
@@ -2214,7 +2214,7 @@ In this section, we will summarize Federated Learning papers accepted by top com
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2204.03880.pdf">FedCorr: Multi-Stage Federated Learning for Label Noise Correction</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FedCorr_Multi-Stage_Federated_Learning_for_Label_Noise_Correction_CVPR_2022_paper.pdf">FedCorr: Multi-Stage Federated Learning for Label Noise Correction</a></td>
         <td class=xl6519452 align="center"><font size="2">Singapore University of Technology and Design</font></td>
 		<td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=GA22ct1LgRA&ab_channel=ZihanChen">video</a><br><a href="https://github.com/Xu-Jingyi/FedCorr">code</a></td>
 	</tr>
@@ -2463,11 +2463,6 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26122">FedMDFG: Federated Learning with Multi-Gradient Descent and Fair Guidance</a></td>
         <td class=xl6519452 align="center"><font size="2">The Chinese University of Hong Kong</font></td>
-        <td class=xl6519452 align="center"></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2106.03328">Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Southern California</font></td>
         <td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
