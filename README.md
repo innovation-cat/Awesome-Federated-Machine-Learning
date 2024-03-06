@@ -3872,6 +3872,10 @@ From Economic and Game Theoretic Perspective</a></td>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Applications</td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/abs/2104.10501">A Survey on Federated Learning and its Applications for Accelerating Industrial Internet of Things</a></td>
+     </tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center">Applications</td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2304.11643.pdf">Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges</a></td>
     </tr>
 	<tr height=25 style='height:14.25pt'>
     	<td height=25 class=xl6519452 style='height:14.25pt'></td>
