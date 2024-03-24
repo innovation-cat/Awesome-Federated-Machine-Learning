@@ -5076,6 +5076,11 @@ Developing a federated learning framework from scratch is very time-consuming, e
 		<td height=19 class=xl6519452 width="5%" align="center">Affiliations/HomePage</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/scaleoutsystems/fedn">FEDn</a></td>
+        <td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ieeexplore.ieee.org/document/9826069">Scalable federated machine learning with FEDn</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://scaleoutsystems.com/">Scaleout Systems</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/FederatedAI/FATE">FATE</a></td>
         <td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://www.jmlr.org/papers/volume22/20-815/20-815.pdf">FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedai.org/">WeBank</a></td>
