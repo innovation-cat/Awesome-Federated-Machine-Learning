@@ -2410,7 +2410,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-        <td rowspan=29 height=551 class=xl6519452 style='height:85.5pt' align="center"><a href="https://dblp.org/db/conf/aaai/aaai2023.html">AAAI 2023</a></td>
+        <td rowspan=29 height=532 class=xl6519452 style='height:85.5pt' align="center"><a href="https://dblp.org/db/conf/aaai/aaai2023.html">AAAI 2023</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25531">Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation</a></td>
         <td class=xl6519452 align="center"><font size="2"> Chinese Academy of Sciences</font></td>
         <td class=xl6519452 align="center"></td>
