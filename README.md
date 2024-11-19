@@ -1293,7 +1293,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/attachment?id=RW7rZ8Y3Bp&name=pdf">Federated Spectral Clustering via Secure Similarity Reconstruction</a></td>
 		<td class=xl6519452 align="center"><font size="2">The Chinese University of Hong Kong</font></td>
-		<td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/jicongfan/Federated-Spectral-Clustering">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/attachment?id=EcmqyXekuP&name=pdf">Mobilizing Personalized Federated Learning in Infrastructure-Less and Heterogeneous Environments via Random Walk Stochastic ADMM</a></td>
