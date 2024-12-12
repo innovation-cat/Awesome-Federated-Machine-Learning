@@ -2523,7 +2523,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26271">DeFL: Defending against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness</a></td>
         <td class=xl6519452 align="center"><font size="2">SUNY-Binghamton University</font></td>
-        <td class=xl6519452 align="center"></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/GYan58/AAAI-2023-DeFL">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2212.01197">FedALA: Adaptive Local Aggregation for Personalized Federated Learning</a></td>
