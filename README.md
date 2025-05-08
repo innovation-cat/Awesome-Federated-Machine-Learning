@@ -3174,7 +3174,7 @@ Model Aggregation (or Model Fusion) refers to how to combine local models into a
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.01936.pdf,">A bayesian federated learning framework with online laplace approximation</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2102.01936.pdf">A bayesian federated learning framework with online laplace approximation</a></td>
 		<td class=xl6519452 align="center">FedBayes</td>
         <td class=xl6519452 align="center">TPAMI</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation">code</a></td>
