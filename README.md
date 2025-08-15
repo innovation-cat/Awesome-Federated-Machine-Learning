@@ -5101,6 +5101,11 @@ Developing a federated learning framework from scratch is very time-consuming, e
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://nvflare.readthedocs.io/">NVIDIA</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/Dstack-TEE/dstack">dstack</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center">Confidential computing framework to enhance federated learning with hardware-enforced isolation and data privacy</td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/Dstack-TEE/dstack">dstack</a></td>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/IBM/federated-learning-lib">IBM Federated Learning</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2007.10987.pdf">IBM Federated Learning: an Enterprise Framework White Paper</a></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://ibmfl.mybluemix.net/">IBM</a></td>
