@@ -10,6 +10,7 @@ This repository aims to keep tracking the latest research advancements of federa
 
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for federated learning workflow orchestration, automated distributed training management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
  - [Top Machine Learning Conferences](#top-machine-learning-conferences)
