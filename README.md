@@ -3941,7 +3941,12 @@ From Economic and Game Theoretic Perspective</a></td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=8 height=152 class=xl6519452 style='height:85.5pt' align="center">Communication-Based</td>
+		<td rowspan=9 height=171 class=xl6519452 style='height:99.75pt' align="center">Communication-Based</td>
+      	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://doi.org/10.1109/JIOT.2024.3468511">Speed Up Federated Learning in Heterogeneous Environments: A Dynamic Tiering Approach</a></td>
+          <td class=xl6519452 align="center"><font size="2">Tiering & Efficiency</font></td>
+          <td class=xl6519452 align="center"><a href="https://arxiv.org/abs/2312.05642">[arXiv]</a></td>
+      </tr>
+  	<tr height=19 style='height:14.25pt'>
     	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1909.07588.pdf">Communication-Efficient Distributed Learning via Lazily Aggregated Quantized Gradients</a></td>
         <td class=xl6519452 align="center"><font size="2">Quantization</font></td>
         <td class=xl6519452 align="center"></td>
