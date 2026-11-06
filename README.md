@@ -5216,6 +5216,11 @@ Developing a federated learning framework from scratch is very time-consuming, e
     	<td class=xl6619452 width=815 style='width:611pt' align="center"></td>
 		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://fedtree.readthedocs.io/en/latest/index.html">National University of Singapore</a></td>
 	</tr>	
+	<tr height=19 style='height:14.25pt'>
+    	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace">FRACTAL</a></td>
+    	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/Fractal-Compute-Orchestrations/FractalCore">A decentralized framework for federated learning and training models directly on Android and edge devices</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://github.com/Fractal-Compute-Orchestrations">Fractal-Compute-Orchestrations</a></td>
+	</tr>	
 </table>
 
 
